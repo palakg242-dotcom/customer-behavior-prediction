@@ -1,0 +1,34 @@
+{
+  "raw": {
+    "null_rates": {
+      "invoice": 0.0,
+      "stock_code": 0.0,
+      "description": 0.0041054141437232225,
+      "quantity": 0.0,
+      "invoice_date": 0.0,
+      "price": 0.0,
+      "customer_id": 0.22766872999172733,
+      "country": 0.0
+    },
+    "date_min": "2009-12-01 07:45:00",
+    "date_max": "2011-12-09 12:50:00"
+  },
+  "cleaning": {
+    "rows_in": 1067371,
+    "exact_duplicates_removed": 34335,
+    "non_positive_price_removed": 6019,
+    "data_entry_errors_removed": 70,
+    "rows_out": 1026947,
+    "rows_without_customer_id": 229162,
+    "return_lines": 19058,
+    "non_product_lines": 5702,
+    "bulk_quantity_flagged": 53054,
+    "high_price_flagged": 66130,
+    "quantity_upper_fence": 28.5,
+    "price_upper_fence": 8.5
+  },
+  "customers": 5256,
+  "churn_rate": 0.5648782343987824,
+  "cutoff_date": "2011-09-10",
+  "horizon_days": 90
+}
