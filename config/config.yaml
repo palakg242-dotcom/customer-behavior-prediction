@@ -1,0 +1,52 @@
+# Central configuration. No paths, thresholds or hyperparameters are hard-coded in scripts.
+seed: 42
+
+paths:
+  raw_excel: data/raw/online_retail_II.xlsx
+  interim_transactions: data/interim/transactions_clean.csv.gz
+  processed_features: data/processed/customer_features.csv
+  pipeline_report: data/processed/pipeline_report.json
+  artifacts_dir: models_artifacts
+
+data:
+  ucimlrepo_id: 502           # Online Retail II (fallback when the Excel file is missing)
+
+validation:
+  required_columns: [invoice, stock_code, description, quantity, invoice_date, price, customer_id, country]
+  max_null_rate:              # fail loudly if a column has more missing values than this
+    invoice: 0.0
+    stock_code: 0.0
+    quantity: 0.0
+    invoice_date: 0.0
+    price: 0.0
+    country: 0.0
+    description: 0.02
+    customer_id: 0.30
+  date_min: "2009-12-01"
+  date_max: "2011-12-10"
+
+cleaning:
+  max_quantity_abs: 10000     # |quantity| above this is treated as a data-entry error and dropped
+  max_price: 5000             # unit price above this is treated as a manual/entry error and dropped
+  iqr_multiplier: 1.5         # IQR fences used to FLAG (not drop) bulk quantities / high prices
+  non_product_codes: [POST, D, DOT, M, BANK CHARGES, PADS, CRUK, C2, AMAZONFEE, S, B, TEST001, TEST002, ADJUST, ADJUST2]
+  non_product_prefixes: [GIFT_]
+
+features:
+  cutoff_date: "2011-09-10"   # features use ONLY data strictly before this date
+  horizon_days: 90            # churn label window: [cutoff, cutoff + 90 days)
+  discount_threshold: 0.9     # unit price below 90% of the product's median price counts as discounted
+  top_countries: 5            # one-hot encode the top-N countries, the rest become "Other"
+  categories:                 # keyword-based product categories (the dataset has no category field)
+    christmas: [CHRISTMAS, XMAS, SANTA, REINDEER, ADVENT, SNOW, SNOWMAN]
+    lighting_candles: [CANDLE, LIGHT, LANTERN, TEALIGHT, LAMP, HOLDER]
+    bags_storage: [BAG, BOX, TIN, BASKET, JAR, CASE, TRUNK]
+    kitchen_dining: [MUG, CUP, PLATE, BOWL, TEAPOT, CAKE, SPOON, KITCHEN, JUG, GLASS, TEA, COFFEE]
+    home_decor: [FRAME, CLOCK, SIGN, MIRROR, CUSHION, HEART, DECORATION, WALL, DOORMAT, VINTAGE]
+    stationery_cards: [CARD, WRAP, PAPER, NOTEBOOK, PENCIL, PEN, STICKER, RIBBON, BOOK]
+    toys_games: [TOY, GAME, DOLL, PUZZLE, BALLOON, PLAYHOUSE]
+    garden_outdoor: [GARDEN, BIRD, PLANT, FLOWER, WATERING]
+    jewellery_accessories: [NECKLACE, BRACELET, EARRING, JEWEL, BEAD]
+
+logging:
+  level: INFO
