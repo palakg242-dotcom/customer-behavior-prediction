@@ -41,7 +41,7 @@ This loads and validates the raw data, cleans it, builds the customer feature ta
 | File | Content |
 |---|---|
 | `data/interim/transactions_clean.csv.gz` | Cleaned transaction lines with flags (not committed) |
-| `data/processed/customer_features.csv` | One row per customer: 13 base features, 9 category shares (the "other" share is left out as the reference category because shares sum to 1), 2 targets |
+| `data/processed/customer_features.csv` | One row per customer: 14 base features, 9 category shares (the "other" share is left out as the reference category because shares sum to 1), 3 targets (`churn_90d`, `clv_target`, `next_category`) |
 | `data/processed/pipeline_report.json` | Row counts for every cleaning rule, churn rate, cutoff date |
 
 Loading the Excel file takes a few minutes (about 1 minute on the development laptop for the
@@ -51,6 +51,12 @@ whole pipeline after the file is read). Tests and code style:
 python -m pytest --cov=src
 ruff check src tests
 black src tests
+```
+
+Coverage on the source package (PRD target: at least 70%):
+
+```powershell
+python -m pytest --cov=src --cov-report=term-missing
 ```
 
 Notebooks (run the pipeline first): `notebooks/01_eda.ipynb` (EDA, correlations, VIF, hypotheses) and
@@ -114,7 +120,10 @@ The PRD leaves several definitions open. These are the choices made, all configu
 | Product category | The data has no category field, so categories come from description keywords (`config.yaml`) |
 | Discount sensitivity | The data has no discount field, so the proxy is the share of units bought below 90% of the product's median price |
 | Seasonal concentration | Herfindahl index of a customer's spend over calendar months |
-| Scaling and encoding | `FeaturePreprocessor` fits a one-hot Country encoder and a StandardScaler on training data only and can be saved to `models_artifacts/` |
+| Scaling and encoding | `FeaturePreprocessor` fits a one-hot Country encoder (top 5 countries plus "Other") and a StandardScaler on training data only and can be saved to `models_artifacts/`. Tree models use the unscaled matrix (`scale=False`) |
+| High-cardinality encoding | `FrequencyEncoder` turns StockCode into its relative frequency; the feature `product_popularity` is the mean frequency of the products a customer bought |
+| Next purchase category | `next_category` is the category with the highest spend in the label window (missing for customers who did not buy). It is a target, not a model input |
+| Random seed | Fixed seed 42 in `config.yaml`. Week 1 contains no random steps, so it is first used for the train/test split in Week 2 |
 
 ## Differences from the PRD
 
