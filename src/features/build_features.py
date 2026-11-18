@@ -11,6 +11,8 @@ import re
 import numpy as np
 import pandas as pd
 
+from src.features.preprocess import FrequencyEncoder
+
 BASE_FEATURES: list[str] = [
     "recency_days",
     "frequency",
@@ -25,8 +27,10 @@ BASE_FEATURES: list[str] = [
     "return_rate",
     "discount_sensitivity",
     "engagement_score",
+    "product_popularity",
 ]
 TARGET_COLUMNS: list[str] = ["churn_90d", "clv_target"]
+NEXT_CATEGORY_COLUMN = "next_category"  # categorical target, kept out of the numeric target list
 
 
 def feature_columns(categories: dict[str, list[str]]) -> list[str]:
@@ -76,7 +80,9 @@ def build_customer_features(
 ) -> pd.DataFrame:
     """Build one row per customer with features (before cutoff) and targets (after cutoff).
 
-    Only customers with at least one purchase before the cutoff are included.
+    Only customers with at least one purchase before the cutoff are included. The extra column
+    ``next_category`` is the category with the highest spend in the label window (missing for
+    customers who did not buy).
     """
     cutoff_ts = pd.Timestamp(cutoff)
     horizon_end = cutoff_ts + pd.Timedelta(days=horizon_days)
@@ -144,6 +150,11 @@ def build_customer_features(
     discounted = sales["quantity"].where(sales["price"] < discount_threshold * median_price, 0)
     feats["discount_sensitivity"] = discounted.groupby(sales["customer_id"]).sum() / sold_qty
 
+    # Frequency encoding of the high-cardinality StockCode: how mainstream are the products bought
+    pairs = sales.drop_duplicates(["customer_id", "stock_code"])
+    popularity = FrequencyEncoder().fit(pairs["stock_code"]).transform(pairs["stock_code"])
+    feats["product_popularity"] = popularity.groupby(pairs["customer_id"]).mean()
+
     feats["engagement_score"] = 100 * pd.concat(
         [
             feats["recency_days"].rank(pct=True, ascending=False),
@@ -158,5 +169,17 @@ def build_customer_features(
     future_orders = future_sales["invoice"].nunique().reindex(index).fillna(0)
     feats["churn_90d"] = (future_orders == 0).astype(int)
 
-    ordered = ["country", *feature_columns(categories), *TARGET_COLUMNS]
+    future_lines = future[future["quantity"] > 0].copy()
+    future_lines["category"] = _assign_categories(future_lines["description"], categories)
+    top_category = (
+        future_lines.groupby(["customer_id", "category"])["line_total"]
+        .sum()
+        .reset_index()
+        .sort_values(["customer_id", "line_total"], ascending=[True, False])
+        .drop_duplicates("customer_id")
+        .set_index("customer_id")["category"]
+    )
+    feats[NEXT_CATEGORY_COLUMN] = top_category.reindex(index)
+
+    ordered = ["country", *feature_columns(categories), *TARGET_COLUMNS, NEXT_CATEGORY_COLUMN]
     return feats[ordered].reset_index()

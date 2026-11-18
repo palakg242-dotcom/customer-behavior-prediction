@@ -8,12 +8,13 @@ import pytest
 
 from src.features.build_features import (
     BASE_FEATURES,
+    NEXT_CATEGORY_COLUMN,
     TARGET_COLUMNS,
     build_customer_features,
     category_of,
     feature_columns,
 )
-from src.features.preprocess import FeaturePreprocessor
+from src.features.preprocess import FeaturePreprocessor, FrequencyEncoder
 from tests.helpers import CATEGORIES, CUTOFF, HORIZON, hand_transactions
 
 
@@ -103,6 +104,7 @@ def test_purchases_after_the_window_do_not_change_the_label() -> None:
 def test_target_columns_are_not_model_inputs() -> None:
     inputs = feature_columns(CATEGORIES)
     assert not set(TARGET_COLUMNS) & set(inputs)
+    assert NEXT_CATEGORY_COLUMN not in inputs
     assert set(BASE_FEATURES) <= set(inputs)
 
 
@@ -136,3 +138,24 @@ def test_preprocessor_is_fit_on_train_only_and_handles_unseen_country() -> None:
     assert out.loc[0, "country_Other"] == 1.0
     assert list(out.columns) == ["x", "country_UK", "country_Other"]
     assert np.isfinite(out.to_numpy()).all()
+
+
+def test_product_popularity_uses_frequency_encoding_of_stock_codes() -> None:
+    """Pairs (customer, product): A1 once, A2 twice -> popularity 1/3 and 2/3."""
+    table = build(hand_transactions()).set_index("customer_id")
+    assert table.loc[1, "product_popularity"] == pytest.approx(0.5)  # mean of 1/3 and 2/3
+    assert table.loc[2, "product_popularity"] == pytest.approx(2 / 3)
+
+
+def test_next_category_target_comes_from_the_label_window() -> None:
+    table = build(hand_transactions()).set_index("customer_id")
+    assert table.loc[1, NEXT_CATEGORY_COLUMN] == "kitchen"  # bought a RED MUG after the cutoff
+    assert pd.isna(table.loc[2, NEXT_CATEGORY_COLUMN])  # churned: nothing bought
+
+
+def test_frequency_encoder_handles_unseen_categories() -> None:
+    enc = FrequencyEncoder().fit(pd.Series(["a", "a", "b", "c"]))
+    out = enc.transform(pd.Series(["a", "b", "z"]))
+    assert out.iloc[0] == pytest.approx(0.5)
+    assert out.iloc[1] == pytest.approx(0.25)
+    assert out.iloc[2] == pytest.approx(0.0)  # unseen category

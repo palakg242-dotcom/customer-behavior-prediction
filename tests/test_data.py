@@ -4,14 +4,18 @@ from __future__ import annotations
 
 import copy
 from pathlib import Path
+from unittest.mock import patch
 
+import numpy as np
 import pandas as pd
 import pytest
 
 from src.data.clean import clean_transactions, select_customer_lines
-from src.data.load import coerce_types, standardize_columns
+from src.data.load import coerce_types, load_raw_transactions, standardize_columns
 from src.data.validate import DataValidationError, validate_clean, validate_raw
-from src.pipeline import run_pipeline
+from src.features.analysis import target_correlations, vif_table
+from src.features.preprocess import FeaturePreprocessor
+from src.pipeline import check_label_window, run_pipeline
 from src.utils.config import load_config
 from tests.helpers import messy_raw, synthetic_raw
 
@@ -84,4 +88,54 @@ def test_pipeline_end_to_end_on_synthetic_data(tmp_path: Path) -> None:
     assert report["customers"] == len(features) > 50
     assert features["customer_id"].is_unique
     assert features["churn_90d"].isin([0, 1]).all()
-    assert features.drop(columns=["country"]).notna().all().all()
+    assert features.drop(columns=["country", "next_category"]).notna().all().all()
+
+
+def test_validate_clean_fails_on_bad_rows() -> None:
+    cleaned, _ = clean_transactions(messy_raw(), load_config())
+    broken = cleaned.copy()
+    broken.loc[0, "price"] = -1.0
+    with pytest.raises(DataValidationError):
+        validate_clean(broken)
+    with pytest.raises(DataValidationError):
+        validate_clean(cleaned.drop(columns=["line_total"]))
+
+
+def test_label_window_must_fit_inside_the_data() -> None:
+    cleaned, _ = clean_transactions(messy_raw(), load_config())  # data ends in January 2011
+    check_label_window(cleaned, "2010-12-01", 30)  # fits: no error
+    with pytest.raises(DataValidationError):
+        check_label_window(cleaned, "2011-06-01", 90)
+
+
+def test_missing_dataset_gives_a_helpful_error() -> None:
+    cfg = copy.deepcopy(load_config())
+    cfg["paths"]["raw_excel"] = "data/raw/does_not_exist.xlsx"
+    with (
+        patch("src.data.load._read_ucimlrepo", side_effect=RuntimeError("not available")),
+        pytest.raises(FileNotFoundError),
+    ):
+        load_raw_transactions(cfg)
+
+
+def test_vif_detects_collinearity_and_correlations_have_the_right_shape() -> None:
+    rng = np.random.default_rng(0)
+    x = rng.normal(size=300)
+    df = pd.DataFrame(
+        {"a": x, "b": x * 2 + rng.normal(scale=0.01, size=300), "c": rng.normal(size=300)}
+    )
+    df["target"] = x + rng.normal(size=300)
+    vif = vif_table(df, ["a", "b", "c"]).set_index("feature")["vif"]
+    assert vif["a"] > 100 and vif["b"] > 100 and vif["c"] < 2
+    corr = target_correlations(df, ["a", "c"], ["target"])
+    assert corr.shape == (2, 1)
+
+
+def test_preprocessor_can_be_saved_and_loaded(tmp_path: Path) -> None:
+    train = pd.DataFrame({"x": [1.0, 2.0, 3.0], "country": ["UK", "UK", "France"]})
+    prep = FeaturePreprocessor(["x"], top_countries=2).fit(train)
+    prep.save(tmp_path / "prep.joblib")
+    loaded = FeaturePreprocessor.load(tmp_path / "prep.joblib")
+    pd.testing.assert_frame_equal(prep.transform(train), loaded.transform(train))
+    unscaled = loaded.transform(train, scale=False)
+    assert unscaled["x"].tolist() == [1.0, 2.0, 3.0]  # tree models get raw values

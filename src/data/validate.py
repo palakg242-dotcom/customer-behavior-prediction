@@ -23,8 +23,10 @@ def validate_raw(df: pd.DataFrame, cfg: dict[str, Any]) -> dict[str, Any]:
 
     missing = [c for c in rules["required_columns"] if c not in df.columns]
     if missing:
+        logger.error("stage=validate_raw status=failed missing_columns=%s", missing)
         raise DataValidationError(f"Missing required columns: {missing}")
     if df.empty:
+        logger.error("stage=validate_raw status=failed reason=empty_dataset")
         raise DataValidationError("The dataset is empty.")
 
     null_rates = {c: float(df[c].isna().mean()) for c in rules["required_columns"]}
@@ -41,6 +43,7 @@ def validate_raw(df: pd.DataFrame, cfg: dict[str, Any]) -> dict[str, Any]:
         errors.append(f"dates {low} to {high} outside [{rules['date_min']}, {rules['date_max']}]")
 
     if errors:
+        logger.error("stage=validate_raw status=failed errors=%s", errors)
         raise DataValidationError("Raw data validation failed: " + "; ".join(errors))
     logger.info("stage=validate_raw status=ok rows=%d", len(df))
     return {"null_rates": null_rates, "date_min": str(low), "date_max": str(high)}
@@ -52,6 +55,7 @@ def validate_clean(df: pd.DataFrame) -> None:
     needed = ["has_customer", "is_non_product", "is_cancellation", "line_total"]
     missing = [c for c in needed if c not in df.columns]
     if missing:
+        logger.error("stage=validate_clean status=failed missing_columns=%s", missing)
         raise DataValidationError(f"Cleaned table lacks columns: {missing}")
     if (df["price"] <= 0).any():
         errors.append("rows with price <= 0 remain")
@@ -60,5 +64,6 @@ def validate_clean(df: pd.DataFrame) -> None:
     if df["invoice_date"].isna().any():
         errors.append("invoice_date contains missing values")
     if errors:
+        logger.error("stage=validate_clean status=failed errors=%s", errors)
         raise DataValidationError("Clean data validation failed: " + "; ".join(errors))
     logger.info("stage=validate_clean status=ok rows=%d", len(df))

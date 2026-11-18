@@ -50,3 +50,23 @@ class FeaturePreprocessor:
         """Load a persisted preprocessor."""
         loaded: FeaturePreprocessor = joblib.load(path)
         return loaded
+
+
+class FrequencyEncoder:
+    """Replace a high-cardinality category (for example StockCode) by its relative frequency.
+
+    Fit on history only; categories never seen during fitting get ``unknown_value``.
+    """
+
+    def __init__(self, unknown_value: float = 0.0) -> None:
+        self.unknown_value = unknown_value
+        self.frequencies_: pd.Series = pd.Series(dtype=float)
+
+    def fit(self, values: pd.Series) -> FrequencyEncoder:
+        """Learn the relative frequency of every category."""
+        self.frequencies_ = values.value_counts(normalize=True)
+        return self
+
+    def transform(self, values: pd.Series) -> pd.Series:
+        """Return the frequency of each value (same index as the input)."""
+        return values.map(self.frequencies_).fillna(self.unknown_value).astype(float)
