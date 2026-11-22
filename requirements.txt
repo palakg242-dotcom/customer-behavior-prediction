@@ -59,3 +59,4 @@ typing-extensions==4.16.0
 tzdata==2026.6
 ucimlrepo==0.0.7
 wcwidth==0.9.4
+xgboost==3.4.1
