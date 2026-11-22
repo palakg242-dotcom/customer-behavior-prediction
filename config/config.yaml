@@ -50,3 +50,13 @@ features:
 
 logging:
   level: INFO
+
+modeling:
+  seed: 42
+  val_size: 0.15
+  test_size: 0.15
+  churn_target: churn_90d
+  clv_target: clv_target
+  features_path: data/processed/customer_features.csv
+  experiment_log: models_artifacts/experiment_log.csv
+  recent_recency_days: 180

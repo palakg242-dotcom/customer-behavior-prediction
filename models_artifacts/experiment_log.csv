@@ -1,0 +1,5 @@
+timestamp,model,split,subset,accuracy,precision,recall,f1,roc_auc,tn,fp,fn,tp,train_seconds,params
+2026-11-22T10:43:12+00:00,logistic_regression,validation,all,0.725,0.7813,0.713,0.7456,0.7965,254,89,128,318,0.01,class_weight=balanced
+2026-11-22T10:43:12+00:00,logistic_regression,validation,recency<=180,0.7094,0.7612,0.329,0.4595,0.7584,242,16,104,51,0.01,class_weight=balanced
+2026-11-22T10:43:12+00:00,decision_tree,validation,all,0.7364,0.778,0.7466,0.762,0.7928,248,95,113,333,0.02,"max_depth=5,min_samples_leaf=20"
+2026-11-22T10:43:12+00:00,decision_tree,validation,recency<=180,0.7264,0.7059,0.4645,0.5603,0.7771,228,30,83,72,0.02,"max_depth=5,min_samples_leaf=20"
