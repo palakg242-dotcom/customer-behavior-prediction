@@ -1,0 +1,9 @@
+timestamp,model,split,subset,scale,mae,rmse,r2,train_seconds,params
+2026-11-22T11:17:34+00:00,ridge,validation,all,log,2.2214,2.6243,0.3327,0.01,alphas=0.1..100
+2026-11-22T11:17:34+00:00,ridge,validation,all,original,458.7116,1777.0851,0.3257,0.01,alphas=0.1..100
+2026-11-22T11:17:34+00:00,ridge,validation,recency<=180,log,2.4287,2.7182,0.2955,0.01,alphas=0.1..100
+2026-11-22T11:17:34+00:00,ridge,validation,recency<=180,original,743.828,2411.7627,0.3123,0.01,alphas=0.1..100
+2026-11-22T11:17:34+00:00,random_forest_reg,validation,all,log,2.1516,2.565,0.3625,34.95,"{""cv_r2_log"": 0.3337, ""n_estimators"": 200, ""min_samples_leaf"": 20, ""max_features"": 0.5, ""max_depth"": 8}"
+2026-11-22T11:17:34+00:00,random_forest_reg,validation,all,original,446.5363,1841.7235,0.2757,34.95,"{""cv_r2_log"": 0.3337, ""n_estimators"": 200, ""min_samples_leaf"": 20, ""max_features"": 0.5, ""max_depth"": 8}"
+2026-11-22T11:17:34+00:00,random_forest_reg,validation,recency<=180,log,2.3285,2.6525,0.3292,34.95,"{""cv_r2_log"": 0.3337, ""n_estimators"": 200, ""min_samples_leaf"": 20, ""max_features"": 0.5, ""max_depth"": 8}"
+2026-11-22T11:17:34+00:00,random_forest_reg,validation,recency<=180,original,721.2009,2502.6244,0.2595,34.95,"{""cv_r2_log"": 0.3337, ""n_estimators"": 200, ""min_samples_leaf"": 20, ""max_features"": 0.5, ""max_depth"": 8}"
