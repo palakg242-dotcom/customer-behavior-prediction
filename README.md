@@ -151,3 +151,59 @@ pytest settings). `.gitkeep` files keep empty PRD folders in Git.
   restricted to customers active in the last 180 days before the cutoff.
 - Keyword-based categories and the price-based discount proxy are approximations.
 - Duplicate removal may drop a few genuine repeated lines.
+ 
+ ## Week 2: Models and segmentation
+
+Split: stratified 70/15/15 (seed 42). Hyperparameters tuned with 5-fold CV on the training split. Models compared on the validation split; the test split was used once, for the two selected models.
+
+### Churn models (validation, all customers)
+
+| Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
+| --- | --- | --- | --- | --- | --- |
+| XGBoost | 0.736 | 0.712 | 0.897 | 0.794 | 0.814 |
+| Random Forest | 0.749 | 0.787 | 0.762 | 0.774 | 0.813 |
+| LightGBM | 0.752 | 0.753 | 0.834 | 0.791 | 0.807 |
+| Logistic Regression | 0.725 | 0.781 | 0.713 | 0.746 | 0.796 |
+| Decision Tree | 0.736 | 0.778 | 0.747 | 0.762 | 0.793 |
+| KNN | 0.730 | 0.742 | 0.800 | 0.770 | 0.782 |
+
+Selection rule (fixed before looking at the test split): highest validation ROC-AUC; models within 0.005 AUC are tied, and the tie is broken by recall on recently active customers (recency <= 180 days). XGBoost and Random Forest were tied; XGBoost had the better recent-customer recall (0.716 vs 0.445).
+
+### Final test results (789 customers, used once)
+
+| Model | Subset | Precision | Recall | ROC-AUC |
+| --- | --- | --- | --- | --- |
+| XGBoost (churn) | all customers | 0.721 | 0.906 | 0.804 |
+| XGBoost (churn) | recency <= 180 | 0.617 | 0.748 | 0.802 |
+
+CLV (two-stage model, original scale, all customers): R-squared 0.134, MAE 690, RMSE 5,766.
+
+| PRD target | Result |
+| --- | --- |
+| Churn ROC-AUC >= 0.80 | Met (0.804, a thin margin) |
+| Churn recall >= 0.70 | Met (0.906) |
+| CLV R-squared >= 0.60 | Not met (0.134) |
+
+### CLV
+
+About 56% of customers have a CLV target of 0. A single regressor reached R-squared 0.33 on validation (original scale). A two-stage model (P(active) from the churn model x expected spend of active customers) reached 0.42 on validation but only 0.134 on the test split, where a few very large customers dominate the error (RMSE 5,766 vs MAE 690). The target of 0.60 was not reached.
+
+### Segments
+
+One-time buyers are split by recency; repeat customers are clustered with K-Means (k=3, silhouette 0.34). A Gaussian Mixture Model was the second algorithm and was not preferred (BIC kept falling; silhouette 0.03).
+
+| Segment | Customers | Churn rate | Mean CLV |
+| --- | --- | --- | --- |
+| Lapsed low-value | 2,154 | 61% | 216 |
+| Loyal high-value | 1,485 | 25% | 1,457 |
+| One-time buyer (lapsed) | 1,179 | 85% | 73 |
+| One-time buyer (recent) | 396 | 64% | 201 |
+| High-return buyer | 42 | 64% | 298 |
+
+### Limitations
+
+- One cutoff date (2011-09-10) and one 90-day window; no test across time periods.
+- Recall is lower for recently active customers in most models.
+- Recall is easy to reach when 56% of customers churn; precision should be read alongside it.
+- No clear seasonal segment was found in this data.
+- Next purchase category is in the feature table but is not modeled.

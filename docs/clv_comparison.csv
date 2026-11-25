@@ -1,0 +1,13 @@
+model,subset,scale,mae,rmse,r2
+ridge,all,log,2.221,2.624,0.333
+ridge,all,original,458.712,1777.085,0.326
+ridge,recency<=180,log,2.429,2.718,0.296
+ridge,recency<=180,original,743.828,2411.763,0.312
+random_forest_reg,all,log,2.152,2.565,0.363
+random_forest_reg,all,original,446.536,1841.723,0.276
+random_forest_reg,recency<=180,log,2.328,2.653,0.329
+random_forest_reg,recency<=180,original,721.201,2502.624,0.26
+two_stage,all,log,3.072,3.671,-0.305
+two_stage,all,original,438.141,1651.089,0.418
+two_stage,recency<=180,log,2.426,3.251,-0.008
+two_stage,recency<=180,original,658.947,2243.103,0.405
