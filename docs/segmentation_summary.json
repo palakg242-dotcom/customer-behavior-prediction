@@ -1,0 +1,15 @@
+{
+  "one_time_buyers": 1575,
+  "repeat_customers": 3681,
+  "kmeans": {
+    "k": 3,
+    "silhouette": 0.3382,
+    "davies_bouldin": 0.9897
+  },
+  "gmm": {
+    "components": 8,
+    "silhouette": 0.0348,
+    "davies_bouldin": 2.6244
+  },
+  "agreement_adjusted_rand_index": 0.2028
+}

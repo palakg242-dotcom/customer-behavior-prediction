@@ -1,0 +1,6 @@
+segment_name,customers,share,recency_days,frequency,monetary_total,monetary_avg,return_rate,seasonal_concentration,churn_rate,mean_clv_target
+Lapsed low-value,2154,0.41,196.0,3.0,738.74,233.96,0.0,0.5,0.614,216.3
+Loyal high-value,1485,0.283,36.0,10.0,3494.1,364.87,0.0,0.19,0.247,1457.1
+One-time buyer (lapsed),1179,0.224,372.0,1.0,228.96,228.96,0.0,1.0,0.847,73.1
+One-time buyer (recent),396,0.075,81.0,1.0,241.92,241.92,0.0,1.0,0.639,201.4
+High-return buyer,42,0.008,177.5,4.0,930.34,248.74,0.45,0.58,0.643,298.2

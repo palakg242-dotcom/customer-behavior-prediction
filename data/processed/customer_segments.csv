@@ -1,0 +1,5257 @@
+customer_id,segment_name,gmm_cluster
+12346,Lapsed low-value,3
+12347,Loyal high-value,7
+12348,Lapsed low-value,7
+12349,Lapsed low-value,0
+12350,One-time buyer (lapsed),
+12351,One-time buyer (lapsed),
+12352,Lapsed low-value,4
+12353,Lapsed low-value,3
+12354,One-time buyer (recent),
+12355,Lapsed low-value,6
+12356,Loyal high-value,7
+12357,One-time buyer (lapsed),
+12358,Loyal high-value,7
+12359,Loyal high-value,4
+12360,Loyal high-value,7
+12361,Lapsed low-value,7
+12362,Loyal high-value,0
+12363,Lapsed low-value,3
+12364,One-time buyer (recent),
+12365,One-time buyer (lapsed),
+12366,One-time buyer (lapsed),
+12368,One-time buyer (lapsed),
+12369,Lapsed low-value,3
+12370,Loyal high-value,7
+12371,Lapsed low-value,3
+12372,Lapsed low-value,3
+12373,Lapsed low-value,3
+12374,Lapsed low-value,3
+12375,One-time buyer (recent),
+12376,Lapsed low-value,3
+12377,Loyal high-value,7
+12378,Loyal high-value,3
+12379,Lapsed low-value,0
+12380,Loyal high-value,1
+12381,One-time buyer (recent),
+12383,Lapsed low-value,1
+12384,One-time buyer (recent),
+12385,One-time buyer (lapsed),
+12386,Lapsed low-value,3
+12387,One-time buyer (lapsed),
+12388,Loyal high-value,7
+12389,Lapsed low-value,3
+12391,Lapsed low-value,1
+12392,One-time buyer (lapsed),
+12393,Lapsed low-value,1
+12394,One-time buyer (recent),
+12395,Loyal high-value,5
+12396,One-time buyer (lapsed),
+12397,One-time buyer (recent),
+12399,Loyal high-value,1
+12400,One-time buyer (lapsed),
+12401,One-time buyer (lapsed),
+12402,Lapsed low-value,1
+12403,One-time buyer (lapsed),
+12405,One-time buyer (recent),
+12406,Loyal high-value,0
+12407,Lapsed low-value,7
+12408,Loyal high-value,1
+12409,Loyal high-value,1
+12410,Lapsed low-value,0
+12411,One-time buyer (lapsed),
+12412,Loyal high-value,1
+12413,Lapsed low-value,0
+12414,High-return buyer,4
+12415,Loyal high-value,2
+12416,One-time buyer (lapsed),
+12417,Loyal high-value,2
+12418,Loyal high-value,0
+12419,Lapsed low-value,3
+12421,Lapsed low-value,1
+12422,Loyal high-value,5
+12423,Loyal high-value,5
+12424,Loyal high-value,0
+12425,One-time buyer (lapsed),
+12426,Lapsed low-value,0
+12427,One-time buyer (lapsed),
+12428,Loyal high-value,4
+12429,Loyal high-value,1
+12431,Loyal high-value,2
+12432,Lapsed low-value,6
+12433,Loyal high-value,7
+12434,Lapsed low-value,0
+12435,Loyal high-value,7
+12436,One-time buyer (recent),
+12437,Loyal high-value,2
+12438,One-time buyer (recent),
+12439,Lapsed low-value,0
+12440,Lapsed low-value,0
+12441,One-time buyer (lapsed),
+12443,One-time buyer (lapsed),
+12444,Lapsed low-value,3
+12445,One-time buyer (lapsed),
+12447,One-time buyer (recent),
+12449,Loyal high-value,7
+12450,Lapsed low-value,1
+12451,Loyal high-value,1
+12453,One-time buyer (recent),
+12454,High-return buyer,4
+12455,Loyal high-value,1
+12456,Lapsed low-value,0
+12457,Lapsed low-value,4
+12458,Lapsed low-value,3
+12459,One-time buyer (lapsed),
+12460,One-time buyer (lapsed),
+12461,One-time buyer (recent),
+12462,One-time buyer (lapsed),
+12463,Lapsed low-value,0
+12464,Lapsed low-value,7
+12465,One-time buyer (recent),
+12467,One-time buyer (lapsed),
+12468,Loyal high-value,1
+12469,Lapsed low-value,3
+12470,One-time buyer (lapsed),
+12471,Loyal high-value,2
+12472,Loyal high-value,2
+12473,Lapsed low-value,0
+12474,Loyal high-value,2
+12475,One-time buyer (lapsed),
+12476,Loyal high-value,5
+12477,Loyal high-value,1
+12480,Loyal high-value,1
+12481,Loyal high-value,5
+12482,Loyal high-value,4
+12483,Loyal high-value,5
+12484,Loyal high-value,1
+12485,One-time buyer (lapsed),
+12486,One-time buyer (lapsed),
+12487,One-time buyer (lapsed),
+12489,One-time buyer (lapsed),
+12490,Loyal high-value,5
+12492,Lapsed low-value,3
+12493,Lapsed low-value,0
+12494,Lapsed low-value,1
+12495,One-time buyer (lapsed),
+12496,Lapsed low-value,4
+12497,Lapsed low-value,3
+12499,One-time buyer (lapsed),
+12500,Loyal high-value,5
+12501,One-time buyer (lapsed),
+12502,Loyal high-value,7
+12503,One-time buyer (lapsed),
+12504,Lapsed low-value,3
+12505,One-time buyer (lapsed),
+12506,One-time buyer (recent),
+12507,Lapsed low-value,0
+12509,One-time buyer (lapsed),
+12510,Loyal high-value,1
+12511,One-time buyer (lapsed),
+12513,One-time buyer (recent),
+12514,Lapsed low-value,6
+12515,One-time buyer (lapsed),
+12516,Lapsed low-value,3
+12517,Lapsed low-value,3
+12518,One-time buyer (recent),
+12519,One-time buyer (lapsed),
+12520,Lapsed low-value,0
+12521,One-time buyer (recent),
+12523,Loyal high-value,2
+12524,Loyal high-value,5
+12525,Lapsed low-value,0
+12526,One-time buyer (recent),
+12527,Lapsed low-value,7
+12528,Lapsed low-value,0
+12529,One-time buyer (lapsed),
+12530,Loyal high-value,5
+12531,One-time buyer (lapsed),
+12533,Lapsed low-value,4
+12534,One-time buyer (recent),
+12535,Lapsed low-value,3
+12537,One-time buyer (lapsed),
+12538,One-time buyer (lapsed),
+12539,Loyal high-value,7
+12540,Loyal high-value,2
+12541,Lapsed low-value,3
+12542,Lapsed low-value,0
+12543,One-time buyer (lapsed),
+12545,One-time buyer (recent),
+12547,Lapsed low-value,3
+12548,One-time buyer (recent),
+12549,Lapsed low-value,7
+12551,One-time buyer (lapsed),
+12553,Loyal high-value,5
+12554,One-time buyer (lapsed),
+12556,One-time buyer (recent),
+12557,Loyal high-value,1
+12559,Lapsed low-value,0
+12560,One-time buyer (recent),
+12561,One-time buyer (lapsed),
+12562,Loyal high-value,7
+12563,One-time buyer (lapsed),
+12564,One-time buyer (recent),
+12565,One-time buyer (lapsed),
+12567,Loyal high-value,2
+12568,One-time buyer (lapsed),
+12569,Loyal high-value,5
+12571,One-time buyer (recent),
+12573,Lapsed low-value,7
+12574,One-time buyer (lapsed),
+12575,Lapsed low-value,3
+12576,Loyal high-value,1
+12577,Lapsed low-value,7
+12578,Lapsed low-value,0
+12580,Lapsed low-value,3
+12582,Lapsed low-value,7
+12583,Loyal high-value,2
+12584,Lapsed low-value,4
+12585,Lapsed low-value,0
+12586,Lapsed low-value,0
+12588,Lapsed low-value,0
+12589,Loyal high-value,4
+12590,One-time buyer (recent),
+12591,Lapsed low-value,3
+12592,Loyal high-value,7
+12593,Lapsed low-value,3
+12594,Loyal high-value,5
+12595,One-time buyer (lapsed),
+12596,One-time buyer (recent),
+12597,Lapsed low-value,3
+12598,Loyal high-value,1
+12599,Loyal high-value,5
+12600,Loyal high-value,2
+12601,Lapsed low-value,1
+12604,One-time buyer (recent),
+12605,Lapsed low-value,0
+12608,One-time buyer (lapsed),
+12609,Loyal high-value,1
+12610,Lapsed low-value,0
+12613,Loyal high-value,1
+12614,One-time buyer (lapsed),
+12615,Loyal high-value,1
+12616,Loyal high-value,0
+12619,Loyal high-value,7
+12620,One-time buyer (recent),
+12621,Loyal high-value,2
+12622,One-time buyer (recent),
+12623,Loyal high-value,1
+12624,Lapsed low-value,3
+12625,Loyal high-value,0
+12626,Loyal high-value,1
+12627,Loyal high-value,7
+12629,Lapsed low-value,3
+12631,Loyal high-value,1
+12632,Lapsed low-value,0
+12633,Loyal high-value,1
+12634,One-time buyer (lapsed),
+12635,Lapsed low-value,3
+12637,Loyal high-value,5
+12638,One-time buyer (lapsed),
+12639,Lapsed low-value,3
+12641,One-time buyer (recent),
+12642,One-time buyer (recent),
+12643,Loyal high-value,4
+12644,Loyal high-value,0
+12645,Loyal high-value,1
+12647,Loyal high-value,2
+12648,Lapsed low-value,0
+12649,Loyal high-value,5
+12651,Lapsed low-value,0
+12652,Lapsed low-value,0
+12653,Lapsed low-value,3
+12654,Lapsed low-value,3
+12655,One-time buyer (lapsed),
+12656,Loyal high-value,1
+12661,One-time buyer (lapsed),
+12662,Loyal high-value,5
+12663,Lapsed low-value,0
+12664,Loyal high-value,7
+12665,Lapsed low-value,0
+12666,One-time buyer (lapsed),
+12668,Loyal high-value,1
+12669,Lapsed low-value,3
+12670,Loyal high-value,7
+12671,One-time buyer (lapsed),
+12672,Lapsed low-value,0
+12673,Lapsed low-value,3
+12674,Loyal high-value,0
+12675,Lapsed low-value,0
+12676,Loyal high-value,1
+12677,Lapsed low-value,0
+12678,Loyal high-value,5
+12679,Lapsed low-value,0
+12680,One-time buyer (recent),
+12681,Loyal high-value,2
+12682,Loyal high-value,2
+12683,Loyal high-value,2
+12684,Lapsed low-value,3
+12685,Lapsed low-value,6
+12686,One-time buyer (lapsed),
+12687,One-time buyer (lapsed),
+12688,One-time buyer (recent),
+12689,One-time buyer (recent),
+12690,One-time buyer (recent),
+12691,Lapsed low-value,7
+12692,One-time buyer (lapsed),
+12693,Loyal high-value,1
+12694,Lapsed low-value,0
+12695,Loyal high-value,7
+12696,Lapsed low-value,3
+12697,Lapsed low-value,0
+12698,One-time buyer (lapsed),
+12699,One-time buyer (lapsed),
+12700,Lapsed low-value,3
+12701,Lapsed low-value,7
+12703,Lapsed low-value,4
+12704,Lapsed low-value,3
+12705,Loyal high-value,5
+12707,One-time buyer (lapsed),
+12708,Loyal high-value,5
+12709,Loyal high-value,2
+12710,Lapsed low-value,0
+12711,Lapsed low-value,3
+12712,Loyal high-value,2
+12714,Loyal high-value,5
+12715,One-time buyer (recent),
+12716,One-time buyer (recent),
+12717,Lapsed low-value,3
+12720,Loyal high-value,2
+12721,Loyal high-value,1
+12722,Lapsed low-value,0
+12724,Lapsed low-value,7
+12725,Lapsed low-value,3
+12726,Loyal high-value,5
+12727,Loyal high-value,5
+12728,Lapsed low-value,7
+12729,One-time buyer (recent),
+12730,One-time buyer (lapsed),
+12731,Loyal high-value,5
+12732,One-time buyer (recent),
+12733,Loyal high-value,0
+12734,Lapsed low-value,3
+12735,Lapsed low-value,6
+12736,One-time buyer (lapsed),
+12738,One-time buyer (lapsed),
+12739,Loyal high-value,3
+12741,One-time buyer (lapsed),
+12742,One-time buyer (lapsed),
+12743,Lapsed low-value,6
+12744,Loyal high-value,1
+12745,Lapsed low-value,3
+12746,One-time buyer (lapsed),
+12747,Loyal high-value,2
+12748,Loyal high-value,2
+12749,Loyal high-value,1
+12750,One-time buyer (recent),
+12751,One-time buyer (lapsed),
+12753,Loyal high-value,1
+12754,Lapsed low-value,0
+12755,High-return buyer,4
+12757,Lapsed low-value,0
+12758,Loyal high-value,1
+12759,Loyal high-value,1
+12760,One-time buyer (lapsed),
+12761,One-time buyer (lapsed),
+12763,Lapsed low-value,3
+12764,One-time buyer (lapsed),
+12765,Lapsed low-value,7
+12766,Loyal high-value,1
+12767,One-time buyer (lapsed),
+12768,One-time buyer (lapsed),
+12769,One-time buyer (recent),
+12770,Lapsed low-value,0
+12771,One-time buyer (lapsed),
+12773,One-time buyer (lapsed),
+12774,One-time buyer (lapsed),
+12775,Loyal high-value,1
+12776,One-time buyer (lapsed),
+12777,One-time buyer (lapsed),
+12778,Lapsed low-value,1
+12779,Loyal high-value,4
+12780,One-time buyer (lapsed),
+12781,One-time buyer (lapsed),
+12782,Loyal high-value,5
+12784,One-time buyer (lapsed),
+12785,Lapsed low-value,0
+12786,One-time buyer (lapsed),
+12787,Loyal high-value,3
+12788,Lapsed low-value,7
+12789,Lapsed low-value,3
+12790,Lapsed low-value,0
+12791,Lapsed low-value,7
+12792,Lapsed low-value,3
+12793,Lapsed low-value,3
+12794,One-time buyer (recent),
+12796,One-time buyer (lapsed),
+12797,Lapsed low-value,4
+12798,Lapsed low-value,3
+12799,One-time buyer (lapsed),
+12800,Lapsed low-value,3
+12801,One-time buyer (lapsed),
+12802,Loyal high-value,1
+12803,One-time buyer (lapsed),
+12804,Lapsed low-value,3
+12805,Lapsed low-value,7
+12806,Lapsed low-value,3
+12807,One-time buyer (lapsed),
+12808,Lapsed low-value,7
+12809,Lapsed low-value,0
+12810,Lapsed low-value,3
+12811,Lapsed low-value,7
+12813,Lapsed low-value,3
+12814,One-time buyer (recent),
+12815,Lapsed low-value,3
+12816,Lapsed low-value,3
+12817,Lapsed low-value,3
+12818,One-time buyer (recent),
+12819,One-time buyer (lapsed),
+12820,Loyal high-value,1
+12821,Lapsed low-value,3
+12823,Loyal high-value,5
+12825,Lapsed low-value,3
+12826,Loyal high-value,5
+12828,Lapsed low-value,3
+12829,Lapsed low-value,0
+12830,Loyal high-value,7
+12831,Lapsed low-value,3
+12832,One-time buyer (recent),
+12833,One-time buyer (recent),
+12834,One-time buyer (lapsed),
+12835,Loyal high-value,2
+12836,Loyal high-value,5
+12837,Lapsed low-value,3
+12838,Loyal high-value,5
+12839,Loyal high-value,2
+12840,Loyal high-value,1
+12841,Loyal high-value,2
+12842,Lapsed low-value,3
+12843,Loyal high-value,2
+12844,Lapsed low-value,3
+12845,Lapsed low-value,7
+12847,One-time buyer (lapsed),
+12848,One-time buyer (lapsed),
+12849,Loyal high-value,7
+12850,One-time buyer (lapsed),
+12851,Lapsed low-value,3
+12852,One-time buyer (lapsed),
+12853,Loyal high-value,5
+12854,Loyal high-value,1
+12855,Lapsed low-value,7
+12857,Loyal high-value,1
+12858,One-time buyer (lapsed),
+12859,One-time buyer (lapsed),
+12860,One-time buyer (lapsed),
+12861,One-time buyer (lapsed),
+12862,Lapsed low-value,3
+12863,Loyal high-value,1
+12864,Lapsed low-value,6
+12865,Lapsed low-value,0
+12866,Lapsed low-value,3
+12867,Loyal high-value,5
+12868,Loyal high-value,5
+12869,One-time buyer (lapsed),
+12870,Lapsed low-value,0
+12871,Lapsed low-value,3
+12872,Loyal high-value,5
+12873,Lapsed low-value,3
+12874,Lapsed low-value,0
+12875,Loyal high-value,7
+12876,Loyal high-value,0
+12877,Loyal high-value,5
+12878,Lapsed low-value,3
+12879,One-time buyer (recent),
+12880,Lapsed low-value,3
+12881,One-time buyer (lapsed),
+12885,One-time buyer (recent),
+12886,One-time buyer (recent),
+12887,One-time buyer (lapsed),
+12888,Lapsed low-value,4
+12889,Lapsed low-value,0
+12890,One-time buyer (lapsed),
+12891,Lapsed low-value,5
+12892,One-time buyer (lapsed),
+12894,One-time buyer (lapsed),
+12897,Lapsed low-value,7
+12898,Lapsed low-value,3
+12899,One-time buyer (lapsed),
+12900,One-time buyer (lapsed),
+12901,Loyal high-value,4
+12902,One-time buyer (recent),
+12903,One-time buyer (lapsed),
+12904,One-time buyer (recent),
+12905,Lapsed low-value,0
+12907,Lapsed low-value,0
+12908,Loyal high-value,4
+12909,Loyal high-value,1
+12910,Loyal high-value,5
+12911,One-time buyer (lapsed),
+12913,Loyal high-value,5
+12914,One-time buyer (lapsed),
+12915,Lapsed low-value,0
+12916,Loyal high-value,1
+12917,Loyal high-value,1
+12919,Lapsed low-value,0
+12920,Lapsed low-value,3
+12921,Loyal high-value,2
+12922,One-time buyer (recent),
+12923,Lapsed low-value,3
+12924,Loyal high-value,5
+12925,One-time buyer (lapsed),
+12926,Lapsed low-value,7
+12927,One-time buyer (lapsed),
+12928,Loyal high-value,5
+12929,One-time buyer (lapsed),
+12930,One-time buyer (recent),
+12931,Loyal high-value,4
+12932,Lapsed low-value,1
+12933,Lapsed low-value,1
+12934,One-time buyer (lapsed),
+12935,Loyal high-value,5
+12937,Loyal high-value,1
+12939,Loyal high-value,5
+12941,One-time buyer (lapsed),
+12942,Lapsed low-value,3
+12943,Lapsed low-value,0
+12944,One-time buyer (lapsed),
+12945,Lapsed low-value,6
+12946,One-time buyer (lapsed),
+12947,Loyal high-value,1
+12948,Loyal high-value,1
+12949,Loyal high-value,2
+12951,Loyal high-value,5
+12953,One-time buyer (lapsed),
+12954,One-time buyer (lapsed),
+12955,Loyal high-value,1
+12956,Lapsed low-value,7
+12957,Loyal high-value,5
+12958,Lapsed low-value,3
+12959,One-time buyer (lapsed),
+12960,Lapsed low-value,7
+12961,One-time buyer (lapsed),
+12962,One-time buyer (recent),
+12963,Lapsed low-value,1
+12964,One-time buyer (lapsed),
+12967,Lapsed low-value,0
+12968,One-time buyer (recent),
+12969,One-time buyer (lapsed),
+12970,Lapsed low-value,4
+12971,Loyal high-value,2
+12972,Lapsed low-value,0
+12973,One-time buyer (lapsed),
+12974,Lapsed low-value,6
+12975,Lapsed low-value,1
+12976,Loyal high-value,1
+12977,Lapsed low-value,7
+12978,Loyal high-value,1
+12979,One-time buyer (lapsed),
+12980,Loyal high-value,2
+12981,One-time buyer (recent),
+12982,Loyal high-value,1
+12983,One-time buyer (lapsed),
+12986,Loyal high-value,4
+12987,Lapsed low-value,0
+12988,One-time buyer (lapsed),
+12989,Loyal high-value,2
+12990,Lapsed low-value,7
+12991,Lapsed low-value,3
+12992,One-time buyer (lapsed),
+12993,Loyal high-value,4
+12994,Lapsed low-value,0
+12996,One-time buyer (lapsed),
+12997,Lapsed low-value,1
+12998,Lapsed low-value,0
+12999,Lapsed low-value,3
+13000,Lapsed low-value,0
+13001,Loyal high-value,2
+13002,Lapsed low-value,3
+13003,Lapsed low-value,3
+13004,Loyal high-value,2
+13005,Lapsed low-value,0
+13007,One-time buyer (lapsed),
+13008,Lapsed low-value,4
+13009,One-time buyer (lapsed),
+13010,Lapsed low-value,3
+13011,One-time buyer (lapsed),
+13012,Loyal high-value,4
+13013,Loyal high-value,2
+13014,Loyal high-value,1
+13015,Loyal high-value,5
+13016,One-time buyer (recent),
+13018,Loyal high-value,2
+13019,Lapsed low-value,1
+13020,Lapsed low-value,0
+13021,Loyal high-value,5
+13022,One-time buyer (lapsed),
+13023,Lapsed low-value,3
+13024,Lapsed low-value,0
+13025,One-time buyer (lapsed),
+13026,Loyal high-value,1
+13027,Loyal high-value,2
+13029,Lapsed low-value,7
+13030,One-time buyer (lapsed),
+13031,Loyal high-value,7
+13032,Lapsed low-value,1
+13033,Lapsed low-value,3
+13034,Lapsed low-value,3
+13035,Lapsed low-value,3
+13036,One-time buyer (lapsed),
+13037,Loyal high-value,5
+13038,Lapsed low-value,3
+13039,Lapsed low-value,7
+13041,Lapsed low-value,7
+13042,Lapsed low-value,0
+13043,One-time buyer (lapsed),
+13044,Loyal high-value,5
+13045,Lapsed low-value,3
+13046,Lapsed low-value,3
+13047,Loyal high-value,2
+13048,Loyal high-value,5
+13049,Lapsed low-value,0
+13050,Loyal high-value,2
+13051,Lapsed low-value,3
+13052,Loyal high-value,1
+13053,One-time buyer (lapsed),
+13055,Lapsed low-value,0
+13056,One-time buyer (lapsed),
+13057,Lapsed low-value,0
+13058,One-time buyer (recent),
+13059,Loyal high-value,5
+13060,One-time buyer (recent),
+13062,One-time buyer (recent),
+13063,One-time buyer (lapsed),
+13064,Lapsed low-value,7
+13065,Lapsed low-value,1
+13067,Lapsed low-value,3
+13068,One-time buyer (lapsed),
+13069,Loyal high-value,2
+13070,Lapsed low-value,0
+13071,One-time buyer (lapsed),
+13072,One-time buyer (recent),
+13073,Lapsed low-value,3
+13074,Lapsed low-value,0
+13075,One-time buyer (recent),
+13076,One-time buyer (lapsed),
+13077,Loyal high-value,5
+13078,Loyal high-value,2
+13079,Lapsed low-value,3
+13080,Lapsed low-value,0
+13081,Loyal high-value,2
+13082,Loyal high-value,2
+13083,One-time buyer (lapsed),
+13084,One-time buyer (lapsed),
+13085,Loyal high-value,4
+13086,One-time buyer (lapsed),
+13087,One-time buyer (lapsed),
+13088,One-time buyer (lapsed),
+13089,Loyal high-value,2
+13090,Loyal high-value,2
+13091,One-time buyer (lapsed),
+13092,Loyal high-value,4
+13093,Loyal high-value,2
+13094,Loyal high-value,4
+13096,One-time buyer (lapsed),
+13097,Loyal high-value,2
+13098,Loyal high-value,2
+13099,One-time buyer (recent),
+13101,Lapsed low-value,7
+13102,Loyal high-value,2
+13103,Lapsed low-value,3
+13104,Lapsed low-value,7
+13105,One-time buyer (lapsed),
+13106,Lapsed low-value,0
+13107,Loyal high-value,1
+13108,Lapsed low-value,3
+13109,Lapsed low-value,0
+13110,Loyal high-value,5
+13111,One-time buyer (lapsed),
+13112,One-time buyer (lapsed),
+13113,Loyal high-value,2
+13114,One-time buyer (lapsed),
+13115,Loyal high-value,1
+13116,One-time buyer (recent),
+13117,Loyal high-value,5
+13118,Loyal high-value,1
+13119,One-time buyer (lapsed),
+13120,One-time buyer (recent),
+13121,One-time buyer (recent),
+13122,Lapsed low-value,3
+13123,Lapsed low-value,3
+13124,Loyal high-value,3
+13125,One-time buyer (lapsed),
+13126,Loyal high-value,5
+13128,One-time buyer (lapsed),
+13129,Lapsed low-value,3
+13130,One-time buyer (recent),
+13131,Loyal high-value,7
+13132,One-time buyer (recent),
+13133,Lapsed low-value,3
+13134,Lapsed low-value,1
+13135,Lapsed low-value,3
+13136,Loyal high-value,5
+13137,Loyal high-value,5
+13138,Lapsed low-value,0
+13139,Loyal high-value,7
+13140,Lapsed low-value,7
+13141,Loyal high-value,5
+13143,One-time buyer (lapsed),
+13144,Lapsed low-value,3
+13145,Loyal high-value,7
+13147,One-time buyer (recent),
+13148,Loyal high-value,2
+13149,Lapsed low-value,3
+13150,Lapsed low-value,0
+13151,Lapsed low-value,0
+13152,Loyal high-value,1
+13154,Lapsed low-value,0
+13155,Lapsed low-value,7
+13156,Lapsed low-value,3
+13157,Loyal high-value,1
+13158,Loyal high-value,7
+13159,Lapsed low-value,0
+13161,Lapsed low-value,3
+13162,Loyal high-value,5
+13163,One-time buyer (lapsed),
+13164,Lapsed low-value,0
+13165,Lapsed low-value,3
+13166,Lapsed low-value,0
+13167,Lapsed low-value,3
+13168,Lapsed low-value,0
+13169,Lapsed low-value,3
+13171,One-time buyer (lapsed),
+13172,One-time buyer (lapsed),
+13173,Loyal high-value,5
+13174,Loyal high-value,5
+13175,Lapsed low-value,0
+13177,One-time buyer (lapsed),
+13178,Loyal high-value,2
+13179,One-time buyer (lapsed),
+13180,One-time buyer (lapsed),
+13181,One-time buyer (lapsed),
+13183,Loyal high-value,5
+13184,Loyal high-value,5
+13185,One-time buyer (recent),
+13186,Lapsed low-value,0
+13187,Lapsed low-value,4
+13189,One-time buyer (recent),
+13190,Lapsed low-value,0
+13191,One-time buyer (lapsed),
+13192,Loyal high-value,1
+13194,Lapsed low-value,3
+13195,One-time buyer (lapsed),
+13196,Lapsed low-value,0
+13197,One-time buyer (lapsed),
+13198,Loyal high-value,1
+13199,Loyal high-value,2
+13200,One-time buyer (recent),
+13201,Lapsed low-value,7
+13202,Lapsed low-value,1
+13203,Loyal high-value,5
+13204,One-time buyer (lapsed),
+13205,One-time buyer (lapsed),
+13206,Loyal high-value,5
+13207,Lapsed low-value,3
+13208,Loyal high-value,1
+13209,Loyal high-value,5
+13210,One-time buyer (recent),
+13211,Loyal high-value,5
+13213,Loyal high-value,5
+13214,Loyal high-value,1
+13215,One-time buyer (lapsed),
+13216,One-time buyer (recent),
+13217,High-return buyer,4
+13218,One-time buyer (recent),
+13219,One-time buyer (lapsed),
+13220,Lapsed low-value,7
+13221,Lapsed low-value,3
+13222,One-time buyer (lapsed),
+13223,Lapsed low-value,7
+13224,One-time buyer (recent),
+13225,Loyal high-value,5
+13226,Lapsed low-value,3
+13227,One-time buyer (recent),
+13229,One-time buyer (recent),
+13230,Loyal high-value,2
+13232,Loyal high-value,7
+13233,Lapsed low-value,3
+13234,Lapsed low-value,3
+13235,One-time buyer (recent),
+13236,One-time buyer (recent),
+13237,One-time buyer (lapsed),
+13238,Lapsed low-value,7
+13239,Lapsed low-value,1
+13240,Loyal high-value,1
+13241,One-time buyer (lapsed),
+13242,Lapsed low-value,1
+13243,Lapsed low-value,7
+13244,One-time buyer (recent),
+13245,One-time buyer (lapsed),
+13246,Loyal high-value,5
+13248,Lapsed low-value,3
+13249,Loyal high-value,5
+13250,Lapsed low-value,0
+13251,One-time buyer (lapsed),
+13252,Lapsed low-value,0
+13253,Loyal high-value,7
+13254,One-time buyer (lapsed),
+13255,Lapsed low-value,3
+13257,One-time buyer (lapsed),
+13258,Lapsed low-value,3
+13259,Lapsed low-value,5
+13261,Lapsed low-value,3
+13262,Lapsed low-value,3
+13263,Loyal high-value,2
+13264,One-time buyer (lapsed),
+13265,Lapsed low-value,3
+13266,Loyal high-value,5
+13267,Loyal high-value,2
+13268,Loyal high-value,1
+13269,Loyal high-value,2
+13270,One-time buyer (lapsed),
+13273,One-time buyer (recent),
+13274,One-time buyer (lapsed),
+13275,Lapsed low-value,3
+13276,Loyal high-value,0
+13277,Lapsed low-value,7
+13278,Lapsed low-value,3
+13280,Loyal high-value,1
+13281,One-time buyer (lapsed),
+13282,Lapsed low-value,0
+13283,Lapsed low-value,3
+13284,One-time buyer (lapsed),
+13285,Loyal high-value,7
+13286,One-time buyer (lapsed),
+13287,High-return buyer,4
+13288,Lapsed low-value,1
+13289,One-time buyer (lapsed),
+13291,Loyal high-value,5
+13292,Lapsed low-value,0
+13293,Lapsed low-value,1
+13294,Lapsed low-value,3
+13295,Lapsed low-value,0
+13296,Lapsed low-value,7
+13297,Lapsed low-value,0
+13299,Lapsed low-value,0
+13300,Lapsed low-value,0
+13301,Lapsed low-value,7
+13302,Lapsed low-value,6
+13303,One-time buyer (lapsed),
+13304,Lapsed low-value,0
+13305,Loyal high-value,5
+13306,One-time buyer (lapsed),
+13307,Lapsed low-value,3
+13308,Lapsed low-value,0
+13309,Lapsed low-value,3
+13310,Lapsed low-value,0
+13311,One-time buyer (recent),
+13312,One-time buyer (lapsed),
+13313,Loyal high-value,5
+13315,One-time buyer (lapsed),
+13316,Loyal high-value,1
+13317,Loyal high-value,2
+13319,Loyal high-value,2
+13320,Loyal high-value,1
+13324,Loyal high-value,5
+13326,One-time buyer (lapsed),
+13327,Loyal high-value,2
+13328,One-time buyer (lapsed),
+13329,Loyal high-value,1
+13330,Loyal high-value,7
+13331,One-time buyer (lapsed),
+13333,Lapsed low-value,3
+13334,Loyal high-value,0
+13337,One-time buyer (lapsed),
+13338,Loyal high-value,0
+13339,One-time buyer (recent),
+13340,Loyal high-value,5
+13341,One-time buyer (recent),
+13343,One-time buyer (recent),
+13344,One-time buyer (lapsed),
+13345,One-time buyer (lapsed),
+13346,Lapsed low-value,7
+13355,One-time buyer (recent),
+13357,Loyal high-value,7
+13358,One-time buyer (recent),
+13359,One-time buyer (lapsed),
+13360,Lapsed low-value,0
+13361,Lapsed low-value,3
+13362,Loyal high-value,1
+13363,One-time buyer (lapsed),
+13365,One-time buyer (recent),
+13367,One-time buyer (lapsed),
+13368,Lapsed low-value,0
+13369,One-time buyer (lapsed),
+13370,One-time buyer (lapsed),
+13371,Lapsed low-value,0
+13373,Loyal high-value,7
+13374,Lapsed low-value,3
+13375,One-time buyer (lapsed),
+13376,Lapsed low-value,3
+13377,Lapsed low-value,0
+13379,One-time buyer (recent),
+13380,One-time buyer (lapsed),
+13381,Loyal high-value,5
+13382,Lapsed low-value,7
+13383,One-time buyer (lapsed),
+13384,Loyal high-value,1
+13385,One-time buyer (lapsed),
+13386,Lapsed low-value,3
+13387,One-time buyer (lapsed),
+13388,Lapsed low-value,0
+13389,One-time buyer (recent),
+13391,One-time buyer (recent),
+13392,One-time buyer (lapsed),
+13393,Lapsed low-value,0
+13394,Loyal high-value,5
+13395,Lapsed low-value,3
+13396,One-time buyer (lapsed),
+13397,Loyal high-value,5
+13398,Lapsed low-value,3
+13399,Lapsed low-value,3
+13400,One-time buyer (lapsed),
+13402,Lapsed low-value,7
+13403,Lapsed low-value,3
+13404,One-time buyer (recent),
+13405,Lapsed low-value,1
+13406,Lapsed low-value,0
+13407,Lapsed low-value,0
+13408,Loyal high-value,2
+13410,Loyal high-value,1
+13411,One-time buyer (recent),
+13412,One-time buyer (lapsed),
+13413,Lapsed low-value,4
+13414,Loyal high-value,1
+13415,Lapsed low-value,4
+13416,One-time buyer (lapsed),
+13417,Lapsed low-value,1
+13418,Loyal high-value,2
+13420,Lapsed low-value,4
+13421,Loyal high-value,1
+13423,One-time buyer (lapsed),
+13424,One-time buyer (lapsed),
+13425,Loyal high-value,1
+13426,Loyal high-value,5
+13427,Lapsed low-value,7
+13428,Lapsed low-value,6
+13431,Lapsed low-value,1
+13432,Lapsed low-value,3
+13433,Lapsed low-value,0
+13434,Loyal high-value,7
+13435,Loyal high-value,7
+13437,Loyal high-value,7
+13438,One-time buyer (lapsed),
+13439,Lapsed low-value,3
+13440,Lapsed low-value,4
+13441,Lapsed low-value,3
+13442,Lapsed low-value,3
+13443,Lapsed low-value,1
+13444,Lapsed low-value,3
+13445,One-time buyer (lapsed),
+13446,Loyal high-value,5
+13448,Loyal high-value,5
+13450,Loyal high-value,5
+13451,Loyal high-value,5
+13452,Lapsed low-value,3
+13453,Lapsed low-value,0
+13454,One-time buyer (lapsed),
+13455,Lapsed low-value,1
+13456,Lapsed low-value,0
+13457,Lapsed low-value,0
+13458,Loyal high-value,5
+13459,Lapsed low-value,3
+13461,Loyal high-value,1
+13462,Lapsed low-value,1
+13464,Lapsed low-value,1
+13465,Lapsed low-value,3
+13466,Lapsed low-value,1
+13468,Loyal high-value,2
+13469,One-time buyer (lapsed),
+13470,Lapsed low-value,3
+13472,Lapsed low-value,3
+13473,Loyal high-value,1
+13474,Lapsed low-value,3
+13475,Lapsed low-value,7
+13476,Loyal high-value,1
+13477,Loyal high-value,5
+13478,Lapsed low-value,1
+13479,Lapsed low-value,0
+13480,Lapsed low-value,3
+13481,Loyal high-value,5
+13482,Lapsed low-value,3
+13484,Lapsed low-value,0
+13485,Loyal high-value,5
+13486,Lapsed low-value,3
+13487,Lapsed low-value,7
+13488,Loyal high-value,2
+13489,Lapsed low-value,7
+13490,One-time buyer (lapsed),
+13491,Loyal high-value,2
+13492,Lapsed low-value,3
+13493,Lapsed low-value,3
+13494,One-time buyer (lapsed),
+13495,Loyal high-value,1
+13496,One-time buyer (lapsed),
+13497,Lapsed low-value,1
+13498,One-time buyer (lapsed),
+13499,Lapsed low-value,0
+13500,Lapsed low-value,3
+13501,Lapsed low-value,0
+13502,Lapsed low-value,0
+13503,Lapsed low-value,0
+13505,Loyal high-value,0
+13506,Lapsed low-value,1
+13507,Loyal high-value,3
+13508,Lapsed low-value,3
+13509,Lapsed low-value,7
+13510,Loyal high-value,5
+13511,One-time buyer (lapsed),
+13512,Lapsed low-value,7
+13513,Lapsed low-value,0
+13514,Lapsed low-value,3
+13515,Lapsed low-value,7
+13516,Lapsed low-value,3
+13517,Lapsed low-value,0
+13519,One-time buyer (lapsed),
+13520,Loyal high-value,5
+13523,Loyal high-value,0
+13524,Lapsed low-value,3
+13525,One-time buyer (recent),
+13526,Lapsed low-value,4
+13527,Loyal high-value,5
+13529,One-time buyer (recent),
+13530,One-time buyer (lapsed),
+13531,Lapsed low-value,7
+13533,Lapsed low-value,3
+13534,Loyal high-value,2
+13535,One-time buyer (lapsed),
+13537,Lapsed low-value,3
+13538,Loyal high-value,5
+13539,Lapsed low-value,1
+13540,Lapsed low-value,3
+13541,Lapsed low-value,0
+13542,Loyal high-value,5
+13543,Lapsed low-value,3
+13544,Lapsed low-value,1
+13545,Lapsed low-value,0
+13546,Lapsed low-value,3
+13547,One-time buyer (lapsed),
+13548,Lapsed low-value,3
+13549,Lapsed low-value,1
+13550,One-time buyer (lapsed),
+13551,Lapsed low-value,3
+13552,Loyal high-value,2
+13553,One-time buyer (lapsed),
+13554,Lapsed low-value,1
+13555,Loyal high-value,5
+13556,Lapsed low-value,3
+13557,Loyal high-value,5
+13559,Lapsed low-value,3
+13561,Loyal high-value,5
+13562,Loyal high-value,1
+13563,One-time buyer (recent),
+13564,Loyal high-value,2
+13565,Lapsed low-value,3
+13566,Lapsed low-value,3
+13567,Lapsed low-value,0
+13568,One-time buyer (recent),
+13569,Lapsed low-value,3
+13570,One-time buyer (recent),
+13571,Loyal high-value,2
+13572,One-time buyer (recent),
+13573,Lapsed low-value,7
+13574,One-time buyer (lapsed),
+13575,Lapsed low-value,3
+13576,Loyal high-value,2
+13577,Loyal high-value,5
+13578,One-time buyer (lapsed),
+13579,Lapsed low-value,0
+13580,One-time buyer (lapsed),
+13581,Lapsed low-value,3
+13582,Lapsed low-value,3
+13583,Lapsed low-value,3
+13584,Lapsed low-value,4
+13585,Lapsed low-value,0
+13586,One-time buyer (lapsed),
+13587,Lapsed low-value,3
+13588,Loyal high-value,0
+13589,Lapsed low-value,7
+13590,Loyal high-value,5
+13591,Loyal high-value,1
+13592,Lapsed low-value,3
+13593,Loyal high-value,5
+13594,One-time buyer (lapsed),
+13595,Lapsed low-value,3
+13597,Lapsed low-value,0
+13598,Lapsed low-value,7
+13599,Loyal high-value,2
+13600,Lapsed low-value,3
+13601,Lapsed low-value,3
+13602,Lapsed low-value,3
+13604,One-time buyer (lapsed),
+13605,Lapsed low-value,3
+13606,Lapsed low-value,3
+13607,One-time buyer (lapsed),
+13608,One-time buyer (lapsed),
+13609,One-time buyer (lapsed),
+13610,Loyal high-value,5
+13611,Loyal high-value,5
+13612,One-time buyer (lapsed),
+13613,Lapsed low-value,7
+13614,Lapsed low-value,7
+13615,Loyal high-value,1
+13616,Lapsed low-value,3
+13617,Loyal high-value,1
+13618,One-time buyer (recent),
+13619,Lapsed low-value,3
+13620,One-time buyer (lapsed),
+13621,One-time buyer (recent),
+13622,One-time buyer (lapsed),
+13623,Loyal high-value,5
+13624,One-time buyer (lapsed),
+13625,One-time buyer (lapsed),
+13626,Lapsed low-value,0
+13627,Loyal high-value,1
+13628,One-time buyer (lapsed),
+13629,Loyal high-value,5
+13630,Loyal high-value,1
+13631,Loyal high-value,5
+13632,Loyal high-value,1
+13634,Loyal high-value,4
+13635,Lapsed low-value,0
+13636,Lapsed low-value,0
+13637,Lapsed low-value,3
+13639,One-time buyer (lapsed),
+13640,One-time buyer (lapsed),
+13641,Lapsed low-value,0
+13642,Lapsed low-value,0
+13643,Loyal high-value,5
+13644,One-time buyer (recent),
+13645,One-time buyer (recent),
+13646,Lapsed low-value,0
+13647,Loyal high-value,7
+13648,Loyal high-value,1
+13649,Lapsed low-value,7
+13650,Loyal high-value,1
+13651,One-time buyer (lapsed),
+13652,Lapsed low-value,7
+13653,One-time buyer (lapsed),
+13654,Loyal high-value,5
+13655,Loyal high-value,1
+13656,Lapsed low-value,0
+13657,One-time buyer (recent),
+13658,Loyal high-value,1
+13659,Loyal high-value,5
+13660,One-time buyer (lapsed),
+13661,One-time buyer (lapsed),
+13662,Loyal high-value,5
+13663,Lapsed low-value,1
+13665,Lapsed low-value,3
+13666,Lapsed low-value,4
+13667,One-time buyer (recent),
+13668,Loyal high-value,2
+13669,Lapsed low-value,3
+13671,One-time buyer (lapsed),
+13672,High-return buyer,4
+13674,One-time buyer (lapsed),
+13675,Lapsed low-value,3
+13676,High-return buyer,4
+13677,Lapsed low-value,3
+13678,One-time buyer (recent),
+13679,Lapsed low-value,3
+13680,Loyal high-value,4
+13681,One-time buyer (recent),
+13682,One-time buyer (recent),
+13683,One-time buyer (lapsed),
+13684,Lapsed low-value,0
+13686,Lapsed low-value,3
+13687,One-time buyer (lapsed),
+13688,One-time buyer (lapsed),
+13689,One-time buyer (lapsed),
+13691,One-time buyer (lapsed),
+13692,Lapsed low-value,0
+13693,Loyal high-value,5
+13694,Loyal high-value,2
+13695,Loyal high-value,5
+13696,Lapsed low-value,0
+13698,Lapsed low-value,3
+13699,Lapsed low-value,0
+13700,Loyal high-value,5
+13701,One-time buyer (lapsed),
+13702,One-time buyer (lapsed),
+13703,High-return buyer,4
+13705,Loyal high-value,7
+13706,Lapsed low-value,3
+13707,Loyal high-value,7
+13708,One-time buyer (recent),
+13709,Loyal high-value,5
+13710,Lapsed low-value,3
+13711,Loyal high-value,1
+13712,Lapsed low-value,6
+13713,Lapsed low-value,3
+13714,One-time buyer (lapsed),
+13715,Loyal high-value,5
+13716,One-time buyer (recent),
+13717,Loyal high-value,1
+13718,Lapsed low-value,3
+13719,Loyal high-value,5
+13720,Lapsed low-value,7
+13721,One-time buyer (lapsed),
+13722,Loyal high-value,5
+13723,Lapsed low-value,7
+13724,One-time buyer (lapsed),
+13725,Lapsed low-value,4
+13726,One-time buyer (recent),
+13727,Lapsed low-value,1
+13728,Loyal high-value,5
+13729,Lapsed low-value,0
+13730,Lapsed low-value,6
+13731,Lapsed low-value,3
+13733,Lapsed low-value,0
+13734,High-return buyer,4
+13735,Loyal high-value,5
+13736,Loyal high-value,1
+13737,One-time buyer (recent),
+13738,One-time buyer (lapsed),
+13739,One-time buyer (lapsed),
+13740,Lapsed low-value,7
+13741,Lapsed low-value,0
+13742,Loyal high-value,5
+13743,Lapsed low-value,1
+13744,Lapsed low-value,3
+13745,Lapsed low-value,0
+13746,One-time buyer (lapsed),
+13747,Lapsed low-value,3
+13748,Loyal high-value,5
+13750,Loyal high-value,5
+13751,One-time buyer (lapsed),
+13752,Loyal high-value,1
+13753,Lapsed low-value,7
+13754,Lapsed low-value,3
+13756,Loyal high-value,5
+13757,One-time buyer (lapsed),
+13758,Loyal high-value,5
+13760,Lapsed low-value,0
+13761,Lapsed low-value,7
+13762,Loyal high-value,4
+13763,Lapsed low-value,0
+13764,Loyal high-value,7
+13765,One-time buyer (lapsed),
+13766,One-time buyer (lapsed),
+13767,Loyal high-value,2
+13768,Lapsed low-value,0
+13769,Loyal high-value,2
+13770,Lapsed low-value,7
+13771,Loyal high-value,1
+13772,Loyal high-value,1
+13773,Lapsed low-value,3
+13775,One-time buyer (lapsed),
+13777,Loyal high-value,2
+13778,Lapsed low-value,0
+13779,One-time buyer (lapsed),
+13780,Lapsed low-value,3
+13781,Lapsed low-value,0
+13782,Loyal high-value,5
+13783,Lapsed low-value,7
+13784,Loyal high-value,5
+13785,Lapsed low-value,7
+13786,Loyal high-value,1
+13787,Lapsed low-value,1
+13788,One-time buyer (lapsed),
+13789,One-time buyer (lapsed),
+13791,Lapsed low-value,3
+13792,Lapsed low-value,3
+13793,One-time buyer (lapsed),
+13794,One-time buyer (lapsed),
+13795,Lapsed low-value,7
+13796,One-time buyer (lapsed),
+13797,Lapsed low-value,0
+13798,Loyal high-value,2
+13799,Loyal high-value,4
+13800,Lapsed low-value,3
+13802,Loyal high-value,2
+13803,Lapsed low-value,0
+13804,Loyal high-value,7
+13805,One-time buyer (recent),
+13807,Lapsed low-value,0
+13808,Lapsed low-value,6
+13809,Lapsed low-value,3
+13811,Lapsed low-value,3
+13812,One-time buyer (recent),
+13813,Loyal high-value,1
+13814,Loyal high-value,0
+13815,Loyal high-value,1
+13817,One-time buyer (lapsed),
+13818,One-time buyer (lapsed),
+13819,Lapsed low-value,1
+13820,Lapsed low-value,0
+13821,Lapsed low-value,1
+13823,Loyal high-value,1
+13824,Loyal high-value,5
+13825,Lapsed low-value,3
+13826,One-time buyer (recent),
+13827,Lapsed low-value,6
+13829,One-time buyer (lapsed),
+13830,One-time buyer (lapsed),
+13831,Loyal high-value,5
+13832,One-time buyer (lapsed),
+13833,Lapsed low-value,3
+13834,Lapsed low-value,0
+13835,Lapsed low-value,1
+13836,Lapsed low-value,0
+13837,Lapsed low-value,3
+13838,Loyal high-value,5
+13839,One-time buyer (lapsed),
+13840,One-time buyer (lapsed),
+13841,One-time buyer (recent),
+13842,Loyal high-value,5
+13843,One-time buyer (lapsed),
+13846,Lapsed low-value,0
+13847,One-time buyer (lapsed),
+13848,Loyal high-value,5
+13849,Loyal high-value,0
+13850,One-time buyer (recent),
+13851,Loyal high-value,5
+13852,One-time buyer (lapsed),
+13854,Loyal high-value,2
+13855,Lapsed low-value,0
+13856,Lapsed low-value,5
+13857,Lapsed low-value,1
+13859,Lapsed low-value,3
+13861,Lapsed low-value,0
+13862,Loyal high-value,1
+13863,Lapsed low-value,0
+13864,One-time buyer (lapsed),
+13865,Lapsed low-value,3
+13867,One-time buyer (recent),
+13869,Loyal high-value,5
+13870,Loyal high-value,5
+13871,Loyal high-value,5
+13872,Lapsed low-value,0
+13873,Loyal high-value,5
+13874,Loyal high-value,1
+13875,Loyal high-value,5
+13877,Lapsed low-value,0
+13878,Lapsed low-value,3
+13879,One-time buyer (lapsed),
+13880,Loyal high-value,5
+13881,Loyal high-value,2
+13883,Loyal high-value,5
+13884,Lapsed low-value,1
+13885,Lapsed low-value,3
+13887,One-time buyer (recent),
+13888,Loyal high-value,1
+13889,Loyal high-value,1
+13890,Loyal high-value,1
+13891,Lapsed low-value,3
+13892,Lapsed low-value,3
+13893,One-time buyer (lapsed),
+13894,One-time buyer (lapsed),
+13895,Loyal high-value,0
+13896,One-time buyer (lapsed),
+13897,Lapsed low-value,3
+13898,Lapsed low-value,3
+13899,One-time buyer (lapsed),
+13900,Loyal high-value,1
+13901,Loyal high-value,5
+13902,Loyal high-value,4
+13903,One-time buyer (lapsed),
+13904,One-time buyer (lapsed),
+13905,One-time buyer (lapsed),
+13906,One-time buyer (lapsed),
+13907,One-time buyer (lapsed),
+13908,Lapsed low-value,0
+13909,Lapsed low-value,3
+13911,Loyal high-value,2
+13912,One-time buyer (lapsed),
+13913,One-time buyer (lapsed),
+13915,One-time buyer (lapsed),
+13916,Lapsed low-value,0
+13917,One-time buyer (recent),
+13918,One-time buyer (recent),
+13919,Lapsed low-value,3
+13920,Lapsed low-value,0
+13921,Lapsed low-value,0
+13922,Lapsed low-value,0
+13925,Lapsed low-value,0
+13927,One-time buyer (lapsed),
+13928,Lapsed low-value,3
+13929,Loyal high-value,5
+13930,One-time buyer (recent),
+13931,Loyal high-value,5
+13932,One-time buyer (lapsed),
+13933,Lapsed low-value,3
+13934,One-time buyer (recent),
+13935,Loyal high-value,3
+13936,Lapsed low-value,0
+13937,Lapsed low-value,0
+13939,Loyal high-value,1
+13940,Lapsed low-value,3
+13941,Loyal high-value,5
+13942,One-time buyer (lapsed),
+13943,One-time buyer (lapsed),
+13944,One-time buyer (lapsed),
+13945,Lapsed low-value,3
+13946,Lapsed low-value,1
+13948,Lapsed low-value,0
+13949,One-time buyer (recent),
+13950,One-time buyer (recent),
+13951,Lapsed low-value,3
+13952,Loyal high-value,5
+13953,Loyal high-value,5
+13955,Lapsed low-value,3
+13956,Lapsed low-value,3
+13957,Lapsed low-value,3
+13958,Loyal high-value,1
+13959,Lapsed low-value,7
+13961,One-time buyer (lapsed),
+13962,Lapsed low-value,3
+13963,Loyal high-value,5
+13964,Lapsed low-value,0
+13965,Lapsed low-value,0
+13966,One-time buyer (lapsed),
+13967,Lapsed low-value,3
+13968,One-time buyer (lapsed),
+13969,Loyal high-value,2
+13970,Lapsed low-value,3
+13971,Loyal high-value,5
+13972,One-time buyer (recent),
+13973,One-time buyer (lapsed),
+13974,One-time buyer (lapsed),
+13975,Loyal high-value,5
+13976,Lapsed low-value,7
+13977,One-time buyer (lapsed),
+13979,Lapsed low-value,1
+13980,Lapsed low-value,0
+13981,One-time buyer (lapsed),
+13982,Loyal high-value,1
+13983,Loyal high-value,2
+13984,High-return buyer,4
+13985,Loyal high-value,5
+13987,Lapsed low-value,6
+13988,Loyal high-value,1
+13989,Lapsed low-value,7
+13990,One-time buyer (recent),
+13991,One-time buyer (recent),
+13992,Lapsed low-value,3
+13993,Loyal high-value,5
+13994,Lapsed low-value,3
+13995,Loyal high-value,5
+13996,Lapsed low-value,6
+13997,Lapsed low-value,3
+13998,Lapsed low-value,3
+13999,Loyal high-value,2
+14000,Loyal high-value,1
+14001,Loyal high-value,1
+14002,Lapsed low-value,6
+14003,One-time buyer (lapsed),
+14004,Loyal high-value,5
+14005,Lapsed low-value,3
+14006,Loyal high-value,1
+14007,One-time buyer (lapsed),
+14008,One-time buyer (lapsed),
+14009,Lapsed low-value,0
+14010,High-return buyer,4
+14011,Lapsed low-value,0
+14012,One-time buyer (lapsed),
+14013,Lapsed low-value,1
+14014,Lapsed low-value,3
+14016,Loyal high-value,5
+14017,One-time buyer (lapsed),
+14018,One-time buyer (lapsed),
+14019,Lapsed low-value,3
+14020,Lapsed low-value,0
+14021,Loyal high-value,1
+14022,Lapsed low-value,3
+14023,One-time buyer (recent),
+14024,Lapsed low-value,3
+14025,Loyal high-value,1
+14026,Lapsed low-value,3
+14028,High-return buyer,4
+14029,One-time buyer (recent),
+14030,Loyal high-value,2
+14031,Loyal high-value,2
+14032,Loyal high-value,5
+14033,One-time buyer (lapsed),
+14034,High-return buyer,4
+14035,Loyal high-value,1
+14036,One-time buyer (lapsed),
+14037,Lapsed low-value,1
+14038,Loyal high-value,0
+14039,One-time buyer (lapsed),
+14040,Loyal high-value,2
+14041,One-time buyer (recent),
+14042,One-time buyer (lapsed),
+14043,Lapsed low-value,0
+14044,Loyal high-value,5
+14045,Loyal high-value,2
+14046,One-time buyer (lapsed),
+14047,Loyal high-value,5
+14048,Lapsed low-value,0
+14049,Loyal high-value,5
+14050,One-time buyer (recent),
+14051,Loyal high-value,2
+14052,One-time buyer (lapsed),
+14053,Lapsed low-value,7
+14055,Loyal high-value,3
+14056,Loyal high-value,5
+14057,Loyal high-value,2
+14058,Lapsed low-value,3
+14059,One-time buyer (recent),
+14060,Loyal high-value,2
+14061,Lapsed low-value,3
+14062,Loyal high-value,2
+14063,Loyal high-value,4
+14064,Loyal high-value,4
+14065,Lapsed low-value,0
+14066,One-time buyer (recent),
+14067,One-time buyer (recent),
+14068,Lapsed low-value,0
+14069,Lapsed low-value,3
+14070,One-time buyer (lapsed),
+14071,High-return buyer,4
+14072,One-time buyer (lapsed),
+14074,One-time buyer (lapsed),
+14075,Lapsed low-value,3
+14076,One-time buyer (recent),
+14077,Lapsed low-value,7
+14078,Loyal high-value,5
+14079,One-time buyer (recent),
+14080,Lapsed low-value,0
+14081,Loyal high-value,5
+14082,Lapsed low-value,3
+14083,Lapsed low-value,4
+14084,One-time buyer (lapsed),
+14085,Loyal high-value,2
+14086,One-time buyer (lapsed),
+14087,Lapsed low-value,0
+14088,Loyal high-value,5
+14090,One-time buyer (lapsed),
+14091,Loyal high-value,3
+14092,Loyal high-value,2
+14094,One-time buyer (lapsed),
+14095,One-time buyer (lapsed),
+14096,Lapsed low-value,3
+14097,Lapsed low-value,3
+14099,Loyal high-value,5
+14100,One-time buyer (recent),
+14101,Loyal high-value,5
+14104,Lapsed low-value,7
+14105,Loyal high-value,1
+14106,One-time buyer (lapsed),
+14107,Loyal high-value,5
+14108,Lapsed low-value,0
+14110,Loyal high-value,2
+14111,Lapsed low-value,3
+14112,Loyal high-value,5
+14113,Loyal high-value,4
+14114,Lapsed low-value,1
+14115,Lapsed low-value,3
+14116,Lapsed low-value,3
+14117,One-time buyer (recent),
+14118,One-time buyer (lapsed),
+14119,Lapsed low-value,0
+14122,Lapsed low-value,4
+14123,One-time buyer (lapsed),
+14126,One-time buyer (lapsed),
+14127,Loyal high-value,7
+14128,Lapsed low-value,0
+14129,Loyal high-value,1
+14130,Lapsed low-value,7
+14131,One-time buyer (lapsed),
+14132,Loyal high-value,7
+14133,Lapsed low-value,0
+14134,Loyal high-value,5
+14135,Loyal high-value,2
+14136,Lapsed low-value,1
+14137,One-time buyer (lapsed),
+14139,Lapsed low-value,3
+14141,One-time buyer (recent),
+14142,Lapsed low-value,0
+14143,One-time buyer (recent),
+14144,One-time buyer (lapsed),
+14145,Loyal high-value,4
+14146,Loyal high-value,4
+14147,Loyal high-value,4
+14148,Lapsed low-value,3
+14149,One-time buyer (recent),
+14150,One-time buyer (lapsed),
+14151,Lapsed low-value,0
+14152,Loyal high-value,1
+14153,One-time buyer (lapsed),
+14154,Loyal high-value,1
+14155,One-time buyer (recent),
+14156,Loyal high-value,2
+14157,Lapsed low-value,0
+14159,Loyal high-value,2
+14160,Loyal high-value,1
+14161,Loyal high-value,1
+14162,Lapsed low-value,3
+14163,Lapsed low-value,7
+14165,One-time buyer (lapsed),
+14166,Lapsed low-value,3
+14167,Lapsed low-value,1
+14168,Lapsed low-value,0
+14169,Lapsed low-value,3
+14170,Lapsed low-value,6
+14171,Lapsed low-value,3
+14172,Lapsed low-value,0
+14173,Lapsed low-value,0
+14175,Loyal high-value,1
+14176,Lapsed low-value,1
+14177,Loyal high-value,5
+14178,Lapsed low-value,3
+14180,Loyal high-value,2
+14181,Lapsed low-value,3
+14182,Lapsed low-value,0
+14183,Lapsed low-value,3
+14185,One-time buyer (lapsed),
+14186,Lapsed low-value,7
+14187,One-time buyer (lapsed),
+14188,Loyal high-value,0
+14189,Loyal high-value,5
+14190,One-time buyer (lapsed),
+14191,Loyal high-value,5
+14192,One-time buyer (lapsed),
+14193,Lapsed low-value,3
+14194,Loyal high-value,2
+14195,Loyal high-value,4
+14196,One-time buyer (recent),
+14197,One-time buyer (lapsed),
+14198,Loyal high-value,1
+14199,Lapsed low-value,4
+14200,One-time buyer (lapsed),
+14201,Lapsed low-value,1
+14202,Lapsed low-value,3
+14203,One-time buyer (lapsed),
+14204,Lapsed low-value,3
+14205,Loyal high-value,4
+14206,Lapsed low-value,0
+14207,One-time buyer (lapsed),
+14208,Lapsed low-value,3
+14209,Loyal high-value,5
+14210,Loyal high-value,5
+14211,Loyal high-value,5
+14212,One-time buyer (lapsed),
+14213,One-time buyer (lapsed),
+14214,Lapsed low-value,0
+14215,Loyal high-value,1
+14216,One-time buyer (lapsed),
+14217,Loyal high-value,2
+14219,Lapsed low-value,3
+14220,Lapsed low-value,7
+14221,Loyal high-value,5
+14222,One-time buyer (recent),
+14223,Loyal high-value,0
+14224,Loyal high-value,5
+14225,Lapsed low-value,0
+14226,Loyal high-value,0
+14227,Loyal high-value,5
+14228,Lapsed low-value,3
+14229,Loyal high-value,1
+14230,Lapsed low-value,3
+14231,Lapsed low-value,0
+14232,Loyal high-value,0
+14233,Loyal high-value,1
+14235,Loyal high-value,1
+14236,Lapsed low-value,0
+14237,Lapsed low-value,0
+14238,Lapsed low-value,3
+14239,Loyal high-value,2
+14240,Lapsed low-value,3
+14241,Lapsed low-value,3
+14242,Lapsed low-value,3
+14243,Loyal high-value,5
+14244,One-time buyer (lapsed),
+14245,Lapsed low-value,0
+14246,Loyal high-value,3
+14247,Lapsed low-value,1
+14248,Lapsed low-value,3
+14249,Loyal high-value,5
+14252,One-time buyer (lapsed),
+14253,Lapsed low-value,3
+14254,One-time buyer (lapsed),
+14256,Loyal high-value,1
+14257,Loyal high-value,1
+14258,Loyal high-value,2
+14259,One-time buyer (recent),
+14260,Lapsed low-value,3
+14262,Lapsed low-value,3
+14263,One-time buyer (lapsed),
+14264,Loyal high-value,1
+14265,Loyal high-value,7
+14266,One-time buyer (lapsed),
+14267,Lapsed low-value,4
+14268,One-time buyer (lapsed),
+14269,One-time buyer (lapsed),
+14270,One-time buyer (lapsed),
+14271,Lapsed low-value,3
+14272,Lapsed low-value,3
+14273,Lapsed low-value,3
+14274,One-time buyer (lapsed),
+14275,Lapsed low-value,7
+14276,Loyal high-value,1
+14277,High-return buyer,4
+14278,One-time buyer (lapsed),
+14279,Lapsed low-value,3
+14280,One-time buyer (recent),
+14281,One-time buyer (lapsed),
+14282,Loyal high-value,2
+14283,Lapsed low-value,7
+14284,One-time buyer (lapsed),
+14285,Lapsed low-value,7
+14286,Loyal high-value,1
+14287,Lapsed low-value,4
+14288,One-time buyer (recent),
+14289,Lapsed low-value,7
+14290,Lapsed low-value,4
+14291,Loyal high-value,2
+14292,Loyal high-value,5
+14293,Loyal high-value,4
+14294,One-time buyer (lapsed),
+14295,Lapsed low-value,0
+14296,Lapsed low-value,0
+14297,One-time buyer (lapsed),
+14298,Loyal high-value,2
+14299,Loyal high-value,2
+14301,Loyal high-value,0
+14302,Lapsed low-value,3
+14303,Lapsed low-value,6
+14304,Lapsed low-value,4
+14305,Lapsed low-value,0
+14306,Lapsed low-value,7
+14307,Loyal high-value,5
+14309,Loyal high-value,5
+14310,One-time buyer (lapsed),
+14311,Lapsed low-value,0
+14312,Loyal high-value,5
+14314,Lapsed low-value,0
+14315,Loyal high-value,1
+14316,Lapsed low-value,1
+14318,One-time buyer (lapsed),
+14319,One-time buyer (lapsed),
+14320,Lapsed low-value,4
+14321,Loyal high-value,1
+14322,Lapsed low-value,4
+14323,Lapsed low-value,0
+14324,Lapsed low-value,3
+14325,One-time buyer (lapsed),
+14326,Lapsed low-value,0
+14327,Loyal high-value,7
+14329,Loyal high-value,5
+14330,One-time buyer (lapsed),
+14331,Lapsed low-value,3
+14332,Lapsed low-value,3
+14334,Loyal high-value,5
+14335,One-time buyer (recent),
+14336,Lapsed low-value,3
+14338,Lapsed low-value,0
+14339,Lapsed low-value,0
+14340,One-time buyer (recent),
+14341,Loyal high-value,5
+14342,Lapsed low-value,0
+14343,Lapsed low-value,7
+14344,Loyal high-value,2
+14346,Loyal high-value,7
+14347,One-time buyer (lapsed),
+14348,One-time buyer (recent),
+14350,Lapsed low-value,0
+14351,One-time buyer (recent),
+14352,Lapsed low-value,7
+14353,Lapsed low-value,3
+14355,Lapsed low-value,3
+14358,Lapsed low-value,3
+14360,One-time buyer (recent),
+14361,One-time buyer (lapsed),
+14363,Lapsed low-value,3
+14364,Loyal high-value,1
+14365,Lapsed low-value,3
+14366,One-time buyer (lapsed),
+14367,Loyal high-value,5
+14368,One-time buyer (lapsed),
+14369,Lapsed low-value,3
+14370,Lapsed low-value,1
+14371,One-time buyer (lapsed),
+14372,Lapsed low-value,0
+14373,One-time buyer (lapsed),
+14374,One-time buyer (lapsed),
+14375,Lapsed low-value,3
+14376,One-time buyer (lapsed),
+14377,Lapsed low-value,3
+14378,One-time buyer (lapsed),
+14379,Lapsed low-value,3
+14381,One-time buyer (lapsed),
+14382,One-time buyer (lapsed),
+14383,One-time buyer (recent),
+14384,One-time buyer (lapsed),
+14386,One-time buyer (lapsed),
+14387,One-time buyer (recent),
+14388,Loyal high-value,5
+14389,Lapsed low-value,0
+14390,Loyal high-value,5
+14391,One-time buyer (lapsed),
+14392,One-time buyer (lapsed),
+14393,One-time buyer (recent),
+14394,One-time buyer (lapsed),
+14395,Loyal high-value,5
+14396,Lapsed low-value,7
+14397,Loyal high-value,5
+14398,Lapsed low-value,3
+14399,Loyal high-value,1
+14400,Lapsed low-value,0
+14401,Loyal high-value,2
+14402,One-time buyer (lapsed),
+14403,Loyal high-value,1
+14404,Loyal high-value,5
+14405,One-time buyer (lapsed),
+14406,One-time buyer (recent),
+14407,Loyal high-value,1
+14408,Loyal high-value,5
+14409,Loyal high-value,1
+14410,Loyal high-value,4
+14411,One-time buyer (lapsed),
+14412,One-time buyer (lapsed),
+14413,Lapsed low-value,3
+14414,Loyal high-value,5
+14415,Loyal high-value,2
+14417,One-time buyer (lapsed),
+14418,One-time buyer (recent),
+14419,Lapsed low-value,3
+14420,Loyal high-value,0
+14421,Loyal high-value,1
+14422,Loyal high-value,5
+14423,Lapsed low-value,0
+14425,Lapsed low-value,0
+14426,Loyal high-value,4
+14427,Lapsed low-value,3
+14428,Lapsed low-value,0
+14429,One-time buyer (lapsed),
+14430,Lapsed low-value,0
+14431,Lapsed low-value,0
+14433,One-time buyer (lapsed),
+14435,One-time buyer (lapsed),
+14436,Lapsed low-value,3
+14437,Lapsed low-value,1
+14438,One-time buyer (lapsed),
+14439,Loyal high-value,7
+14440,Loyal high-value,5
+14441,Loyal high-value,5
+14442,Loyal high-value,1
+14443,Loyal high-value,0
+14444,One-time buyer (lapsed),
+14445,One-time buyer (lapsed),
+14446,Lapsed low-value,3
+14447,Lapsed low-value,3
+14448,One-time buyer (lapsed),
+14449,Lapsed low-value,7
+14450,Lapsed low-value,1
+14451,Loyal high-value,5
+14452,Lapsed low-value,3
+14453,One-time buyer (recent),
+14454,Lapsed low-value,1
+14455,Lapsed low-value,0
+14456,Lapsed low-value,6
+14457,One-time buyer (lapsed),
+14458,One-time buyer (lapsed),
+14459,Loyal high-value,3
+14460,Loyal high-value,4
+14461,Loyal high-value,5
+14462,Loyal high-value,4
+14463,Lapsed low-value,7
+14464,Lapsed low-value,3
+14465,Loyal high-value,5
+14466,Loyal high-value,5
+14467,Loyal high-value,5
+14468,One-time buyer (lapsed),
+14469,Lapsed low-value,7
+14470,Lapsed low-value,3
+14471,Lapsed low-value,3
+14472,Loyal high-value,5
+14473,One-time buyer (lapsed),
+14474,One-time buyer (lapsed),
+14475,Lapsed low-value,0
+14476,One-time buyer (recent),
+14477,Lapsed low-value,1
+14478,Lapsed low-value,7
+14479,Lapsed low-value,7
+14480,Lapsed low-value,0
+14481,Loyal high-value,7
+14482,Loyal high-value,1
+14483,Lapsed low-value,0
+14484,Lapsed low-value,3
+14486,Lapsed low-value,3
+14487,Lapsed low-value,0
+14489,Lapsed low-value,7
+14490,Lapsed low-value,6
+14491,Lapsed low-value,3
+14492,Lapsed low-value,4
+14493,Loyal high-value,1
+14494,Lapsed low-value,3
+14495,Lapsed low-value,0
+14496,Loyal high-value,1
+14497,Lapsed low-value,0
+14498,Loyal high-value,5
+14499,Loyal high-value,1
+14500,Lapsed low-value,3
+14501,Lapsed low-value,3
+14502,Lapsed low-value,1
+14503,One-time buyer (recent),
+14504,Lapsed low-value,3
+14505,Loyal high-value,2
+14506,Loyal high-value,7
+14507,Loyal high-value,1
+14508,Lapsed low-value,0
+14509,One-time buyer (lapsed),
+14510,Lapsed low-value,0
+14511,Lapsed low-value,3
+14512,Lapsed low-value,1
+14513,Lapsed low-value,1
+14514,Loyal high-value,1
+14515,Loyal high-value,1
+14516,One-time buyer (lapsed),
+14517,One-time buyer (recent),
+14519,Lapsed low-value,3
+14520,One-time buyer (lapsed),
+14521,One-time buyer (lapsed),
+14522,Loyal high-value,7
+14523,One-time buyer (recent),
+14524,Loyal high-value,5
+14525,Loyal high-value,5
+14526,One-time buyer (lapsed),
+14527,Loyal high-value,2
+14529,One-time buyer (recent),
+14530,Loyal high-value,5
+14531,One-time buyer (lapsed),
+14532,Loyal high-value,5
+14533,Loyal high-value,1
+14534,Loyal high-value,2
+14535,Loyal high-value,1
+14536,One-time buyer (recent),
+14537,One-time buyer (lapsed),
+14538,Lapsed low-value,7
+14540,Loyal high-value,5
+14541,Loyal high-value,5
+14542,One-time buyer (recent),
+14543,Loyal high-value,4
+14544,Lapsed low-value,3
+14545,One-time buyer (lapsed),
+14546,Loyal high-value,1
+14548,Loyal high-value,5
+14549,Lapsed low-value,7
+14550,Lapsed low-value,3
+14551,Lapsed low-value,1
+14552,Lapsed low-value,3
+14553,Lapsed low-value,1
+14555,Loyal high-value,1
+14556,Lapsed low-value,3
+14558,Lapsed low-value,0
+14559,One-time buyer (lapsed),
+14560,Loyal high-value,2
+14561,Lapsed low-value,6
+14562,Loyal high-value,2
+14563,Lapsed low-value,3
+14564,Lapsed low-value,0
+14565,Loyal high-value,1
+14566,Loyal high-value,7
+14567,One-time buyer (recent),
+14568,One-time buyer (lapsed),
+14569,Lapsed low-value,3
+14570,Lapsed low-value,3
+14571,One-time buyer (lapsed),
+14572,Loyal high-value,5
+14573,Loyal high-value,5
+14574,One-time buyer (lapsed),
+14575,One-time buyer (lapsed),
+14576,One-time buyer (lapsed),
+14577,Lapsed low-value,7
+14579,One-time buyer (lapsed),
+14580,One-time buyer (lapsed),
+14581,One-time buyer (lapsed),
+14583,Loyal high-value,1
+14584,Loyal high-value,1
+14585,Lapsed low-value,7
+14586,One-time buyer (lapsed),
+14587,Loyal high-value,5
+14588,One-time buyer (lapsed),
+14589,One-time buyer (lapsed),
+14590,Loyal high-value,2
+14591,One-time buyer (recent),
+14593,Loyal high-value,5
+14594,One-time buyer (lapsed),
+14595,Lapsed low-value,3
+14596,One-time buyer (lapsed),
+14597,Lapsed low-value,7
+14598,One-time buyer (lapsed),
+14599,Lapsed low-value,3
+14600,Lapsed low-value,3
+14602,One-time buyer (lapsed),
+14603,One-time buyer (lapsed),
+14604,One-time buyer (lapsed),
+14605,Lapsed low-value,7
+14606,Loyal high-value,2
+14607,Loyal high-value,5
+14608,Lapsed low-value,1
+14609,Loyal high-value,4
+14610,Lapsed low-value,4
+14611,Lapsed low-value,0
+14612,One-time buyer (lapsed),
+14613,One-time buyer (lapsed),
+14614,One-time buyer (lapsed),
+14615,Lapsed low-value,1
+14616,Lapsed low-value,7
+14617,Lapsed low-value,3
+14618,Lapsed low-value,1
+14619,Lapsed low-value,0
+14620,Lapsed low-value,4
+14621,Loyal high-value,1
+14622,One-time buyer (recent),
+14623,Loyal high-value,5
+14624,Lapsed low-value,7
+14625,Loyal high-value,5
+14626,Loyal high-value,5
+14627,One-time buyer (lapsed),
+14628,Loyal high-value,7
+14630,One-time buyer (lapsed),
+14631,Loyal high-value,1
+14632,One-time buyer (recent),
+14633,One-time buyer (recent),
+14634,Lapsed low-value,0
+14635,One-time buyer (lapsed),
+14636,One-time buyer (recent),
+14637,One-time buyer (lapsed),
+14639,Loyal high-value,1
+14640,Loyal high-value,1
+14643,Loyal high-value,1
+14644,Lapsed low-value,1
+14645,Lapsed low-value,0
+14646,Loyal high-value,2
+14647,Lapsed low-value,3
+14648,Loyal high-value,5
+14649,Loyal high-value,1
+14650,One-time buyer (lapsed),
+14651,Loyal high-value,5
+14653,Lapsed low-value,7
+14654,One-time buyer (lapsed),
+14655,Loyal high-value,0
+14656,Lapsed low-value,7
+14657,Lapsed low-value,1
+14658,One-time buyer (recent),
+14659,Loyal high-value,1
+14660,One-time buyer (recent),
+14662,Lapsed low-value,7
+14663,Lapsed low-value,6
+14665,Lapsed low-value,1
+14667,Loyal high-value,2
+14668,One-time buyer (lapsed),
+14669,Loyal high-value,1
+14670,Lapsed low-value,3
+14671,Lapsed low-value,3
+14672,Lapsed low-value,7
+14673,Lapsed low-value,3
+14674,One-time buyer (lapsed),
+14675,One-time buyer (lapsed),
+14676,Loyal high-value,5
+14677,One-time buyer (lapsed),
+14678,One-time buyer (lapsed),
+14679,Lapsed low-value,0
+14680,Loyal high-value,2
+14681,Lapsed low-value,7
+14682,Lapsed low-value,7
+14683,One-time buyer (lapsed),
+14684,Lapsed low-value,3
+14685,Loyal high-value,1
+14686,Lapsed low-value,1
+14687,Loyal high-value,3
+14688,Loyal high-value,2
+14689,One-time buyer (recent),
+14690,Lapsed low-value,0
+14691,Lapsed low-value,3
+14692,Loyal high-value,5
+14693,Lapsed low-value,1
+14694,One-time buyer (lapsed),
+14695,Lapsed low-value,0
+14696,Loyal high-value,1
+14697,Lapsed low-value,6
+14699,Lapsed low-value,7
+14700,Loyal high-value,7
+14701,Loyal high-value,5
+14702,Loyal high-value,2
+14704,Lapsed low-value,7
+14705,One-time buyer (recent),
+14706,One-time buyer (lapsed),
+14707,Lapsed low-value,3
+14708,Lapsed low-value,0
+14709,Loyal high-value,2
+14710,Lapsed low-value,5
+14711,Loyal high-value,5
+14712,Lapsed low-value,3
+14713,Loyal high-value,2
+14714,Lapsed low-value,0
+14715,Loyal high-value,1
+14716,Lapsed low-value,3
+14717,One-time buyer (lapsed),
+14718,One-time buyer (lapsed),
+14719,Lapsed low-value,3
+14720,One-time buyer (recent),
+14721,One-time buyer (lapsed),
+14722,Lapsed low-value,3
+14723,Lapsed low-value,1
+14724,One-time buyer (lapsed),
+14725,Lapsed low-value,0
+14726,One-time buyer (lapsed),
+14727,High-return buyer,4
+14728,One-time buyer (lapsed),
+14729,Lapsed low-value,3
+14730,Lapsed low-value,7
+14731,Lapsed low-value,6
+14732,Loyal high-value,5
+14733,Loyal high-value,5
+14734,Lapsed low-value,0
+14735,Loyal high-value,2
+14736,Lapsed low-value,6
+14737,Loyal high-value,3
+14738,Loyal high-value,1
+14739,Loyal high-value,2
+14740,Loyal high-value,5
+14741,Loyal high-value,7
+14742,One-time buyer (lapsed),
+14743,One-time buyer (lapsed),
+14744,Loyal high-value,5
+14745,Loyal high-value,5
+14746,Lapsed low-value,7
+14747,One-time buyer (recent),
+14748,Loyal high-value,4
+14749,One-time buyer (lapsed),
+14750,One-time buyer (lapsed),
+14751,Lapsed low-value,3
+14753,One-time buyer (lapsed),
+14754,Lapsed low-value,1
+14755,Loyal high-value,2
+14756,Lapsed low-value,0
+14758,Loyal high-value,1
+14759,Lapsed low-value,3
+14760,One-time buyer (lapsed),
+14761,Lapsed low-value,3
+14762,Lapsed low-value,6
+14765,Lapsed low-value,3
+14766,Loyal high-value,5
+14767,One-time buyer (lapsed),
+14768,One-time buyer (recent),
+14769,Loyal high-value,5
+14770,Loyal high-value,1
+14771,Lapsed low-value,0
+14772,One-time buyer (recent),
+14773,One-time buyer (lapsed),
+14774,One-time buyer (lapsed),
+14775,Lapsed low-value,3
+14776,Loyal high-value,5
+14777,One-time buyer (lapsed),
+14778,Lapsed low-value,3
+14779,Lapsed low-value,3
+14782,One-time buyer (lapsed),
+14783,One-time buyer (lapsed),
+14784,Lapsed low-value,3
+14786,One-time buyer (lapsed),
+14787,One-time buyer (lapsed),
+14788,One-time buyer (lapsed),
+14790,Loyal high-value,5
+14791,One-time buyer (lapsed),
+14793,One-time buyer (lapsed),
+14794,Lapsed low-value,1
+14795,One-time buyer (recent),
+14796,Loyal high-value,2
+14797,One-time buyer (lapsed),
+14798,Lapsed low-value,1
+14799,One-time buyer (lapsed),
+14800,Loyal high-value,5
+14803,Lapsed low-value,3
+14805,Lapsed low-value,7
+14806,One-time buyer (lapsed),
+14807,Lapsed low-value,3
+14808,Lapsed low-value,1
+14809,Lapsed low-value,6
+14810,Loyal high-value,5
+14811,One-time buyer (lapsed),
+14812,One-time buyer (lapsed),
+14813,Lapsed low-value,7
+14814,One-time buyer (lapsed),
+14816,One-time buyer (recent),
+14817,Loyal high-value,1
+14818,Lapsed low-value,7
+14819,Lapsed low-value,3
+14820,Lapsed low-value,7
+14821,Lapsed low-value,7
+14822,One-time buyer (lapsed),
+14823,Lapsed low-value,3
+14824,Loyal high-value,1
+14825,Loyal high-value,2
+14826,Lapsed low-value,3
+14828,Loyal high-value,5
+14829,Lapsed low-value,1
+14831,Lapsed low-value,0
+14833,One-time buyer (lapsed),
+14834,Lapsed low-value,0
+14835,Lapsed low-value,0
+14837,Loyal high-value,5
+14838,Lapsed low-value,3
+14839,Lapsed low-value,3
+14840,Lapsed low-value,0
+14841,Loyal high-value,5
+14842,Loyal high-value,0
+14843,One-time buyer (lapsed),
+14844,Loyal high-value,5
+14845,One-time buyer (lapsed),
+14846,One-time buyer (lapsed),
+14847,Lapsed low-value,0
+14848,One-time buyer (lapsed),
+14849,Loyal high-value,2
+14850,Lapsed low-value,1
+14851,Lapsed low-value,6
+14852,Loyal high-value,5
+14853,Lapsed low-value,0
+14854,Loyal high-value,5
+14855,Loyal high-value,1
+14857,Loyal high-value,1
+14858,One-time buyer (lapsed),
+14859,Lapsed low-value,0
+14861,Lapsed low-value,5
+14862,One-time buyer (recent),
+14865,Lapsed low-value,4
+14866,Loyal high-value,5
+14867,Loyal high-value,5
+14868,Loyal high-value,5
+14869,Loyal high-value,1
+14870,Lapsed low-value,1
+14871,Lapsed low-value,1
+14872,Lapsed low-value,0
+14873,Lapsed low-value,3
+14874,One-time buyer (lapsed),
+14875,Loyal high-value,0
+14876,Lapsed low-value,3
+14877,Lapsed low-value,3
+14878,Loyal high-value,4
+14879,One-time buyer (lapsed),
+14880,Lapsed low-value,3
+14882,Loyal high-value,4
+14883,Lapsed low-value,3
+14884,One-time buyer (lapsed),
+14885,Lapsed low-value,0
+14886,One-time buyer (recent),
+14888,One-time buyer (recent),
+14889,One-time buyer (lapsed),
+14890,Lapsed low-value,3
+14891,Lapsed low-value,7
+14892,One-time buyer (lapsed),
+14893,One-time buyer (lapsed),
+14894,Lapsed low-value,0
+14895,Loyal high-value,2
+14896,Loyal high-value,1
+14897,Loyal high-value,1
+14898,Loyal high-value,5
+14899,One-time buyer (lapsed),
+14900,One-time buyer (lapsed),
+14901,Loyal high-value,5
+14902,Lapsed low-value,0
+14903,Loyal high-value,0
+14904,Lapsed low-value,6
+14905,Loyal high-value,1
+14907,Loyal high-value,5
+14908,One-time buyer (lapsed),
+14909,Lapsed low-value,0
+14911,Loyal high-value,2
+14912,Lapsed low-value,0
+14913,Loyal high-value,1
+14915,Loyal high-value,5
+14916,Loyal high-value,1
+14917,Lapsed low-value,6
+14918,Loyal high-value,5
+14919,One-time buyer (lapsed),
+14920,Lapsed low-value,6
+14921,One-time buyer (recent),
+14922,Lapsed low-value,3
+14924,Lapsed low-value,3
+14926,Lapsed low-value,0
+14927,One-time buyer (lapsed),
+14928,One-time buyer (lapsed),
+14929,One-time buyer (lapsed),
+14930,Loyal high-value,1
+14931,One-time buyer (recent),
+14932,Lapsed low-value,3
+14933,High-return buyer,4
+14934,High-return buyer,4
+14935,Lapsed low-value,3
+14936,Loyal high-value,1
+14937,One-time buyer (recent),
+14938,Lapsed low-value,0
+14940,Lapsed low-value,3
+14941,One-time buyer (lapsed),
+14942,Lapsed low-value,7
+14943,One-time buyer (lapsed),
+14944,Loyal high-value,5
+14945,One-time buyer (lapsed),
+14947,Lapsed low-value,7
+14948,Lapsed low-value,7
+14949,Lapsed low-value,0
+14952,Loyal high-value,2
+14953,Lapsed low-value,0
+14954,One-time buyer (lapsed),
+14955,One-time buyer (lapsed),
+14956,One-time buyer (lapsed),
+14957,Lapsed low-value,6
+14958,Lapsed low-value,7
+14959,Lapsed low-value,3
+14960,One-time buyer (recent),
+14961,Loyal high-value,2
+14962,Lapsed low-value,7
+14963,Loyal high-value,5
+14964,One-time buyer (recent),
+14965,Lapsed low-value,6
+14966,Lapsed low-value,7
+14967,Lapsed low-value,7
+14968,One-time buyer (lapsed),
+14969,One-time buyer (lapsed),
+14970,Loyal high-value,4
+14972,Lapsed low-value,3
+14973,Lapsed low-value,3
+14975,One-time buyer (lapsed),
+14976,Lapsed low-value,0
+14977,One-time buyer (lapsed),
+14978,Loyal high-value,5
+14979,One-time buyer (lapsed),
+14980,One-time buyer (lapsed),
+14981,Lapsed low-value,0
+14982,One-time buyer (lapsed),
+14983,One-time buyer (lapsed),
+14984,Lapsed low-value,7
+14985,Lapsed low-value,3
+14986,Lapsed low-value,3
+14987,Lapsed low-value,4
+14988,Loyal high-value,1
+14989,One-time buyer (lapsed),
+14990,Lapsed low-value,3
+14991,One-time buyer (lapsed),
+14992,One-time buyer (lapsed),
+14993,One-time buyer (lapsed),
+14994,Lapsed low-value,4
+14995,One-time buyer (lapsed),
+14996,Lapsed low-value,6
+14997,Lapsed low-value,3
+14998,Lapsed low-value,7
+14999,One-time buyer (lapsed),
+15001,Lapsed low-value,6
+15002,Loyal high-value,5
+15003,Lapsed low-value,1
+15004,One-time buyer (recent),
+15005,Loyal high-value,2
+15006,One-time buyer (lapsed),
+15007,One-time buyer (recent),
+15008,Lapsed low-value,3
+15011,Lapsed low-value,3
+15012,Lapsed low-value,3
+15013,Loyal high-value,5
+15014,One-time buyer (recent),
+15015,Loyal high-value,5
+15016,Lapsed low-value,1
+15018,Lapsed low-value,0
+15019,One-time buyer (recent),
+15020,One-time buyer (lapsed),
+15021,Loyal high-value,1
+15022,One-time buyer (lapsed),
+15023,Loyal high-value,5
+15024,Loyal high-value,5
+15025,One-time buyer (lapsed),
+15026,Lapsed low-value,7
+15027,Loyal high-value,4
+15028,Lapsed low-value,3
+15029,One-time buyer (lapsed),
+15030,Lapsed low-value,1
+15031,Loyal high-value,4
+15032,Loyal high-value,1
+15033,Loyal high-value,1
+15034,Loyal high-value,5
+15036,Lapsed low-value,6
+15037,Lapsed low-value,6
+15038,Lapsed low-value,1
+15039,Loyal high-value,2
+15040,One-time buyer (lapsed),
+15041,Lapsed low-value,3
+15042,Lapsed low-value,3
+15043,Lapsed low-value,7
+15044,Loyal high-value,2
+15045,Lapsed low-value,0
+15046,Loyal high-value,2
+15047,One-time buyer (recent),
+15048,Lapsed low-value,0
+15049,One-time buyer (lapsed),
+15050,Lapsed low-value,3
+15051,Loyal high-value,1
+15052,One-time buyer (lapsed),
+15053,Lapsed low-value,3
+15055,Lapsed low-value,3
+15056,One-time buyer (lapsed),
+15057,Loyal high-value,1
+15058,Loyal high-value,5
+15059,Loyal high-value,2
+15061,Loyal high-value,2
+15062,Loyal high-value,1
+15063,One-time buyer (recent),
+15064,Lapsed low-value,7
+15065,Loyal high-value,0
+15067,Loyal high-value,0
+15068,Lapsed low-value,3
+15069,One-time buyer (recent),
+15070,Lapsed low-value,3
+15071,Loyal high-value,7
+15072,One-time buyer (lapsed),
+15073,Loyal high-value,4
+15074,Lapsed low-value,3
+15076,Lapsed low-value,0
+15077,Lapsed low-value,0
+15078,Loyal high-value,2
+15079,Loyal high-value,5
+15080,Lapsed low-value,3
+15081,Loyal high-value,5
+15082,One-time buyer (lapsed),
+15083,One-time buyer (recent),
+15084,Lapsed low-value,3
+15085,One-time buyer (lapsed),
+15086,Lapsed low-value,3
+15087,One-time buyer (lapsed),
+15089,Lapsed low-value,3
+15090,One-time buyer (lapsed),
+15091,Lapsed low-value,0
+15092,Lapsed low-value,0
+15093,Loyal high-value,2
+15094,Lapsed low-value,3
+15095,Loyal high-value,5
+15097,High-return buyer,4
+15098,High-return buyer,4
+15100,Lapsed low-value,4
+15101,Lapsed low-value,1
+15102,Lapsed low-value,6
+15104,Lapsed low-value,0
+15105,Lapsed low-value,3
+15106,Lapsed low-value,0
+15107,Lapsed low-value,4
+15108,Lapsed low-value,0
+15109,Lapsed low-value,0
+15110,Lapsed low-value,0
+15111,Lapsed low-value,3
+15112,One-time buyer (lapsed),
+15114,Loyal high-value,5
+15115,One-time buyer (lapsed),
+15116,Lapsed low-value,3
+15117,Loyal high-value,7
+15118,One-time buyer (recent),
+15119,One-time buyer (recent),
+15120,One-time buyer (recent),
+15121,One-time buyer (lapsed),
+15122,Loyal high-value,5
+15123,Loyal high-value,7
+15124,Lapsed low-value,3
+15125,Loyal high-value,4
+15126,Lapsed low-value,3
+15127,One-time buyer (lapsed),
+15128,Loyal high-value,0
+15129,Loyal high-value,2
+15130,One-time buyer (recent),
+15131,One-time buyer (lapsed),
+15132,Lapsed low-value,3
+15133,Loyal high-value,7
+15134,Lapsed low-value,7
+15135,Lapsed low-value,0
+15136,One-time buyer (recent),
+15137,Lapsed low-value,4
+15138,One-time buyer (lapsed),
+15139,Lapsed low-value,3
+15140,Loyal high-value,1
+15141,Lapsed low-value,1
+15142,Lapsed low-value,1
+15143,Lapsed low-value,3
+15144,Loyal high-value,2
+15145,Lapsed low-value,6
+15146,Lapsed low-value,0
+15147,One-time buyer (recent),
+15149,Lapsed low-value,7
+15150,Loyal high-value,1
+15151,Lapsed low-value,3
+15152,Loyal high-value,1
+15154,Lapsed low-value,6
+15155,One-time buyer (lapsed),
+15157,Lapsed low-value,0
+15158,One-time buyer (lapsed),
+15159,Loyal high-value,2
+15160,Lapsed low-value,7
+15161,One-time buyer (lapsed),
+15162,One-time buyer (lapsed),
+15163,One-time buyer (recent),
+15164,Loyal high-value,5
+15165,One-time buyer (lapsed),
+15166,One-time buyer (lapsed),
+15167,Lapsed low-value,7
+15169,Lapsed low-value,3
+15170,One-time buyer (lapsed),
+15171,One-time buyer (lapsed),
+15172,Lapsed low-value,3
+15173,Lapsed low-value,1
+15174,Lapsed low-value,3
+15176,One-time buyer (lapsed),
+15177,One-time buyer (lapsed),
+15178,One-time buyer (recent),
+15179,Loyal high-value,5
+15180,Lapsed low-value,3
+15181,Lapsed low-value,4
+15182,Loyal high-value,5
+15183,Lapsed low-value,0
+15184,Lapsed low-value,3
+15186,Lapsed low-value,7
+15187,Loyal high-value,1
+15188,One-time buyer (lapsed),
+15189,Loyal high-value,2
+15190,One-time buyer (lapsed),
+15191,Lapsed low-value,3
+15192,Loyal high-value,7
+15194,Loyal high-value,2
+15196,Lapsed low-value,3
+15197,Lapsed low-value,1
+15198,Loyal high-value,1
+15199,Loyal high-value,5
+15200,One-time buyer (lapsed),
+15201,Loyal high-value,1
+15203,Loyal high-value,5
+15204,One-time buyer (lapsed),
+15205,One-time buyer (recent),
+15206,Lapsed low-value,3
+15207,Lapsed low-value,0
+15208,Lapsed low-value,3
+15209,One-time buyer (lapsed),
+15210,Lapsed low-value,3
+15211,One-time buyer (lapsed),
+15212,Lapsed low-value,0
+15213,Lapsed low-value,0
+15214,Lapsed low-value,3
+15215,High-return buyer,4
+15216,One-time buyer (lapsed),
+15217,One-time buyer (lapsed),
+15218,Loyal high-value,2
+15219,Lapsed low-value,3
+15220,Loyal high-value,1
+15221,Lapsed low-value,4
+15222,Loyal high-value,4
+15223,High-return buyer,4
+15224,Lapsed low-value,1
+15225,One-time buyer (recent),
+15226,One-time buyer (lapsed),
+15227,Loyal high-value,1
+15228,Loyal high-value,1
+15229,One-time buyer (lapsed),
+15230,Lapsed low-value,6
+15231,One-time buyer (lapsed),
+15232,Lapsed low-value,3
+15233,One-time buyer (lapsed),
+15234,One-time buyer (lapsed),
+15235,Loyal high-value,5
+15236,One-time buyer (lapsed),
+15237,Lapsed low-value,3
+15238,Lapsed low-value,0
+15240,Loyal high-value,5
+15241,Loyal high-value,5
+15242,One-time buyer (lapsed),
+15243,One-time buyer (lapsed),
+15244,Lapsed low-value,0
+15245,Loyal high-value,1
+15246,Lapsed low-value,3
+15247,Lapsed low-value,0
+15248,Lapsed low-value,0
+15249,Loyal high-value,5
+15250,One-time buyer (lapsed),
+15251,Loyal high-value,2
+15252,Lapsed low-value,0
+15253,Lapsed low-value,0
+15254,Lapsed low-value,0
+15255,Loyal high-value,1
+15256,Lapsed low-value,3
+15257,Lapsed low-value,0
+15258,Lapsed low-value,3
+15259,Lapsed low-value,7
+15260,Loyal high-value,2
+15261,Lapsed low-value,7
+15262,Lapsed low-value,3
+15263,One-time buyer (recent),
+15264,One-time buyer (lapsed),
+15265,Loyal high-value,7
+15266,Lapsed low-value,7
+15267,Lapsed low-value,3
+15268,Lapsed low-value,0
+15269,Lapsed low-value,6
+15270,Loyal high-value,4
+15271,Loyal high-value,2
+15272,Lapsed low-value,7
+15273,One-time buyer (lapsed),
+15276,Lapsed low-value,0
+15277,One-time buyer (lapsed),
+15278,Lapsed low-value,7
+15279,Lapsed low-value,4
+15280,Lapsed low-value,3
+15281,Loyal high-value,5
+15282,One-time buyer (lapsed),
+15283,Lapsed low-value,0
+15284,One-time buyer (lapsed),
+15285,One-time buyer (lapsed),
+15287,Lapsed low-value,3
+15288,Loyal high-value,5
+15289,Lapsed low-value,0
+15290,Loyal high-value,2
+15291,Loyal high-value,2
+15292,One-time buyer (recent),
+15293,One-time buyer (lapsed),
+15294,One-time buyer (lapsed),
+15295,One-time buyer (lapsed),
+15296,Loyal high-value,5
+15298,Loyal high-value,2
+15299,Loyal high-value,1
+15301,Loyal high-value,5
+15302,One-time buyer (lapsed),
+15303,Lapsed low-value,0
+15304,Lapsed low-value,1
+15305,One-time buyer (lapsed),
+15306,Loyal high-value,5
+15307,One-time buyer (recent),
+15308,One-time buyer (lapsed),
+15309,Lapsed low-value,0
+15310,One-time buyer (lapsed),
+15311,Loyal high-value,2
+15312,Loyal high-value,5
+15313,One-time buyer (recent),
+15314,Lapsed low-value,0
+15315,One-time buyer (recent),
+15316,One-time buyer (lapsed),
+15317,One-time buyer (lapsed),
+15319,One-time buyer (lapsed),
+15321,Loyal high-value,5
+15322,One-time buyer (lapsed),
+15323,Lapsed low-value,4
+15324,One-time buyer (lapsed),
+15325,Loyal high-value,5
+15326,Lapsed low-value,1
+15328,One-time buyer (lapsed),
+15329,Loyal high-value,4
+15331,Lapsed low-value,0
+15332,Loyal high-value,7
+15333,One-time buyer (recent),
+15334,Lapsed low-value,3
+15336,One-time buyer (lapsed),
+15337,One-time buyer (lapsed),
+15338,One-time buyer (lapsed),
+15339,Lapsed low-value,1
+15340,One-time buyer (lapsed),
+15341,One-time buyer (lapsed),
+15342,One-time buyer (recent),
+15346,Lapsed low-value,0
+15347,Lapsed low-value,0
+15349,Lapsed low-value,3
+15350,Lapsed low-value,3
+15351,Lapsed low-value,0
+15352,One-time buyer (lapsed),
+15353,Loyal high-value,1
+15356,Loyal high-value,5
+15358,Loyal high-value,2
+15359,Lapsed low-value,4
+15361,Lapsed low-value,7
+15362,Lapsed low-value,3
+15363,Lapsed low-value,0
+15364,Lapsed low-value,3
+15365,Loyal high-value,5
+15366,Loyal high-value,7
+15367,Loyal high-value,5
+15368,One-time buyer (lapsed),
+15369,High-return buyer,4
+15370,Loyal high-value,1
+15371,One-time buyer (lapsed),
+15372,Loyal high-value,1
+15373,Loyal high-value,2
+15374,Lapsed low-value,3
+15375,One-time buyer (lapsed),
+15376,Lapsed low-value,3
+15377,Lapsed low-value,0
+15378,Lapsed low-value,3
+15379,Loyal high-value,1
+15380,Loyal high-value,1
+15381,Lapsed low-value,1
+15382,Loyal high-value,5
+15384,Lapsed low-value,0
+15385,Lapsed low-value,3
+15386,One-time buyer (recent),
+15387,One-time buyer (lapsed),
+15388,One-time buyer (recent),
+15389,Loyal high-value,7
+15390,Lapsed low-value,3
+15391,One-time buyer (lapsed),
+15392,Lapsed low-value,0
+15393,Lapsed low-value,7
+15394,Loyal high-value,5
+15395,One-time buyer (lapsed),
+15396,Lapsed low-value,3
+15397,One-time buyer (lapsed),
+15400,Loyal high-value,1
+15401,Lapsed low-value,3
+15402,Loyal high-value,1
+15403,Lapsed low-value,3
+15404,One-time buyer (lapsed),
+15405,Lapsed low-value,3
+15406,Lapsed low-value,3
+15407,Lapsed low-value,3
+15408,One-time buyer (recent),
+15409,One-time buyer (lapsed),
+15410,Loyal high-value,5
+15411,Lapsed low-value,3
+15412,One-time buyer (recent),
+15413,Loyal high-value,7
+15414,One-time buyer (recent),
+15415,One-time buyer (lapsed),
+15416,Loyal high-value,1
+15418,Lapsed low-value,3
+15420,Lapsed low-value,7
+15421,Loyal high-value,5
+15422,Lapsed low-value,1
+15423,Lapsed low-value,0
+15424,Lapsed low-value,3
+15425,Lapsed low-value,7
+15426,Lapsed low-value,1
+15428,Lapsed low-value,3
+15430,Lapsed low-value,0
+15431,One-time buyer (lapsed),
+15432,One-time buyer (lapsed),
+15433,Lapsed low-value,3
+15434,Loyal high-value,5
+15436,One-time buyer (recent),
+15437,Lapsed low-value,6
+15438,One-time buyer (recent),
+15439,Lapsed low-value,7
+15440,Lapsed low-value,3
+15441,Lapsed low-value,3
+15442,One-time buyer (recent),
+15443,Loyal high-value,5
+15445,Lapsed low-value,3
+15446,Lapsed low-value,0
+15447,Lapsed low-value,1
+15448,Lapsed low-value,3
+15449,Lapsed low-value,0
+15451,Lapsed low-value,3
+15452,Lapsed low-value,7
+15453,Lapsed low-value,7
+15454,Lapsed low-value,3
+15455,One-time buyer (lapsed),
+15456,Loyal high-value,5
+15457,One-time buyer (recent),
+15458,One-time buyer (lapsed),
+15459,Lapsed low-value,3
+15460,One-time buyer (lapsed),
+15461,Lapsed low-value,0
+15462,Lapsed low-value,7
+15464,One-time buyer (lapsed),
+15465,Loyal high-value,2
+15466,Lapsed low-value,3
+15467,Lapsed low-value,6
+15468,One-time buyer (lapsed),
+15469,Lapsed low-value,0
+15470,One-time buyer (lapsed),
+15471,Lapsed low-value,3
+15472,One-time buyer (recent),
+15473,One-time buyer (lapsed),
+15474,One-time buyer (lapsed),
+15476,Lapsed low-value,0
+15477,One-time buyer (lapsed),
+15478,One-time buyer (lapsed),
+15479,One-time buyer (lapsed),
+15480,Loyal high-value,3
+15481,One-time buyer (lapsed),
+15482,Loyal high-value,5
+15483,Lapsed low-value,5
+15484,Lapsed low-value,3
+15485,Loyal high-value,1
+15486,One-time buyer (lapsed),
+15487,One-time buyer (lapsed),
+15488,Lapsed low-value,7
+15489,Loyal high-value,1
+15490,One-time buyer (lapsed),
+15491,Loyal high-value,1
+15493,Loyal high-value,1
+15494,Loyal high-value,7
+15495,One-time buyer (lapsed),
+15496,One-time buyer (lapsed),
+15497,Loyal high-value,1
+15498,Loyal high-value,2
+15499,One-time buyer (lapsed),
+15501,Lapsed low-value,6
+15502,Loyal high-value,1
+15503,Lapsed low-value,6
+15504,Lapsed low-value,0
+15505,Lapsed low-value,3
+15506,Lapsed low-value,7
+15507,One-time buyer (recent),
+15508,Lapsed low-value,7
+15509,One-time buyer (lapsed),
+15510,One-time buyer (lapsed),
+15512,Lapsed low-value,7
+15513,Loyal high-value,2
+15514,Loyal high-value,4
+15515,One-time buyer (lapsed),
+15517,One-time buyer (recent),
+15518,Loyal high-value,5
+15519,Lapsed low-value,3
+15521,Loyal high-value,2
+15523,Loyal high-value,5
+15524,One-time buyer (lapsed),
+15525,Lapsed low-value,3
+15527,Loyal high-value,2
+15528,One-time buyer (recent),
+15529,Loyal high-value,5
+15530,Lapsed low-value,7
+15532,Loyal high-value,5
+15534,One-time buyer (lapsed),
+15535,Lapsed low-value,1
+15536,One-time buyer (lapsed),
+15537,One-time buyer (recent),
+15538,Loyal high-value,1
+15540,One-time buyer (lapsed),
+15541,One-time buyer (recent),
+15542,Lapsed low-value,0
+15543,Lapsed low-value,3
+15544,Loyal high-value,2
+15545,One-time buyer (lapsed),
+15546,High-return buyer,4
+15547,Loyal high-value,2
+15548,One-time buyer (lapsed),
+15549,Loyal high-value,1
+15550,Loyal high-value,5
+15551,Lapsed low-value,1
+15552,Lapsed low-value,3
+15554,One-time buyer (lapsed),
+15555,Loyal high-value,2
+15558,One-time buyer (lapsed),
+15559,One-time buyer (lapsed),
+15560,Lapsed low-value,6
+15561,Loyal high-value,1
+15562,Lapsed low-value,3
+15563,Loyal high-value,1
+15564,Lapsed low-value,3
+15566,Lapsed low-value,3
+15569,Loyal high-value,5
+15570,Loyal high-value,2
+15571,Loyal high-value,5
+15572,Loyal high-value,1
+15573,Lapsed low-value,3
+15574,Lapsed low-value,4
+15575,One-time buyer (lapsed),
+15577,Lapsed low-value,7
+15578,One-time buyer (recent),
+15579,Lapsed low-value,4
+15580,Lapsed low-value,1
+15581,Loyal high-value,2
+15582,Lapsed low-value,3
+15583,One-time buyer (lapsed),
+15584,Lapsed low-value,3
+15585,One-time buyer (recent),
+15586,Lapsed low-value,0
+15587,Lapsed low-value,7
+15588,One-time buyer (lapsed),
+15589,Lapsed low-value,0
+15590,Lapsed low-value,7
+15591,Lapsed low-value,3
+15594,Lapsed low-value,0
+15595,One-time buyer (lapsed),
+15596,Loyal high-value,5
+15597,One-time buyer (lapsed),
+15598,One-time buyer (lapsed),
+15599,Lapsed low-value,3
+15600,Lapsed low-value,0
+15601,Loyal high-value,2
+15602,Loyal high-value,4
+15603,One-time buyer (lapsed),
+15605,Lapsed low-value,1
+15606,Loyal high-value,5
+15607,Lapsed low-value,5
+15608,Lapsed low-value,3
+15609,One-time buyer (recent),
+15611,Loyal high-value,2
+15613,One-time buyer (lapsed),
+15614,Lapsed low-value,0
+15615,Loyal high-value,2
+15616,One-time buyer (lapsed),
+15617,Lapsed low-value,3
+15618,Lapsed low-value,3
+15620,Lapsed low-value,0
+15622,Loyal high-value,5
+15623,Loyal high-value,5
+15624,Lapsed low-value,7
+15625,Loyal high-value,5
+15626,Lapsed low-value,0
+15627,Lapsed low-value,3
+15628,Loyal high-value,5
+15629,Lapsed low-value,7
+15630,Lapsed low-value,0
+15631,One-time buyer (lapsed),
+15632,Loyal high-value,1
+15633,Loyal high-value,5
+15634,One-time buyer (lapsed),
+15635,One-time buyer (lapsed),
+15636,Lapsed low-value,3
+15637,Lapsed low-value,7
+15638,Loyal high-value,1
+15639,Lapsed low-value,0
+15640,Loyal high-value,2
+15641,Loyal high-value,5
+15642,One-time buyer (lapsed),
+15643,Lapsed low-value,0
+15644,Lapsed low-value,7
+15645,Lapsed low-value,0
+15646,Lapsed low-value,1
+15647,One-time buyer (lapsed),
+15648,Lapsed low-value,0
+15649,Lapsed low-value,7
+15650,Lapsed low-value,0
+15651,Lapsed low-value,3
+15652,Loyal high-value,1
+15653,Lapsed low-value,3
+15655,One-time buyer (recent),
+15656,Lapsed low-value,3
+15658,Loyal high-value,1
+15659,Lapsed low-value,3
+15660,Loyal high-value,5
+15661,Lapsed low-value,5
+15662,Lapsed low-value,3
+15663,One-time buyer (recent),
+15664,Lapsed low-value,0
+15665,Loyal high-value,7
+15666,Lapsed low-value,6
+15668,One-time buyer (recent),
+15669,Lapsed low-value,0
+15670,Lapsed low-value,0
+15671,Loyal high-value,1
+15672,One-time buyer (lapsed),
+15673,Loyal high-value,1
+15674,Loyal high-value,4
+15675,Lapsed low-value,3
+15676,One-time buyer (lapsed),
+15677,Lapsed low-value,3
+15678,Lapsed low-value,3
+15679,Lapsed low-value,3
+15680,Loyal high-value,1
+15681,Loyal high-value,5
+15682,Lapsed low-value,0
+15683,Lapsed low-value,6
+15684,Lapsed low-value,0
+15685,One-time buyer (lapsed),
+15686,One-time buyer (lapsed),
+15687,Lapsed low-value,1
+15688,One-time buyer (lapsed),
+15689,Lapsed low-value,3
+15690,One-time buyer (recent),
+15691,Lapsed low-value,0
+15693,One-time buyer (lapsed),
+15694,Loyal high-value,2
+15695,Lapsed low-value,7
+15696,Loyal high-value,5
+15697,One-time buyer (lapsed),
+15698,One-time buyer (lapsed),
+15700,Lapsed low-value,0
+15701,One-time buyer (recent),
+15702,One-time buyer (lapsed),
+15703,One-time buyer (recent),
+15704,Loyal high-value,1
+15705,One-time buyer (recent),
+15706,One-time buyer (recent),
+15708,Loyal high-value,1
+15709,Lapsed low-value,3
+15710,One-time buyer (lapsed),
+15711,Lapsed low-value,3
+15712,Loyal high-value,5
+15713,Lapsed low-value,0
+15714,Lapsed low-value,3
+15715,Lapsed low-value,7
+15716,Loyal high-value,5
+15717,Lapsed low-value,7
+15718,One-time buyer (lapsed),
+15719,Loyal high-value,2
+15720,One-time buyer (lapsed),
+15722,Loyal high-value,5
+15723,Lapsed low-value,7
+15724,Lapsed low-value,0
+15726,One-time buyer (lapsed),
+15727,Loyal high-value,5
+15728,Lapsed low-value,3
+15729,Lapsed low-value,4
+15730,Loyal high-value,0
+15731,One-time buyer (lapsed),
+15732,Loyal high-value,5
+15733,One-time buyer (lapsed),
+15734,Loyal high-value,7
+15735,One-time buyer (lapsed),
+15736,Lapsed low-value,0
+15737,Lapsed low-value,1
+15738,Loyal high-value,2
+15741,Lapsed low-value,3
+15742,One-time buyer (lapsed),
+15743,Lapsed low-value,3
+15745,One-time buyer (recent),
+15746,One-time buyer (recent),
+15747,Loyal high-value,5
+15748,Lapsed low-value,6
+15749,High-return buyer,4
+15750,Loyal high-value,5
+15751,Lapsed low-value,5
+15752,Loyal high-value,5
+15753,One-time buyer (lapsed),
+15754,Loyal high-value,1
+15755,Loyal high-value,5
+15756,Lapsed low-value,3
+15757,Loyal high-value,7
+15759,Lapsed low-value,1
+15761,One-time buyer (lapsed),
+15764,Loyal high-value,1
+15765,One-time buyer (lapsed),
+15766,Lapsed low-value,0
+15768,Loyal high-value,2
+15769,Loyal high-value,2
+15770,One-time buyer (lapsed),
+15771,Lapsed low-value,3
+15772,One-time buyer (lapsed),
+15773,One-time buyer (lapsed),
+15774,Lapsed low-value,7
+15775,Lapsed low-value,3
+15776,One-time buyer (recent),
+15777,Loyal high-value,1
+15778,One-time buyer (lapsed),
+15779,Lapsed low-value,3
+15780,Lapsed low-value,3
+15781,Lapsed low-value,0
+15782,One-time buyer (lapsed),
+15784,Lapsed low-value,3
+15785,Loyal high-value,5
+15786,Loyal high-value,0
+15788,One-time buyer (lapsed),
+15789,Loyal high-value,1
+15791,Loyal high-value,0
+15792,Lapsed low-value,3
+15793,Lapsed low-value,7
+15794,Lapsed low-value,6
+15795,Loyal high-value,5
+15796,Loyal high-value,5
+15797,Loyal high-value,7
+15798,Lapsed low-value,3
+15799,Lapsed low-value,3
+15800,Loyal high-value,1
+15801,One-time buyer (recent),
+15803,Lapsed low-value,3
+15804,Loyal high-value,1
+15805,Loyal high-value,2
+15806,Lapsed low-value,3
+15807,Lapsed low-value,0
+15808,Loyal high-value,2
+15809,Lapsed low-value,1
+15810,Loyal high-value,1
+15811,Loyal high-value,1
+15812,Loyal high-value,5
+15813,Lapsed low-value,3
+15814,Lapsed low-value,3
+15815,Loyal high-value,7
+15816,Lapsed low-value,0
+15817,Lapsed low-value,3
+15818,One-time buyer (lapsed),
+15819,Loyal high-value,5
+15820,One-time buyer (lapsed),
+15822,Lapsed low-value,1
+15823,Lapsed low-value,4
+15824,Lapsed low-value,3
+15825,One-time buyer (recent),
+15826,Lapsed low-value,0
+15827,Loyal high-value,2
+15828,One-time buyer (lapsed),
+15829,Lapsed low-value,3
+15831,Lapsed low-value,0
+15832,One-time buyer (recent),
+15833,One-time buyer (lapsed),
+15834,Loyal high-value,1
+15835,Lapsed low-value,3
+15837,One-time buyer (lapsed),
+15838,Loyal high-value,4
+15839,One-time buyer (recent),
+15840,One-time buyer (recent),
+15841,Loyal high-value,1
+15842,Lapsed low-value,0
+15843,One-time buyer (lapsed),
+15845,Loyal high-value,1
+15846,One-time buyer (lapsed),
+15847,Lapsed low-value,7
+15848,One-time buyer (lapsed),
+15850,Lapsed low-value,7
+15851,One-time buyer (lapsed),
+15852,Lapsed low-value,3
+15854,Loyal high-value,2
+15855,Lapsed low-value,7
+15856,Loyal high-value,2
+15857,One-time buyer (lapsed),
+15858,Loyal high-value,5
+15859,One-time buyer (lapsed),
+15860,Loyal high-value,5
+15861,Loyal high-value,1
+15862,Loyal high-value,5
+15863,Lapsed low-value,7
+15864,Loyal high-value,0
+15865,Lapsed low-value,3
+15866,One-time buyer (recent),
+15867,Loyal high-value,2
+15868,One-time buyer (lapsed),
+15869,Lapsed low-value,6
+15870,Lapsed low-value,3
+15871,One-time buyer (lapsed),
+15872,Lapsed low-value,3
+15873,High-return buyer,4
+15874,Loyal high-value,2
+15875,One-time buyer (lapsed),
+15876,Lapsed low-value,3
+15878,Lapsed low-value,3
+15879,Lapsed low-value,7
+15880,One-time buyer (lapsed),
+15881,Lapsed low-value,4
+15882,Lapsed low-value,1
+15884,Lapsed low-value,3
+15885,Loyal high-value,2
+15886,Lapsed low-value,3
+15887,Lapsed low-value,3
+15888,Lapsed low-value,3
+15889,Loyal high-value,1
+15890,Lapsed low-value,7
+15891,One-time buyer (recent),
+15892,One-time buyer (lapsed),
+15893,One-time buyer (lapsed),
+15894,Lapsed low-value,3
+15895,One-time buyer (recent),
+15897,Lapsed low-value,6
+15898,Loyal high-value,2
+15899,One-time buyer (lapsed),
+15900,Lapsed low-value,0
+15901,Lapsed low-value,7
+15902,One-time buyer (lapsed),
+15903,Loyal high-value,1
+15905,One-time buyer (lapsed),
+15906,Loyal high-value,1
+15907,Lapsed low-value,3
+15908,Lapsed low-value,3
+15909,One-time buyer (recent),
+15910,Loyal high-value,5
+15911,Lapsed low-value,1
+15912,Lapsed low-value,5
+15913,One-time buyer (lapsed),
+15914,Lapsed low-value,6
+15915,One-time buyer (lapsed),
+15916,Loyal high-value,5
+15917,Lapsed low-value,7
+15918,Lapsed low-value,3
+15919,One-time buyer (lapsed),
+15920,Lapsed low-value,5
+15921,Lapsed low-value,7
+15922,One-time buyer (lapsed),
+15923,One-time buyer (lapsed),
+15924,One-time buyer (lapsed),
+15925,One-time buyer (recent),
+15926,One-time buyer (lapsed),
+15927,One-time buyer (lapsed),
+15928,One-time buyer (lapsed),
+15929,One-time buyer (lapsed),
+15931,One-time buyer (lapsed),
+15932,Loyal high-value,1
+15934,Lapsed low-value,6
+15935,One-time buyer (recent),
+15936,Lapsed low-value,3
+15938,Loyal high-value,5
+15939,Loyal high-value,5
+15940,One-time buyer (lapsed),
+15941,One-time buyer (lapsed),
+15942,One-time buyer (recent),
+15943,Lapsed low-value,3
+15944,Loyal high-value,7
+15945,Lapsed low-value,7
+15946,Lapsed low-value,3
+15948,One-time buyer (lapsed),
+15950,Loyal high-value,1
+15951,Lapsed low-value,3
+15952,Lapsed low-value,3
+15953,Loyal high-value,4
+15954,One-time buyer (lapsed),
+15955,Loyal high-value,5
+15956,Lapsed low-value,3
+15957,Lapsed low-value,6
+15958,Lapsed low-value,3
+15959,Lapsed low-value,6
+15960,Lapsed low-value,0
+15961,One-time buyer (lapsed),
+15962,One-time buyer (lapsed),
+15964,One-time buyer (lapsed),
+15965,Loyal high-value,5
+15966,One-time buyer (lapsed),
+15967,Loyal high-value,5
+15968,One-time buyer (lapsed),
+15969,Lapsed low-value,3
+15970,Lapsed low-value,3
+15971,Loyal high-value,4
+15972,Lapsed low-value,7
+15973,Lapsed low-value,0
+15974,Loyal high-value,1
+15976,Loyal high-value,7
+15978,Lapsed low-value,0
+15979,One-time buyer (lapsed),
+15980,Loyal high-value,1
+15981,Loyal high-value,2
+15982,One-time buyer (lapsed),
+15983,Lapsed low-value,4
+15984,Loyal high-value,2
+15985,Loyal high-value,4
+15986,One-time buyer (lapsed),
+15987,Loyal high-value,1
+15988,Lapsed low-value,3
+15989,Lapsed low-value,3
+15990,Lapsed low-value,7
+15991,One-time buyer (lapsed),
+15992,Lapsed low-value,3
+15994,Lapsed low-value,0
+15995,One-time buyer (lapsed),
+15996,Loyal high-value,1
+15998,Loyal high-value,5
+15999,One-time buyer (lapsed),
+16001,One-time buyer (lapsed),
+16002,One-time buyer (lapsed),
+16003,Loyal high-value,1
+16004,Lapsed low-value,7
+16005,Loyal high-value,1
+16006,Lapsed low-value,3
+16007,Loyal high-value,7
+16008,Loyal high-value,5
+16009,One-time buyer (recent),
+16010,Lapsed low-value,4
+16011,Loyal high-value,2
+16012,Loyal high-value,7
+16013,Loyal high-value,2
+16014,Lapsed low-value,7
+16016,Lapsed low-value,1
+16017,Lapsed low-value,7
+16018,Lapsed low-value,3
+16019,Loyal high-value,2
+16021,Lapsed low-value,3
+16022,One-time buyer (recent),
+16023,Lapsed low-value,3
+16024,Lapsed low-value,6
+16027,Loyal high-value,2
+16028,One-time buyer (lapsed),
+16029,Loyal high-value,2
+16030,One-time buyer (lapsed),
+16031,Lapsed low-value,3
+16032,Lapsed low-value,7
+16033,Loyal high-value,2
+16034,Lapsed low-value,1
+16035,One-time buyer (lapsed),
+16036,Lapsed low-value,3
+16037,Lapsed low-value,1
+16038,Lapsed low-value,0
+16039,Lapsed low-value,0
+16040,Loyal high-value,1
+16041,Lapsed low-value,6
+16042,Loyal high-value,1
+16043,Loyal high-value,1
+16044,One-time buyer (lapsed),
+16045,Loyal high-value,4
+16046,One-time buyer (lapsed),
+16048,Lapsed low-value,0
+16049,Lapsed low-value,3
+16050,Lapsed low-value,3
+16051,One-time buyer (lapsed),
+16053,Loyal high-value,1
+16054,Lapsed low-value,0
+16055,One-time buyer (recent),
+16057,Loyal high-value,4
+16058,One-time buyer (lapsed),
+16059,Loyal high-value,5
+16060,Lapsed low-value,3
+16061,One-time buyer (lapsed),
+16062,Loyal high-value,1
+16063,One-time buyer (recent),
+16064,One-time buyer (lapsed),
+16065,Lapsed low-value,1
+16066,One-time buyer (recent),
+16067,Lapsed low-value,0
+16068,One-time buyer (lapsed),
+16069,One-time buyer (lapsed),
+16071,Lapsed low-value,3
+16072,Loyal high-value,7
+16073,One-time buyer (lapsed),
+16074,One-time buyer (lapsed),
+16075,Lapsed low-value,0
+16076,Loyal high-value,4
+16077,One-time buyer (lapsed),
+16078,Lapsed low-value,3
+16080,Lapsed low-value,4
+16081,Loyal high-value,7
+16082,One-time buyer (lapsed),
+16083,Loyal high-value,7
+16084,One-time buyer (lapsed),
+16085,Loyal high-value,5
+16086,Loyal high-value,5
+16087,Lapsed low-value,7
+16088,Lapsed low-value,3
+16089,Lapsed low-value,3
+16090,One-time buyer (lapsed),
+16091,Lapsed low-value,3
+16092,Loyal high-value,1
+16093,One-time buyer (recent),
+16094,Loyal high-value,1
+16095,One-time buyer (lapsed),
+16096,Lapsed low-value,7
+16097,One-time buyer (recent),
+16098,Loyal high-value,5
+16099,Lapsed low-value,1
+16100,One-time buyer (lapsed),
+16101,Lapsed low-value,0
+16102,Lapsed low-value,3
+16103,Loyal high-value,2
+16104,Loyal high-value,1
+16105,Loyal high-value,7
+16107,Loyal high-value,3
+16108,Lapsed low-value,0
+16109,Lapsed low-value,0
+16110,Lapsed low-value,3
+16111,One-time buyer (lapsed),
+16112,Lapsed low-value,7
+16113,One-time buyer (recent),
+16114,One-time buyer (recent),
+16115,Loyal high-value,5
+16116,One-time buyer (recent),
+16117,Lapsed low-value,0
+16118,One-time buyer (lapsed),
+16119,Lapsed low-value,7
+16120,Lapsed low-value,6
+16121,Lapsed low-value,0
+16122,Lapsed low-value,7
+16124,Lapsed low-value,0
+16125,Loyal high-value,5
+16126,Loyal high-value,5
+16127,One-time buyer (lapsed),
+16128,Loyal high-value,1
+16129,Lapsed low-value,3
+16130,Lapsed low-value,7
+16131,Loyal high-value,5
+16132,Lapsed low-value,3
+16133,Loyal high-value,2
+16134,Lapsed low-value,0
+16135,Lapsed low-value,3
+16136,Lapsed low-value,4
+16137,One-time buyer (lapsed),
+16138,Lapsed low-value,0
+16139,Lapsed low-value,7
+16140,Lapsed low-value,3
+16141,One-time buyer (lapsed),
+16142,One-time buyer (recent),
+16143,Loyal high-value,5
+16144,One-time buyer (recent),
+16145,Loyal high-value,5
+16146,Lapsed low-value,7
+16147,Loyal high-value,1
+16148,Lapsed low-value,0
+16149,Lapsed low-value,3
+16150,Loyal high-value,1
+16152,One-time buyer (recent),
+16153,Loyal high-value,5
+16155,Lapsed low-value,1
+16156,Loyal high-value,2
+16158,Lapsed low-value,5
+16159,Lapsed low-value,0
+16161,Loyal high-value,2
+16162,One-time buyer (recent),
+16163,Loyal high-value,4
+16165,One-time buyer (lapsed),
+16166,Lapsed low-value,0
+16167,Lapsed low-value,1
+16168,Loyal high-value,2
+16170,Loyal high-value,2
+16172,Loyal high-value,5
+16173,Lapsed low-value,0
+16174,Loyal high-value,1
+16175,Loyal high-value,1
+16176,Lapsed low-value,0
+16177,Lapsed low-value,1
+16178,Lapsed low-value,3
+16180,Loyal high-value,5
+16182,Loyal high-value,1
+16183,Lapsed low-value,3
+16184,Lapsed low-value,1
+16185,Lapsed low-value,3
+16186,Loyal high-value,2
+16187,Loyal high-value,5
+16188,Lapsed low-value,0
+16190,Loyal high-value,1
+16191,Loyal high-value,2
+16192,One-time buyer (lapsed),
+16193,Lapsed low-value,3
+16194,One-time buyer (lapsed),
+16195,One-time buyer (lapsed),
+16196,One-time buyer (lapsed),
+16197,Loyal high-value,5
+16198,One-time buyer (lapsed),
+16199,Lapsed low-value,1
+16200,Loyal high-value,5
+16201,Lapsed low-value,3
+16202,Loyal high-value,5
+16203,Lapsed low-value,1
+16204,Lapsed low-value,0
+16205,Lapsed low-value,7
+16206,Loyal high-value,5
+16208,Loyal high-value,5
+16209,Loyal high-value,1
+16210,Loyal high-value,2
+16211,Lapsed low-value,3
+16212,Lapsed low-value,0
+16214,Loyal high-value,7
+16216,One-time buyer (recent),
+16217,Lapsed low-value,4
+16218,Loyal high-value,5
+16219,One-time buyer (lapsed),
+16221,Lapsed low-value,5
+16222,Lapsed low-value,3
+16223,Lapsed low-value,6
+16224,Lapsed low-value,7
+16225,Loyal high-value,5
+16226,Lapsed low-value,7
+16227,Lapsed low-value,4
+16228,Lapsed low-value,0
+16229,Loyal high-value,1
+16230,Lapsed low-value,3
+16231,Lapsed low-value,7
+16232,Loyal high-value,1
+16233,Lapsed low-value,1
+16234,Lapsed low-value,0
+16235,Loyal high-value,1
+16237,One-time buyer (lapsed),
+16238,One-time buyer (lapsed),
+16239,Lapsed low-value,1
+16241,Loyal high-value,5
+16242,Loyal high-value,5
+16244,Lapsed low-value,3
+16245,Lapsed low-value,0
+16246,Lapsed low-value,3
+16247,One-time buyer (recent),
+16249,Lapsed low-value,7
+16250,Lapsed low-value,3
+16251,One-time buyer (lapsed),
+16252,One-time buyer (lapsed),
+16253,Loyal high-value,7
+16254,Lapsed low-value,3
+16255,Loyal high-value,5
+16256,Lapsed low-value,0
+16257,One-time buyer (recent),
+16258,Loyal high-value,5
+16259,Lapsed low-value,3
+16261,Lapsed low-value,7
+16262,One-time buyer (lapsed),
+16263,One-time buyer (lapsed),
+16264,Lapsed low-value,6
+16265,Loyal high-value,5
+16266,Loyal high-value,5
+16267,One-time buyer (lapsed),
+16269,One-time buyer (lapsed),
+16270,One-time buyer (lapsed),
+16271,Loyal high-value,1
+16272,One-time buyer (recent),
+16273,Lapsed low-value,3
+16274,One-time buyer (lapsed),
+16275,Lapsed low-value,3
+16276,Loyal high-value,3
+16277,One-time buyer (lapsed),
+16278,Lapsed low-value,0
+16279,Loyal high-value,1
+16280,One-time buyer (lapsed),
+16281,Lapsed low-value,0
+16282,Lapsed low-value,3
+16283,Loyal high-value,1
+16284,One-time buyer (lapsed),
+16285,One-time buyer (lapsed),
+16286,Lapsed low-value,4
+16287,Lapsed low-value,7
+16288,One-time buyer (lapsed),
+16289,One-time buyer (lapsed),
+16290,Lapsed low-value,7
+16292,Loyal high-value,1
+16293,Loyal high-value,5
+16294,One-time buyer (lapsed),
+16296,Lapsed low-value,0
+16297,One-time buyer (recent),
+16298,Lapsed low-value,1
+16299,One-time buyer (lapsed),
+16300,Lapsed low-value,3
+16301,One-time buyer (lapsed),
+16302,One-time buyer (recent),
+16303,Loyal high-value,1
+16304,One-time buyer (lapsed),
+16305,One-time buyer (recent),
+16306,Lapsed low-value,1
+16307,Lapsed low-value,3
+16308,Loyal high-value,7
+16309,Lapsed low-value,0
+16310,Lapsed low-value,3
+16312,One-time buyer (lapsed),
+16314,Lapsed low-value,3
+16315,Lapsed low-value,3
+16316,Loyal high-value,5
+16317,Loyal high-value,1
+16319,One-time buyer (recent),
+16320,Loyal high-value,1
+16321,High-return buyer,4
+16323,Lapsed low-value,6
+16324,Lapsed low-value,3
+16325,Loyal high-value,5
+16326,Loyal high-value,2
+16327,Loyal high-value,5
+16328,One-time buyer (lapsed),
+16329,Lapsed low-value,7
+16330,Lapsed low-value,1
+16331,Lapsed low-value,7
+16332,Lapsed low-value,1
+16333,Loyal high-value,5
+16334,One-time buyer (lapsed),
+16335,Loyal high-value,1
+16336,Loyal high-value,7
+16338,One-time buyer (recent),
+16339,One-time buyer (lapsed),
+16340,Loyal high-value,3
+16341,Loyal high-value,0
+16342,Lapsed low-value,3
+16343,One-time buyer (lapsed),
+16344,Lapsed low-value,7
+16345,One-time buyer (lapsed),
+16346,One-time buyer (lapsed),
+16347,Loyal high-value,5
+16348,Lapsed low-value,7
+16349,One-time buyer (lapsed),
+16350,Lapsed low-value,1
+16351,Loyal high-value,5
+16353,Loyal high-value,2
+16354,Lapsed low-value,3
+16355,One-time buyer (lapsed),
+16356,Lapsed low-value,1
+16357,Lapsed low-value,3
+16358,Lapsed low-value,0
+16359,Loyal high-value,5
+16362,Lapsed low-value,4
+16364,One-time buyer (recent),
+16365,Loyal high-value,5
+16366,Lapsed low-value,3
+16367,Lapsed low-value,3
+16368,One-time buyer (lapsed),
+16369,Lapsed low-value,7
+16370,Lapsed low-value,3
+16371,One-time buyer (lapsed),
+16372,Lapsed low-value,0
+16373,Lapsed low-value,3
+16374,Lapsed low-value,7
+16375,Lapsed low-value,6
+16377,Lapsed low-value,3
+16378,Lapsed low-value,3
+16381,Lapsed low-value,3
+16382,Lapsed low-value,3
+16383,Loyal high-value,1
+16384,Lapsed low-value,3
+16385,Lapsed low-value,7
+16386,Lapsed low-value,3
+16387,Lapsed low-value,7
+16388,One-time buyer (lapsed),
+16389,Lapsed low-value,3
+16390,Lapsed low-value,3
+16391,Lapsed low-value,7
+16392,Lapsed low-value,3
+16393,Loyal high-value,2
+16394,Lapsed low-value,0
+16395,Loyal high-value,5
+16396,One-time buyer (lapsed),
+16397,One-time buyer (lapsed),
+16398,Lapsed low-value,0
+16399,Lapsed low-value,3
+16400,Loyal high-value,5
+16401,Loyal high-value,2
+16402,Lapsed low-value,3
+16403,One-time buyer (lapsed),
+16405,Lapsed low-value,6
+16406,Lapsed low-value,4
+16407,Loyal high-value,5
+16408,One-time buyer (lapsed),
+16409,Loyal high-value,5
+16410,One-time buyer (lapsed),
+16411,Lapsed low-value,3
+16412,Lapsed low-value,7
+16413,One-time buyer (lapsed),
+16414,Lapsed low-value,7
+16415,Lapsed low-value,3
+16416,Lapsed low-value,7
+16417,One-time buyer (lapsed),
+16418,Loyal high-value,7
+16419,Loyal high-value,5
+16420,One-time buyer (lapsed),
+16421,Lapsed low-value,3
+16422,Loyal high-value,2
+16424,Lapsed low-value,0
+16425,One-time buyer (lapsed),
+16426,Lapsed low-value,7
+16427,Lapsed low-value,3
+16428,Lapsed low-value,3
+16429,One-time buyer (recent),
+16430,Lapsed low-value,7
+16431,Lapsed low-value,3
+16433,One-time buyer (lapsed),
+16434,Loyal high-value,5
+16435,Lapsed low-value,6
+16436,Lapsed low-value,4
+16437,Lapsed low-value,3
+16439,One-time buyer (lapsed),
+16440,Lapsed low-value,3
+16441,Lapsed low-value,0
+16442,Lapsed low-value,7
+16443,One-time buyer (lapsed),
+16444,Loyal high-value,5
+16445,Lapsed low-value,3
+16446,One-time buyer (recent),
+16447,Lapsed low-value,3
+16448,Lapsed low-value,3
+16449,Lapsed low-value,0
+16450,Lapsed low-value,0
+16451,Lapsed low-value,0
+16452,Lapsed low-value,3
+16453,Lapsed low-value,6
+16454,One-time buyer (lapsed),
+16455,Loyal high-value,5
+16456,Loyal high-value,5
+16457,One-time buyer (recent),
+16458,Loyal high-value,2
+16459,One-time buyer (lapsed),
+16461,Lapsed low-value,3
+16462,Lapsed low-value,3
+16463,One-time buyer (recent),
+16464,One-time buyer (recent),
+16465,Lapsed low-value,0
+16466,Loyal high-value,5
+16467,Lapsed low-value,1
+16468,Lapsed low-value,6
+16469,Lapsed low-value,3
+16470,Loyal high-value,5
+16471,Lapsed low-value,0
+16472,Lapsed low-value,3
+16473,Lapsed low-value,0
+16474,One-time buyer (recent),
+16475,Lapsed low-value,3
+16476,One-time buyer (lapsed),
+16477,Loyal high-value,5
+16481,One-time buyer (lapsed),
+16483,One-time buyer (recent),
+16484,Lapsed low-value,0
+16485,Lapsed low-value,0
+16486,One-time buyer (lapsed),
+16487,Lapsed low-value,3
+16488,Lapsed low-value,0
+16489,Lapsed low-value,3
+16490,One-time buyer (lapsed),
+16491,One-time buyer (lapsed),
+16492,One-time buyer (lapsed),
+16493,Loyal high-value,1
+16494,One-time buyer (lapsed),
+16495,Lapsed low-value,6
+16496,Loyal high-value,1
+16497,Loyal high-value,2
+16498,Lapsed low-value,0
+16499,Loyal high-value,1
+16500,Lapsed low-value,0
+16501,One-time buyer (lapsed),
+16502,Lapsed low-value,6
+16503,Loyal high-value,5
+16507,One-time buyer (lapsed),
+16508,One-time buyer (lapsed),
+16509,One-time buyer (lapsed),
+16510,Lapsed low-value,7
+16511,Lapsed low-value,7
+16515,Loyal high-value,5
+16517,One-time buyer (lapsed),
+16518,Lapsed low-value,0
+16519,Lapsed low-value,3
+16520,Loyal high-value,1
+16521,Lapsed low-value,3
+16522,Lapsed low-value,6
+16523,Loyal high-value,2
+16524,Lapsed low-value,3
+16525,Loyal high-value,2
+16526,Lapsed low-value,3
+16527,One-time buyer (lapsed),
+16529,Lapsed low-value,7
+16530,One-time buyer (lapsed),
+16531,Loyal high-value,5
+16532,Loyal high-value,7
+16534,One-time buyer (lapsed),
+16535,One-time buyer (lapsed),
+16536,One-time buyer (recent),
+16537,One-time buyer (lapsed),
+16538,Lapsed low-value,3
+16539,Loyal high-value,5
+16540,One-time buyer (lapsed),
+16541,One-time buyer (lapsed),
+16542,One-time buyer (lapsed),
+16543,One-time buyer (lapsed),
+16544,High-return buyer,4
+16545,Lapsed low-value,3
+16546,Loyal high-value,4
+16547,One-time buyer (lapsed),
+16548,One-time buyer (lapsed),
+16549,Loyal high-value,2
+16550,Loyal high-value,2
+16551,Loyal high-value,1
+16552,Lapsed low-value,3
+16553,Loyal high-value,2
+16554,Loyal high-value,4
+16555,High-return buyer,4
+16556,Loyal high-value,5
+16557,One-time buyer (recent),
+16558,Loyal high-value,2
+16559,One-time buyer (lapsed),
+16560,Loyal high-value,1
+16562,One-time buyer (lapsed),
+16563,Loyal high-value,1
+16564,One-time buyer (lapsed),
+16565,Lapsed low-value,4
+16566,Lapsed low-value,0
+16567,Lapsed low-value,3
+16568,Lapsed low-value,3
+16569,Lapsed low-value,7
+16570,Loyal high-value,2
+16571,Loyal high-value,5
+16572,Lapsed low-value,0
+16573,One-time buyer (lapsed),
+16574,Lapsed low-value,3
+16576,Lapsed low-value,0
+16577,One-time buyer (lapsed),
+16578,One-time buyer (lapsed),
+16579,One-time buyer (lapsed),
+16581,One-time buyer (recent),
+16582,One-time buyer (recent),
+16583,Lapsed low-value,3
+16584,Loyal high-value,0
+16585,Lapsed low-value,3
+16586,Lapsed low-value,3
+16587,One-time buyer (recent),
+16588,Lapsed low-value,7
+16589,Lapsed low-value,3
+16590,Lapsed low-value,0
+16592,Loyal high-value,2
+16593,Lapsed low-value,1
+16595,Lapsed low-value,7
+16596,Lapsed low-value,3
+16598,One-time buyer (lapsed),
+16599,One-time buyer (lapsed),
+16600,Loyal high-value,5
+16601,Lapsed low-value,3
+16602,One-time buyer (lapsed),
+16603,One-time buyer (recent),
+16604,High-return buyer,4
+16605,One-time buyer (lapsed),
+16606,Lapsed low-value,6
+16607,Loyal high-value,2
+16608,Lapsed low-value,3
+16609,Loyal high-value,1
+16610,One-time buyer (recent),
+16611,Loyal high-value,1
+16612,Loyal high-value,5
+16614,Lapsed low-value,3
+16615,One-time buyer (lapsed),
+16616,One-time buyer (recent),
+16617,One-time buyer (recent),
+16618,Lapsed low-value,0
+16619,Lapsed low-value,0
+16620,Lapsed low-value,7
+16621,Lapsed low-value,3
+16622,One-time buyer (lapsed),
+16623,Lapsed low-value,0
+16624,One-time buyer (recent),
+16625,Lapsed low-value,1
+16626,Loyal high-value,1
+16628,Loyal high-value,1
+16629,One-time buyer (recent),
+16630,One-time buyer (lapsed),
+16631,Loyal high-value,1
+16632,Lapsed low-value,3
+16633,Lapsed low-value,3
+16634,High-return buyer,4
+16635,One-time buyer (lapsed),
+16636,Lapsed low-value,7
+16637,Lapsed low-value,3
+16638,Loyal high-value,5
+16639,Lapsed low-value,3
+16640,One-time buyer (lapsed),
+16641,Lapsed low-value,3
+16642,Lapsed low-value,0
+16643,Lapsed low-value,0
+16644,Lapsed low-value,3
+16645,One-time buyer (lapsed),
+16646,One-time buyer (lapsed),
+16647,Lapsed low-value,7
+16648,Lapsed low-value,3
+16649,One-time buyer (lapsed),
+16650,Lapsed low-value,7
+16651,One-time buyer (lapsed),
+16652,Loyal high-value,5
+16654,Loyal high-value,5
+16655,Loyal high-value,5
+16656,Loyal high-value,2
+16657,Lapsed low-value,3
+16658,Lapsed low-value,4
+16659,One-time buyer (recent),
+16660,Lapsed low-value,7
+16661,Lapsed low-value,4
+16662,One-time buyer (lapsed),
+16663,One-time buyer (lapsed),
+16664,One-time buyer (lapsed),
+16665,One-time buyer (lapsed),
+16666,One-time buyer (lapsed),
+16667,One-time buyer (lapsed),
+16668,Loyal high-value,5
+16670,Loyal high-value,2
+16671,One-time buyer (recent),
+16672,Loyal high-value,5
+16673,One-time buyer (lapsed),
+16674,One-time buyer (recent),
+16675,Lapsed low-value,3
+16676,Loyal high-value,1
+16677,Lapsed low-value,0
+16678,Loyal high-value,5
+16679,Lapsed low-value,3
+16680,Lapsed low-value,6
+16681,Loyal high-value,7
+16682,Lapsed low-value,3
+16683,One-time buyer (lapsed),
+16684,Loyal high-value,2
+16686,Loyal high-value,5
+16687,One-time buyer (lapsed),
+16690,Lapsed low-value,3
+16691,Lapsed low-value,3
+16692,Lapsed low-value,7
+16693,Lapsed low-value,7
+16694,One-time buyer (lapsed),
+16695,Lapsed low-value,6
+16696,Lapsed low-value,7
+16697,One-time buyer (recent),
+16698,Lapsed low-value,3
+16699,Lapsed low-value,1
+16700,Loyal high-value,2
+16701,Loyal high-value,2
+16702,Lapsed low-value,0
+16704,Lapsed low-value,3
+16705,Loyal high-value,2
+16706,Lapsed low-value,3
+16707,Lapsed low-value,7
+16709,Loyal high-value,5
+16710,Loyal high-value,2
+16711,Loyal high-value,1
+16712,Loyal high-value,5
+16713,Loyal high-value,2
+16714,Lapsed low-value,0
+16715,One-time buyer (lapsed),
+16716,Lapsed low-value,4
+16717,Loyal high-value,4
+16718,Loyal high-value,7
+16719,Loyal high-value,5
+16720,Lapsed low-value,0
+16721,One-time buyer (recent),
+16722,Loyal high-value,2
+16723,Loyal high-value,7
+16724,One-time buyer (lapsed),
+16725,Loyal high-value,5
+16726,Lapsed low-value,7
+16727,Lapsed low-value,7
+16728,Lapsed low-value,3
+16729,Loyal high-value,5
+16730,Lapsed low-value,4
+16731,One-time buyer (lapsed),
+16732,Lapsed low-value,0
+16733,One-time buyer (lapsed),
+16734,Lapsed low-value,6
+16735,Loyal high-value,2
+16736,Lapsed low-value,1
+16737,One-time buyer (lapsed),
+16738,One-time buyer (lapsed),
+16739,Lapsed low-value,0
+16740,One-time buyer (lapsed),
+16741,One-time buyer (lapsed),
+16742,Loyal high-value,5
+16743,Loyal high-value,5
+16744,Lapsed low-value,3
+16745,Loyal high-value,5
+16746,Loyal high-value,2
+16748,Loyal high-value,5
+16749,Lapsed low-value,3
+16750,Lapsed low-value,3
+16752,One-time buyer (lapsed),
+16754,Loyal high-value,4
+16755,Loyal high-value,1
+16756,Loyal high-value,1
+16757,Lapsed low-value,3
+16760,One-time buyer (lapsed),
+16761,One-time buyer (recent),
+16762,One-time buyer (recent),
+16763,Lapsed low-value,0
+16764,Lapsed low-value,7
+16765,Lapsed low-value,3
+16766,Lapsed low-value,6
+16767,Loyal high-value,5
+16768,Loyal high-value,1
+16769,Lapsed low-value,7
+16770,Loyal high-value,1
+16771,Loyal high-value,1
+16772,Loyal high-value,4
+16773,Lapsed low-value,3
+16774,Loyal high-value,1
+16775,Loyal high-value,4
+16776,One-time buyer (lapsed),
+16777,Lapsed low-value,0
+16778,One-time buyer (lapsed),
+16779,Loyal high-value,2
+16780,Lapsed low-value,3
+16781,Lapsed low-value,0
+16782,Loyal high-value,2
+16783,One-time buyer (lapsed),
+16784,Lapsed low-value,7
+16785,One-time buyer (lapsed),
+16786,One-time buyer (lapsed),
+16787,Lapsed low-value,7
+16788,Loyal high-value,7
+16791,Loyal high-value,5
+16792,Lapsed low-value,7
+16794,Loyal high-value,5
+16795,Lapsed low-value,0
+16797,Lapsed low-value,1
+16798,Lapsed low-value,0
+16799,Lapsed low-value,0
+16801,High-return buyer,4
+16802,Lapsed low-value,3
+16804,One-time buyer (recent),
+16805,Lapsed low-value,7
+16806,Lapsed low-value,7
+16807,Loyal high-value,1
+16808,Lapsed low-value,3
+16809,Loyal high-value,1
+16810,Lapsed low-value,0
+16812,Lapsed low-value,0
+16813,Loyal high-value,1
+16814,Loyal high-value,2
+16815,Lapsed low-value,3
+16816,Lapsed low-value,7
+16817,Loyal high-value,4
+16818,Loyal high-value,5
+16819,Lapsed low-value,6
+16820,One-time buyer (recent),
+16821,One-time buyer (lapsed),
+16822,One-time buyer (lapsed),
+16823,Loyal high-value,1
+16824,Lapsed low-value,3
+16825,Lapsed low-value,7
+16827,Lapsed low-value,7
+16828,One-time buyer (recent),
+16829,Lapsed low-value,3
+16830,Lapsed low-value,0
+16831,One-time buyer (lapsed),
+16832,Lapsed low-value,7
+16833,Lapsed low-value,7
+16834,Lapsed low-value,3
+16835,Loyal high-value,1
+16836,Lapsed low-value,3
+16837,Lapsed low-value,4
+16838,Lapsed low-value,0
+16839,Loyal high-value,2
+16840,Lapsed low-value,3
+16841,Loyal high-value,5
+16842,Loyal high-value,3
+16843,Loyal high-value,2
+16844,Lapsed low-value,6
+16845,One-time buyer (lapsed),
+16846,Lapsed low-value,3
+16847,One-time buyer (lapsed),
+16848,Lapsed low-value,3
+16849,One-time buyer (recent),
+16850,One-time buyer (lapsed),
+16852,One-time buyer (recent),
+16854,Lapsed low-value,3
+16856,Lapsed low-value,3
+16857,One-time buyer (lapsed),
+16858,Loyal high-value,4
+16859,Loyal high-value,4
+16860,Lapsed low-value,0
+16861,Lapsed low-value,0
+16862,Lapsed low-value,7
+16863,Lapsed low-value,0
+16864,Lapsed low-value,3
+16865,One-time buyer (lapsed),
+16866,Lapsed low-value,6
+16867,One-time buyer (lapsed),
+16868,Lapsed low-value,3
+16869,Lapsed low-value,6
+16870,One-time buyer (lapsed),
+16871,Lapsed low-value,0
+16872,Lapsed low-value,7
+16873,Loyal high-value,5
+16874,One-time buyer (lapsed),
+16875,Loyal high-value,5
+16876,One-time buyer (lapsed),
+16877,Lapsed low-value,3
+16880,Loyal high-value,1
+16882,Lapsed low-value,3
+16883,Loyal high-value,4
+16884,Lapsed low-value,3
+16885,Lapsed low-value,3
+16886,One-time buyer (lapsed),
+16887,Lapsed low-value,3
+16888,Lapsed low-value,3
+16889,Loyal high-value,7
+16890,Lapsed low-value,3
+16891,Loyal high-value,5
+16892,Lapsed low-value,0
+16893,Lapsed low-value,3
+16894,Lapsed low-value,0
+16895,Lapsed low-value,7
+16896,One-time buyer (lapsed),
+16897,Lapsed low-value,4
+16898,Lapsed low-value,0
+16899,Lapsed low-value,7
+16901,One-time buyer (lapsed),
+16902,One-time buyer (recent),
+16903,Lapsed low-value,0
+16904,Loyal high-value,2
+16905,Loyal high-value,5
+16906,Lapsed low-value,7
+16907,Loyal high-value,5
+16908,One-time buyer (lapsed),
+16910,One-time buyer (recent),
+16911,Lapsed low-value,0
+16912,Loyal high-value,5
+16913,Lapsed low-value,6
+16915,Loyal high-value,5
+16916,Lapsed low-value,3
+16917,Lapsed low-value,0
+16918,Loyal high-value,5
+16919,Loyal high-value,2
+16920,One-time buyer (lapsed),
+16921,Lapsed low-value,3
+16922,One-time buyer (lapsed),
+16923,Loyal high-value,2
+16925,One-time buyer (lapsed),
+16926,Lapsed low-value,1
+16927,Lapsed low-value,3
+16928,Loyal high-value,2
+16929,Lapsed low-value,3
+16931,Loyal high-value,5
+16932,Lapsed low-value,3
+16933,Loyal high-value,1
+16934,Lapsed low-value,0
+16935,Lapsed low-value,3
+16936,One-time buyer (lapsed),
+16937,One-time buyer (lapsed),
+16938,High-return buyer,4
+16939,Lapsed low-value,3
+16940,Loyal high-value,1
+16941,One-time buyer (lapsed),
+16942,Loyal high-value,1
+16943,Lapsed low-value,3
+16944,One-time buyer (lapsed),
+16945,Loyal high-value,2
+16946,Lapsed low-value,1
+16947,Lapsed low-value,0
+16948,Lapsed low-value,1
+16949,Lapsed low-value,0
+16950,Loyal high-value,1
+16951,Lapsed low-value,0
+16952,Lapsed low-value,7
+16954,Loyal high-value,5
+16955,Lapsed low-value,1
+16957,Lapsed low-value,3
+16958,One-time buyer (lapsed),
+16960,Lapsed low-value,1
+16961,Lapsed low-value,0
+16962,One-time buyer (lapsed),
+16963,One-time buyer (recent),
+16964,Lapsed low-value,6
+16965,One-time buyer (recent),
+16966,Lapsed low-value,0
+16967,One-time buyer (recent),
+16968,One-time buyer (recent),
+16969,Lapsed low-value,3
+16970,One-time buyer (lapsed),
+16972,Lapsed low-value,3
+16973,One-time buyer (lapsed),
+16974,Lapsed low-value,3
+16975,Lapsed low-value,0
+16976,One-time buyer (recent),
+16977,Lapsed low-value,7
+16978,Lapsed low-value,6
+16979,Loyal high-value,1
+16980,Lapsed low-value,3
+16983,Loyal high-value,5
+16984,Loyal high-value,1
+16985,Loyal high-value,2
+16986,Lapsed low-value,4
+16987,Loyal high-value,1
+16988,One-time buyer (lapsed),
+16989,Lapsed low-value,3
+16990,Lapsed low-value,3
+16991,One-time buyer (lapsed),
+16992,Loyal high-value,5
+16993,Lapsed low-value,0
+16996,Loyal high-value,1
+16997,Lapsed low-value,3
+16998,Lapsed low-value,1
+17000,Lapsed low-value,3
+17001,Loyal high-value,5
+17002,Loyal high-value,7
+17003,Lapsed low-value,7
+17004,Loyal high-value,3
+17005,Lapsed low-value,0
+17006,Lapsed low-value,7
+17007,Lapsed low-value,1
+17008,One-time buyer (lapsed),
+17009,One-time buyer (lapsed),
+17011,Lapsed low-value,4
+17012,One-time buyer (lapsed),
+17015,One-time buyer (recent),
+17016,One-time buyer (lapsed),
+17017,Loyal high-value,2
+17018,Lapsed low-value,7
+17019,Loyal high-value,5
+17020,Lapsed low-value,3
+17021,Lapsed low-value,7
+17022,One-time buyer (lapsed),
+17023,Lapsed low-value,3
+17024,Lapsed low-value,3
+17025,Lapsed low-value,7
+17026,Lapsed low-value,3
+17027,Lapsed low-value,1
+17028,Lapsed low-value,3
+17029,Loyal high-value,1
+17031,Lapsed low-value,7
+17032,Loyal high-value,1
+17033,Lapsed low-value,3
+17034,Lapsed low-value,0
+17035,Lapsed low-value,4
+17036,One-time buyer (lapsed),
+17038,One-time buyer (lapsed),
+17039,One-time buyer (lapsed),
+17040,Lapsed low-value,3
+17041,Loyal high-value,1
+17042,Lapsed low-value,7
+17043,Lapsed low-value,7
+17044,Loyal high-value,5
+17045,Lapsed low-value,7
+17046,Loyal high-value,7
+17047,Loyal high-value,7
+17048,Loyal high-value,1
+17049,Loyal high-value,5
+17050,Loyal high-value,5
+17051,Lapsed low-value,7
+17053,One-time buyer (recent),
+17054,Lapsed low-value,0
+17055,One-time buyer (lapsed),
+17056,One-time buyer (lapsed),
+17057,One-time buyer (lapsed),
+17058,Lapsed low-value,3
+17059,Loyal high-value,1
+17060,One-time buyer (recent),
+17061,Loyal high-value,5
+17062,Lapsed low-value,1
+17063,Loyal high-value,5
+17064,Lapsed low-value,3
+17065,Lapsed low-value,6
+17066,One-time buyer (lapsed),
+17067,Lapsed low-value,6
+17068,Loyal high-value,2
+17069,Loyal high-value,5
+17070,Lapsed low-value,3
+17071,Loyal high-value,5
+17072,One-time buyer (lapsed),
+17073,One-time buyer (recent),
+17074,One-time buyer (lapsed),
+17075,Loyal high-value,5
+17076,Lapsed low-value,7
+17077,One-time buyer (lapsed),
+17080,Lapsed low-value,1
+17081,Lapsed low-value,7
+17082,Loyal high-value,7
+17083,Loyal high-value,5
+17084,One-time buyer (lapsed),
+17085,Loyal high-value,2
+17087,One-time buyer (lapsed),
+17088,Lapsed low-value,3
+17089,One-time buyer (lapsed),
+17090,Loyal high-value,5
+17091,Loyal high-value,5
+17092,Loyal high-value,5
+17093,One-time buyer (lapsed),
+17094,Lapsed low-value,0
+17095,Loyal high-value,1
+17096,Loyal high-value,5
+17097,Loyal high-value,1
+17098,Lapsed low-value,3
+17099,One-time buyer (lapsed),
+17101,Lapsed low-value,7
+17102,One-time buyer (recent),
+17103,One-time buyer (lapsed),
+17104,One-time buyer (lapsed),
+17105,Lapsed low-value,3
+17106,One-time buyer (lapsed),
+17107,Loyal high-value,1
+17108,One-time buyer (lapsed),
+17109,Lapsed low-value,7
+17110,Lapsed low-value,3
+17111,One-time buyer (lapsed),
+17112,One-time buyer (lapsed),
+17113,Lapsed low-value,4
+17114,Lapsed low-value,1
+17115,Loyal high-value,1
+17116,One-time buyer (lapsed),
+17117,One-time buyer (lapsed),
+17118,One-time buyer (lapsed),
+17120,One-time buyer (recent),
+17121,One-time buyer (lapsed),
+17122,Lapsed low-value,7
+17123,Lapsed low-value,3
+17124,One-time buyer (recent),
+17126,Loyal high-value,5
+17127,Lapsed low-value,7
+17128,One-time buyer (lapsed),
+17129,One-time buyer (lapsed),
+17132,Lapsed low-value,3
+17133,Loyal high-value,4
+17134,Lapsed low-value,3
+17135,Lapsed low-value,1
+17136,One-time buyer (lapsed),
+17137,Lapsed low-value,7
+17138,Loyal high-value,1
+17139,Loyal high-value,2
+17140,One-time buyer (recent),
+17141,Lapsed low-value,7
+17142,Lapsed low-value,7
+17143,Lapsed low-value,3
+17145,Lapsed low-value,0
+17146,Loyal high-value,5
+17147,Loyal high-value,1
+17149,One-time buyer (lapsed),
+17150,Lapsed low-value,7
+17151,One-time buyer (lapsed),
+17152,Lapsed low-value,0
+17155,Lapsed low-value,7
+17156,One-time buyer (lapsed),
+17157,Loyal high-value,5
+17158,Lapsed low-value,0
+17159,Lapsed low-value,3
+17160,Loyal high-value,5
+17161,One-time buyer (lapsed),
+17162,Loyal high-value,5
+17163,Lapsed low-value,3
+17164,Lapsed low-value,3
+17165,Loyal high-value,1
+17166,One-time buyer (recent),
+17167,Lapsed low-value,3
+17168,One-time buyer (lapsed),
+17169,Lapsed low-value,0
+17170,Lapsed low-value,0
+17171,Lapsed low-value,6
+17172,Lapsed low-value,0
+17173,Lapsed low-value,0
+17174,One-time buyer (recent),
+17175,Lapsed low-value,0
+17176,Lapsed low-value,3
+17177,One-time buyer (lapsed),
+17178,One-time buyer (lapsed),
+17179,Loyal high-value,7
+17180,Loyal high-value,5
+17181,Lapsed low-value,3
+17182,Lapsed low-value,3
+17183,One-time buyer (recent),
+17184,Lapsed low-value,3
+17185,Lapsed low-value,6
+17187,Lapsed low-value,3
+17188,Loyal high-value,5
+17189,Lapsed low-value,7
+17190,Lapsed low-value,1
+17191,Loyal high-value,5
+17192,One-time buyer (lapsed),
+17193,Lapsed low-value,0
+17194,Lapsed low-value,3
+17195,One-time buyer (lapsed),
+17196,One-time buyer (lapsed),
+17198,Lapsed low-value,6
+17199,One-time buyer (lapsed),
+17200,Lapsed low-value,7
+17201,Lapsed low-value,0
+17202,One-time buyer (lapsed),
+17203,Lapsed low-value,7
+17204,Loyal high-value,5
+17205,Lapsed low-value,3
+17207,One-time buyer (lapsed),
+17208,One-time buyer (lapsed),
+17209,Lapsed low-value,3
+17210,One-time buyer (lapsed),
+17211,Loyal high-value,5
+17212,Lapsed low-value,3
+17213,Loyal high-value,5
+17214,Lapsed low-value,7
+17215,One-time buyer (lapsed),
+17216,One-time buyer (lapsed),
+17217,Lapsed low-value,3
+17218,Loyal high-value,5
+17219,One-time buyer (lapsed),
+17220,Loyal high-value,5
+17221,Lapsed low-value,6
+17222,Lapsed low-value,7
+17223,Lapsed low-value,3
+17224,One-time buyer (lapsed),
+17225,One-time buyer (lapsed),
+17226,Lapsed low-value,3
+17227,Loyal high-value,5
+17228,Loyal high-value,5
+17229,Lapsed low-value,3
+17230,Loyal high-value,4
+17231,Loyal high-value,2
+17233,Lapsed low-value,3
+17234,One-time buyer (recent),
+17235,Lapsed low-value,1
+17236,Loyal high-value,5
+17237,Lapsed low-value,6
+17238,Loyal high-value,2
+17239,Lapsed low-value,0
+17240,One-time buyer (lapsed),
+17241,Loyal high-value,5
+17242,Loyal high-value,7
+17243,Loyal high-value,2
+17244,Lapsed low-value,7
+17245,Lapsed low-value,3
+17246,Lapsed low-value,4
+17248,Lapsed low-value,6
+17249,One-time buyer (lapsed),
+17250,One-time buyer (recent),
+17251,Lapsed low-value,0
+17252,Lapsed low-value,3
+17254,One-time buyer (lapsed),
+17255,Lapsed low-value,3
+17256,Lapsed low-value,7
+17257,Lapsed low-value,6
+17258,Lapsed low-value,3
+17259,Loyal high-value,7
+17260,One-time buyer (lapsed),
+17261,One-time buyer (lapsed),
+17262,Loyal high-value,5
+17263,One-time buyer (recent),
+17264,One-time buyer (lapsed),
+17265,Lapsed low-value,3
+17266,Lapsed low-value,3
+17267,Lapsed low-value,6
+17268,Loyal high-value,5
+17269,One-time buyer (lapsed),
+17270,Lapsed low-value,3
+17271,One-time buyer (lapsed),
+17272,Lapsed low-value,0
+17273,One-time buyer (lapsed),
+17274,One-time buyer (lapsed),
+17275,One-time buyer (lapsed),
+17276,One-time buyer (lapsed),
+17277,Lapsed low-value,3
+17278,Lapsed low-value,3
+17280,One-time buyer (lapsed),
+17281,Lapsed low-value,7
+17282,Loyal high-value,7
+17283,One-time buyer (lapsed),
+17284,Loyal high-value,1
+17285,Lapsed low-value,3
+17286,Lapsed low-value,6
+17287,Loyal high-value,2
+17288,Lapsed low-value,4
+17289,Loyal high-value,1
+17290,Lapsed low-value,7
+17291,One-time buyer (lapsed),
+17292,Lapsed low-value,3
+17293,Loyal high-value,5
+17294,Lapsed low-value,6
+17296,One-time buyer (lapsed),
+17298,Lapsed low-value,1
+17299,Lapsed low-value,7
+17300,Lapsed low-value,3
+17301,One-time buyer (lapsed),
+17302,Lapsed low-value,0
+17303,One-time buyer (lapsed),
+17304,One-time buyer (lapsed),
+17305,One-time buyer (lapsed),
+17306,Loyal high-value,5
+17307,Loyal high-value,4
+17308,Lapsed low-value,3
+17309,Lapsed low-value,3
+17310,Lapsed low-value,3
+17311,Loyal high-value,1
+17312,Lapsed low-value,6
+17314,Loyal high-value,4
+17315,Loyal high-value,2
+17316,One-time buyer (lapsed),
+17318,One-time buyer (lapsed),
+17319,One-time buyer (lapsed),
+17320,Loyal high-value,7
+17321,Lapsed low-value,7
+17322,Lapsed low-value,1
+17323,Loyal high-value,5
+17324,Loyal high-value,5
+17325,Lapsed low-value,3
+17326,Lapsed low-value,3
+17327,Lapsed low-value,3
+17328,One-time buyer (lapsed),
+17329,Lapsed low-value,7
+17330,Lapsed low-value,3
+17331,One-time buyer (recent),
+17332,Lapsed low-value,7
+17334,Lapsed low-value,0
+17335,Lapsed low-value,3
+17336,One-time buyer (lapsed),
+17337,Loyal high-value,0
+17338,Loyal high-value,5
+17339,Lapsed low-value,4
+17340,Loyal high-value,5
+17341,Lapsed low-value,7
+17342,Lapsed low-value,0
+17343,Lapsed low-value,7
+17344,One-time buyer (lapsed),
+17345,Loyal high-value,5
+17346,Loyal high-value,2
+17348,Lapsed low-value,7
+17349,Lapsed low-value,7
+17350,Lapsed low-value,3
+17351,Loyal high-value,5
+17352,One-time buyer (lapsed),
+17353,Loyal high-value,0
+17354,Lapsed low-value,6
+17355,One-time buyer (lapsed),
+17356,Lapsed low-value,7
+17358,Lapsed low-value,7
+17359,One-time buyer (lapsed),
+17360,Lapsed low-value,0
+17361,Lapsed low-value,7
+17362,Lapsed low-value,1
+17363,Lapsed low-value,6
+17364,Loyal high-value,2
+17365,Loyal high-value,5
+17366,Lapsed low-value,0
+17367,One-time buyer (recent),
+17368,High-return buyer,4
+17369,One-time buyer (lapsed),
+17370,Lapsed low-value,3
+17371,Lapsed low-value,7
+17372,Loyal high-value,2
+17373,Lapsed low-value,7
+17374,Lapsed low-value,0
+17375,Lapsed low-value,0
+17376,Lapsed low-value,3
+17377,Loyal high-value,2
+17378,One-time buyer (lapsed),
+17380,Lapsed low-value,0
+17381,Loyal high-value,2
+17382,Lapsed low-value,1
+17383,One-time buyer (lapsed),
+17384,Lapsed low-value,3
+17386,Loyal high-value,7
+17388,Loyal high-value,5
+17389,Loyal high-value,2
+17390,One-time buyer (lapsed),
+17391,Lapsed low-value,6
+17392,Lapsed low-value,3
+17393,Lapsed low-value,3
+17394,One-time buyer (recent),
+17395,One-time buyer (lapsed),
+17396,Loyal high-value,4
+17397,One-time buyer (lapsed),
+17398,Lapsed low-value,3
+17400,Loyal high-value,1
+17401,One-time buyer (lapsed),
+17402,Loyal high-value,2
+17403,One-time buyer (lapsed),
+17404,Loyal high-value,2
+17405,One-time buyer (recent),
+17406,Loyal high-value,5
+17407,One-time buyer (lapsed),
+17408,High-return buyer,4
+17409,Loyal high-value,5
+17410,Lapsed low-value,3
+17411,Lapsed low-value,0
+17412,Loyal high-value,5
+17413,Lapsed low-value,3
+17414,Loyal high-value,7
+17416,Loyal high-value,2
+17417,One-time buyer (lapsed),
+17418,Lapsed low-value,3
+17419,Loyal high-value,5
+17420,Lapsed low-value,1
+17421,Lapsed low-value,3
+17422,Loyal high-value,4
+17423,Lapsed low-value,0
+17426,Loyal high-value,5
+17428,Loyal high-value,2
+17429,Loyal high-value,1
+17430,Lapsed low-value,3
+17431,One-time buyer (lapsed),
+17432,Lapsed low-value,1
+17433,One-time buyer (lapsed),
+17435,One-time buyer (lapsed),
+17436,Lapsed low-value,0
+17437,One-time buyer (lapsed),
+17438,Lapsed low-value,1
+17439,One-time buyer (lapsed),
+17440,Lapsed low-value,0
+17441,One-time buyer (lapsed),
+17442,Loyal high-value,5
+17443,One-time buyer (recent),
+17444,Lapsed low-value,3
+17446,Lapsed low-value,3
+17448,Loyal high-value,4
+17449,Loyal high-value,5
+17450,Loyal high-value,2
+17451,One-time buyer (recent),
+17454,Loyal high-value,5
+17455,One-time buyer (recent),
+17456,Lapsed low-value,3
+17457,Loyal high-value,5
+17458,One-time buyer (lapsed),
+17460,Loyal high-value,5
+17462,One-time buyer (lapsed),
+17463,Loyal high-value,1
+17464,Lapsed low-value,4
+17465,Loyal high-value,1
+17467,One-time buyer (lapsed),
+17468,One-time buyer (lapsed),
+17469,Loyal high-value,5
+17470,Loyal high-value,5
+17471,One-time buyer (lapsed),
+17472,Lapsed low-value,7
+17473,Lapsed low-value,0
+17474,One-time buyer (lapsed),
+17476,Lapsed low-value,0
+17477,Lapsed low-value,0
+17478,Lapsed low-value,3
+17479,One-time buyer (lapsed),
+17480,One-time buyer (lapsed),
+17481,One-time buyer (recent),
+17482,Lapsed low-value,3
+17483,Lapsed low-value,3
+17484,Lapsed low-value,3
+17486,One-time buyer (recent),
+17487,One-time buyer (lapsed),
+17488,One-time buyer (lapsed),
+17489,One-time buyer (recent),
+17490,Lapsed low-value,0
+17491,Loyal high-value,5
+17492,Lapsed low-value,3
+17493,One-time buyer (lapsed),
+17494,One-time buyer (lapsed),
+17495,One-time buyer (lapsed),
+17496,Lapsed low-value,0
+17497,Lapsed low-value,3
+17499,Lapsed low-value,0
+17501,Lapsed low-value,6
+17504,Loyal high-value,2
+17505,Loyal high-value,7
+17507,Lapsed low-value,3
+17508,Loyal high-value,1
+17510,One-time buyer (lapsed),
+17511,Loyal high-value,2
+17512,Loyal high-value,5
+17513,Lapsed low-value,3
+17514,Lapsed low-value,3
+17515,Loyal high-value,5
+17516,Lapsed low-value,7
+17517,One-time buyer (lapsed),
+17518,Lapsed low-value,3
+17519,Loyal high-value,5
+17521,Lapsed low-value,3
+17522,Lapsed low-value,7
+17524,Lapsed low-value,4
+17525,Lapsed low-value,3
+17526,Loyal high-value,4
+17527,Lapsed low-value,4
+17529,Lapsed low-value,3
+17530,Loyal high-value,1
+17531,Lapsed low-value,0
+17532,One-time buyer (lapsed),
+17533,One-time buyer (lapsed),
+17534,Lapsed low-value,7
+17535,One-time buyer (lapsed),
+17536,Lapsed low-value,3
+17537,One-time buyer (lapsed),
+17539,Lapsed low-value,0
+17540,Lapsed low-value,7
+17541,One-time buyer (lapsed),
+17542,Lapsed low-value,6
+17543,One-time buyer (lapsed),
+17544,Lapsed low-value,6
+17545,Lapsed low-value,3
+17547,Lapsed low-value,0
+17548,High-return buyer,4
+17550,Loyal high-value,4
+17551,One-time buyer (lapsed),
+17552,Loyal high-value,5
+17553,Loyal high-value,7
+17554,Lapsed low-value,3
+17555,Lapsed low-value,7
+17556,Lapsed low-value,3
+17557,One-time buyer (lapsed),
+17558,One-time buyer (lapsed),
+17559,One-time buyer (lapsed),
+17560,Loyal high-value,5
+17561,Lapsed low-value,3
+17562,Lapsed low-value,0
+17563,Lapsed low-value,4
+17565,One-time buyer (lapsed),
+17567,Loyal high-value,1
+17568,One-time buyer (lapsed),
+17569,One-time buyer (lapsed),
+17571,Lapsed low-value,7
+17572,Lapsed low-value,5
+17573,One-time buyer (recent),
+17574,One-time buyer (recent),
+17575,One-time buyer (lapsed),
+17576,Loyal high-value,2
+17577,Lapsed low-value,3
+17578,Lapsed low-value,4
+17579,Lapsed low-value,0
+17580,Lapsed low-value,7
+17581,Loyal high-value,2
+17582,Lapsed low-value,1
+17583,One-time buyer (lapsed),
+17584,Loyal high-value,7
+17585,Loyal high-value,1
+17586,One-time buyer (lapsed),
+17587,One-time buyer (lapsed),
+17588,Loyal high-value,1
+17589,Loyal high-value,5
+17591,Loyal high-value,1
+17592,One-time buyer (lapsed),
+17593,Loyal high-value,5
+17594,Lapsed low-value,3
+17596,Loyal high-value,5
+17597,Loyal high-value,1
+17598,One-time buyer (lapsed),
+17599,One-time buyer (lapsed),
+17601,Lapsed low-value,3
+17602,Loyal high-value,5
+17603,Lapsed low-value,0
+17604,Lapsed low-value,7
+17605,One-time buyer (lapsed),
+17606,One-time buyer (lapsed),
+17607,One-time buyer (lapsed),
+17608,Lapsed low-value,3
+17609,Lapsed low-value,4
+17610,Lapsed low-value,1
+17611,Loyal high-value,2
+17612,Loyal high-value,2
+17613,Loyal high-value,5
+17615,Lapsed low-value,1
+17616,Lapsed low-value,7
+17617,One-time buyer (lapsed),
+17618,Loyal high-value,5
+17619,One-time buyer (lapsed),
+17621,Lapsed low-value,1
+17622,Lapsed low-value,0
+17623,Loyal high-value,7
+17624,Lapsed low-value,3
+17625,Loyal high-value,7
+17626,One-time buyer (lapsed),
+17627,One-time buyer (lapsed),
+17629,Loyal high-value,1
+17630,Lapsed low-value,3
+17631,Lapsed low-value,7
+17633,Lapsed low-value,1
+17634,Loyal high-value,1
+17635,Lapsed low-value,0
+17637,One-time buyer (recent),
+17638,Lapsed low-value,3
+17639,Lapsed low-value,7
+17640,Loyal high-value,1
+17642,Loyal high-value,7
+17643,Lapsed low-value,3
+17644,Loyal high-value,2
+17646,Loyal high-value,5
+17647,Lapsed low-value,6
+17648,Lapsed low-value,0
+17649,Lapsed low-value,0
+17651,Lapsed low-value,4
+17652,Loyal high-value,1
+17653,Lapsed low-value,3
+17654,One-time buyer (lapsed),
+17655,Loyal high-value,4
+17656,Lapsed low-value,6
+17657,One-time buyer (lapsed),
+17658,One-time buyer (recent),
+17659,Loyal high-value,5
+17660,Lapsed low-value,3
+17662,Lapsed low-value,3
+17663,Loyal high-value,5
+17664,Lapsed low-value,3
+17665,One-time buyer (lapsed),
+17666,Lapsed low-value,3
+17667,Loyal high-value,1
+17669,Loyal high-value,1
+17670,One-time buyer (recent),
+17671,Loyal high-value,4
+17672,Loyal high-value,1
+17673,Loyal high-value,5
+17674,One-time buyer (lapsed),
+17675,Loyal high-value,2
+17676,Loyal high-value,1
+17677,Loyal high-value,2
+17678,Lapsed low-value,0
+17679,High-return buyer,4
+17680,Lapsed low-value,0
+17681,Lapsed low-value,4
+17682,Loyal high-value,5
+17683,Lapsed low-value,3
+17685,Loyal high-value,5
+17686,Loyal high-value,1
+17687,One-time buyer (lapsed),
+17688,One-time buyer (lapsed),
+17689,Lapsed low-value,3
+17690,Loyal high-value,5
+17691,Lapsed low-value,0
+17692,Loyal high-value,5
+17693,One-time buyer (recent),
+17694,Lapsed low-value,3
+17695,Loyal high-value,1
+17696,Loyal high-value,2
+17697,One-time buyer (recent),
+17698,One-time buyer (recent),
+17699,Lapsed low-value,3
+17700,Loyal high-value,5
+17701,One-time buyer (recent),
+17702,Loyal high-value,1
+17703,Lapsed low-value,3
+17704,Lapsed low-value,3
+17705,Loyal high-value,5
+17706,Loyal high-value,2
+17707,Lapsed low-value,5
+17708,Lapsed low-value,7
+17709,Lapsed low-value,7
+17710,One-time buyer (lapsed),
+17711,One-time buyer (lapsed),
+17713,Lapsed low-value,7
+17714,Lapsed low-value,1
+17715,Lapsed low-value,3
+17716,Loyal high-value,2
+17717,One-time buyer (lapsed),
+17718,Lapsed low-value,4
+17719,Loyal high-value,5
+17720,Loyal high-value,5
+17721,One-time buyer (lapsed),
+17722,Loyal high-value,1
+17723,Loyal high-value,1
+17724,One-time buyer (recent),
+17725,Loyal high-value,1
+17726,Lapsed low-value,1
+17728,Lapsed low-value,0
+17729,One-time buyer (lapsed),
+17730,Loyal high-value,5
+17731,Loyal high-value,4
+17732,Loyal high-value,1
+17733,One-time buyer (recent),
+17734,Lapsed low-value,7
+17735,Loyal high-value,2
+17736,One-time buyer (recent),
+17738,Loyal high-value,5
+17739,Loyal high-value,5
+17740,Lapsed low-value,7
+17741,Lapsed low-value,3
+17742,Loyal high-value,5
+17743,One-time buyer (lapsed),
+17744,Lapsed low-value,7
+17745,Lapsed low-value,3
+17746,Lapsed low-value,0
+17747,One-time buyer (recent),
+17748,One-time buyer (lapsed),
+17749,Lapsed low-value,3
+17750,Loyal high-value,7
+17751,One-time buyer (lapsed),
+17752,One-time buyer (lapsed),
+17753,Lapsed low-value,0
+17754,Loyal high-value,5
+17756,Lapsed low-value,6
+17757,Loyal high-value,2
+17758,Loyal high-value,1
+17759,Lapsed low-value,7
+17760,Lapsed low-value,1
+17762,One-time buyer (lapsed),
+17763,High-return buyer,4
+17764,Lapsed low-value,7
+17765,Lapsed low-value,7
+17766,Lapsed low-value,6
+17767,One-time buyer (lapsed),
+17768,Lapsed low-value,1
+17769,Loyal high-value,5
+17770,Lapsed low-value,7
+17771,Lapsed low-value,3
+17772,One-time buyer (lapsed),
+17773,Lapsed low-value,3
+17774,Loyal high-value,5
+17775,One-time buyer (recent),
+17776,Lapsed low-value,0
+17777,One-time buyer (recent),
+17778,One-time buyer (lapsed),
+17779,One-time buyer (recent),
+17780,Lapsed low-value,3
+17781,Lapsed low-value,3
+17782,Lapsed low-value,6
+17783,Lapsed low-value,3
+17784,One-time buyer (lapsed),
+17785,Lapsed low-value,3
+17786,One-time buyer (lapsed),
+17787,Loyal high-value,7
+17788,One-time buyer (recent),
+17789,Lapsed low-value,3
+17790,Loyal high-value,2
+17792,Lapsed low-value,6
+17794,Lapsed low-value,6
+17795,Lapsed low-value,3
+17796,Lapsed low-value,7
+17797,Loyal high-value,7
+17798,One-time buyer (lapsed),
+17799,Loyal high-value,2
+17800,Loyal high-value,1
+17801,Lapsed low-value,0
+17802,Loyal high-value,5
+17803,One-time buyer (lapsed),
+17804,Lapsed low-value,3
+17805,One-time buyer (lapsed),
+17807,Lapsed low-value,3
+17808,Lapsed low-value,7
+17809,Loyal high-value,5
+17810,Lapsed low-value,3
+17811,Loyal high-value,2
+17812,Lapsed low-value,7
+17814,Lapsed low-value,3
+17815,One-time buyer (lapsed),
+17816,Lapsed low-value,4
+17817,Lapsed low-value,1
+17818,One-time buyer (lapsed),
+17819,Loyal high-value,5
+17820,One-time buyer (lapsed),
+17821,One-time buyer (lapsed),
+17822,Lapsed low-value,7
+17823,Lapsed low-value,6
+17825,Lapsed low-value,7
+17826,One-time buyer (lapsed),
+17827,Lapsed low-value,1
+17828,Lapsed low-value,0
+17829,Loyal high-value,1
+17830,Lapsed low-value,3
+17833,One-time buyer (lapsed),
+17834,Lapsed low-value,3
+17837,Lapsed low-value,0
+17838,Loyal high-value,5
+17840,One-time buyer (lapsed),
+17841,Loyal high-value,2
+17842,One-time buyer (lapsed),
+17843,Lapsed low-value,3
+17844,One-time buyer (recent),
+17845,Lapsed low-value,7
+17847,Lapsed low-value,3
+17848,Loyal high-value,2
+17849,Lapsed low-value,5
+17850,Loyal high-value,2
+17851,Lapsed low-value,7
+17852,Lapsed low-value,3
+17853,Lapsed low-value,3
+17854,Lapsed low-value,7
+17855,One-time buyer (lapsed),
+17856,Lapsed low-value,0
+17857,Loyal high-value,5
+17858,Loyal high-value,2
+17859,One-time buyer (lapsed),
+17860,Lapsed low-value,7
+17861,Loyal high-value,5
+17862,Lapsed low-value,7
+17863,Loyal high-value,5
+17864,Lapsed low-value,3
+17865,Loyal high-value,2
+17866,Lapsed low-value,0
+17867,Loyal high-value,4
+17868,One-time buyer (lapsed),
+17869,Lapsed low-value,1
+17870,Loyal high-value,1
+17871,Lapsed low-value,7
+17872,One-time buyer (lapsed),
+17873,Loyal high-value,4
+17874,Lapsed low-value,4
+17875,One-time buyer (lapsed),
+17876,Lapsed low-value,3
+17877,One-time buyer (recent),
+17878,Lapsed low-value,6
+17879,One-time buyer (recent),
+17880,Lapsed low-value,3
+17881,One-time buyer (lapsed),
+17882,Lapsed low-value,6
+17883,Lapsed low-value,0
+17884,Loyal high-value,2
+17886,Lapsed low-value,1
+17887,One-time buyer (recent),
+17888,High-return buyer,4
+17889,Lapsed low-value,1
+17890,Lapsed low-value,3
+17891,One-time buyer (recent),
+17892,One-time buyer (recent),
+17893,One-time buyer (recent),
+17894,Loyal high-value,2
+17897,Loyal high-value,5
+17898,Lapsed low-value,3
+17899,One-time buyer (recent),
+17900,High-return buyer,4
+17901,Lapsed low-value,6
+17902,One-time buyer (lapsed),
+17903,One-time buyer (lapsed),
+17905,Loyal high-value,5
+17906,One-time buyer (recent),
+17907,One-time buyer (lapsed),
+17908,Lapsed low-value,1
+17909,One-time buyer (lapsed),
+17910,One-time buyer (lapsed),
+17912,Lapsed low-value,4
+17913,Loyal high-value,5
+17915,One-time buyer (lapsed),
+17916,Lapsed low-value,4
+17917,Lapsed low-value,3
+17918,Lapsed low-value,6
+17919,One-time buyer (lapsed),
+17920,Loyal high-value,2
+17921,Loyal high-value,5
+17922,One-time buyer (lapsed),
+17923,Lapsed low-value,3
+17924,Lapsed low-value,0
+17925,One-time buyer (lapsed),
+17926,Lapsed low-value,7
+17927,One-time buyer (lapsed),
+17928,Lapsed low-value,3
+17929,Loyal high-value,5
+17930,Loyal high-value,5
+17931,Loyal high-value,2
+17932,Lapsed low-value,3
+17933,One-time buyer (lapsed),
+17934,One-time buyer (lapsed),
+17935,Lapsed low-value,1
+17937,Loyal high-value,7
+17938,One-time buyer (lapsed),
+17939,One-time buyer (recent),
+17940,Loyal high-value,5
+17941,Loyal high-value,7
+17944,One-time buyer (lapsed),
+17945,Lapsed low-value,6
+17946,Lapsed low-value,3
+17948,One-time buyer (recent),
+17949,Loyal high-value,2
+17950,Lapsed low-value,1
+17951,Lapsed low-value,0
+17952,Lapsed low-value,7
+17953,One-time buyer (lapsed),
+17954,Loyal high-value,2
+17955,Lapsed low-value,7
+17956,One-time buyer (recent),
+17958,Lapsed low-value,3
+17959,One-time buyer (lapsed),
+17960,Lapsed low-value,3
+17961,Loyal high-value,2
+17962,Lapsed low-value,0
+17963,Lapsed low-value,7
+17964,One-time buyer (lapsed),
+17965,Loyal high-value,2
+17966,Loyal high-value,5
+17967,Lapsed low-value,3
+17968,Lapsed low-value,7
+17969,Loyal high-value,2
+17970,One-time buyer (recent),
+17971,One-time buyer (lapsed),
+17972,One-time buyer (recent),
+17974,Lapsed low-value,7
+17975,Loyal high-value,2
+17976,One-time buyer (lapsed),
+17977,One-time buyer (lapsed),
+17978,Lapsed low-value,7
+17979,Lapsed low-value,0
+17980,Lapsed low-value,7
+17981,One-time buyer (lapsed),
+17982,One-time buyer (lapsed),
+17983,One-time buyer (lapsed),
+17984,Lapsed low-value,7
+17987,Lapsed low-value,4
+17988,Lapsed low-value,4
+17989,One-time buyer (lapsed),
+17990,Lapsed low-value,1
+17991,Lapsed low-value,6
+17992,One-time buyer (lapsed),
+17993,One-time buyer (lapsed),
+17994,Loyal high-value,5
+17995,Lapsed low-value,3
+17996,Lapsed low-value,3
+17997,Loyal high-value,4
+17998,Lapsed low-value,0
+17999,Lapsed low-value,3
+18000,One-time buyer (lapsed),
+18001,Lapsed low-value,7
+18002,Lapsed low-value,7
+18003,One-time buyer (lapsed),
+18004,One-time buyer (lapsed),
+18006,Lapsed low-value,3
+18007,One-time buyer (lapsed),
+18008,Loyal high-value,4
+18009,Lapsed low-value,1
+18010,One-time buyer (recent),
+18011,Lapsed low-value,3
+18012,One-time buyer (lapsed),
+18013,Lapsed low-value,6
+18016,Lapsed low-value,7
+18017,Lapsed low-value,3
+18018,High-return buyer,4
+18020,One-time buyer (lapsed),
+18021,Lapsed low-value,6
+18022,Lapsed low-value,7
+18024,Lapsed low-value,4
+18025,Lapsed low-value,7
+18026,Lapsed low-value,6
+18027,One-time buyer (recent),
+18028,One-time buyer (lapsed),
+18029,One-time buyer (lapsed),
+18031,One-time buyer (lapsed),
+18032,One-time buyer (lapsed),
+18034,One-time buyer (lapsed),
+18035,Lapsed low-value,6
+18036,Loyal high-value,5
+18037,Lapsed low-value,4
+18038,One-time buyer (lapsed),
+18039,Lapsed low-value,7
+18040,One-time buyer (recent),
+18041,Loyal high-value,2
+18042,One-time buyer (lapsed),
+18043,Lapsed low-value,3
+18044,Loyal high-value,5
+18046,One-time buyer (lapsed),
+18047,Lapsed low-value,6
+18048,Lapsed low-value,3
+18049,Lapsed low-value,3
+18050,Lapsed low-value,3
+18051,Lapsed low-value,1
+18052,One-time buyer (lapsed),
+18053,Lapsed low-value,0
+18054,One-time buyer (lapsed),
+18055,Loyal high-value,5
+18056,Lapsed low-value,0
+18057,Lapsed low-value,3
+18058,Lapsed low-value,3
+18060,Lapsed low-value,3
+18061,Loyal high-value,2
+18062,Loyal high-value,1
+18063,Lapsed low-value,3
+18064,Loyal high-value,5
+18065,Loyal high-value,2
+18066,Lapsed low-value,3
+18068,One-time buyer (lapsed),
+18069,Loyal high-value,5
+18070,One-time buyer (lapsed),
+18071,Lapsed low-value,7
+18072,One-time buyer (recent),
+18073,Loyal high-value,5
+18074,Lapsed low-value,3
+18075,Loyal high-value,2
+18076,One-time buyer (lapsed),
+18077,Loyal high-value,5
+18078,Lapsed low-value,7
+18079,Loyal high-value,3
+18080,One-time buyer (recent),
+18081,Lapsed low-value,3
+18083,One-time buyer (lapsed),
+18084,High-return buyer,4
+18085,Lapsed low-value,7
+18086,One-time buyer (lapsed),
+18087,Loyal high-value,4
+18089,One-time buyer (lapsed),
+18090,One-time buyer (lapsed),
+18091,One-time buyer (lapsed),
+18092,Loyal high-value,5
+18093,Loyal high-value,5
+18094,Loyal high-value,5
+18095,Lapsed low-value,7
+18096,Lapsed low-value,3
+18097,Loyal high-value,5
+18098,One-time buyer (lapsed),
+18099,One-time buyer (recent),
+18100,One-time buyer (lapsed),
+18101,Lapsed low-value,7
+18102,Loyal high-value,2
+18103,One-time buyer (lapsed),
+18106,Lapsed low-value,7
+18107,One-time buyer (lapsed),
+18108,Lapsed low-value,0
+18109,Loyal high-value,2
+18110,One-time buyer (lapsed),
+18111,One-time buyer (lapsed),
+18112,Lapsed low-value,3
+18113,One-time buyer (lapsed),
+18114,One-time buyer (lapsed),
+18115,One-time buyer (lapsed),
+18116,Loyal high-value,5
+18118,Loyal high-value,2
+18119,One-time buyer (lapsed),
+18120,One-time buyer (recent),
+18121,Lapsed low-value,6
+18122,One-time buyer (recent),
+18123,One-time buyer (lapsed),
+18124,One-time buyer (lapsed),
+18125,Lapsed low-value,0
+18127,Lapsed low-value,3
+18128,One-time buyer (lapsed),
+18129,One-time buyer (recent),
+18131,One-time buyer (lapsed),
+18132,One-time buyer (lapsed),
+18133,One-time buyer (recent),
+18134,Lapsed low-value,3
+18135,Lapsed low-value,1
+18136,Lapsed low-value,0
+18137,Lapsed low-value,6
+18138,One-time buyer (lapsed),
+18140,One-time buyer (lapsed),
+18141,Lapsed low-value,0
+18142,Lapsed low-value,0
+18143,Lapsed low-value,3
+18144,Loyal high-value,5
+18145,Loyal high-value,5
+18146,Lapsed low-value,3
+18147,One-time buyer (recent),
+18148,One-time buyer (lapsed),
+18149,Lapsed low-value,7
+18150,Lapsed low-value,3
+18151,Loyal high-value,1
+18152,One-time buyer (lapsed),
+18153,One-time buyer (lapsed),
+18154,Lapsed low-value,3
+18155,Lapsed low-value,0
+18156,One-time buyer (lapsed),
+18157,One-time buyer (lapsed),
+18159,One-time buyer (lapsed),
+18160,Lapsed low-value,3
+18161,Lapsed low-value,7
+18162,One-time buyer (lapsed),
+18163,One-time buyer (lapsed),
+18165,One-time buyer (recent),
+18166,One-time buyer (lapsed),
+18167,One-time buyer (recent),
+18168,Loyal high-value,5
+18170,Loyal high-value,5
+18171,Loyal high-value,5
+18172,Loyal high-value,2
+18173,Lapsed low-value,7
+18174,One-time buyer (lapsed),
+18175,One-time buyer (lapsed),
+18176,One-time buyer (lapsed),
+18177,Loyal high-value,5
+18178,Loyal high-value,5
+18179,Loyal high-value,7
+18180,Lapsed low-value,6
+18181,Lapsed low-value,0
+18182,One-time buyer (lapsed),
+18183,Lapsed low-value,0
+18185,One-time buyer (recent),
+18186,One-time buyer (lapsed),
+18187,One-time buyer (lapsed),
+18188,Lapsed low-value,0
+18189,Lapsed low-value,0
+18190,Lapsed low-value,1
+18191,Lapsed low-value,3
+18193,Lapsed low-value,0
+18194,Loyal high-value,7
+18195,One-time buyer (lapsed),
+18196,Loyal high-value,7
+18197,One-time buyer (lapsed),
+18198,Loyal high-value,5
+18199,One-time buyer (lapsed),
+18200,One-time buyer (recent),
+18201,One-time buyer (lapsed),
+18202,Lapsed low-value,3
+18203,Lapsed low-value,7
+18204,Lapsed low-value,0
+18206,One-time buyer (lapsed),
+18207,One-time buyer (lapsed),
+18208,One-time buyer (lapsed),
+18210,Lapsed low-value,3
+18211,Lapsed low-value,3
+18212,Lapsed low-value,6
+18213,One-time buyer (recent),
+18214,Lapsed low-value,4
+18215,Lapsed low-value,0
+18217,Lapsed low-value,4
+18218,Lapsed low-value,0
+18219,Loyal high-value,5
+18220,Loyal high-value,4
+18221,Lapsed low-value,0
+18222,One-time buyer (recent),
+18223,Loyal high-value,2
+18224,One-time buyer (recent),
+18225,Loyal high-value,2
+18226,Loyal high-value,2
+18227,Lapsed low-value,0
+18229,Loyal high-value,2
+18230,Loyal high-value,1
+18231,Loyal high-value,2
+18232,Lapsed low-value,0
+18233,One-time buyer (lapsed),
+18234,One-time buyer (lapsed),
+18235,Lapsed low-value,3
+18236,Loyal high-value,5
+18237,Loyal high-value,3
+18238,One-time buyer (lapsed),
+18239,Loyal high-value,7
+18241,Loyal high-value,5
+18242,Loyal high-value,7
+18243,One-time buyer (lapsed),
+18244,Lapsed low-value,3
+18245,Loyal high-value,2
+18246,Lapsed low-value,6
+18247,Lapsed low-value,4
+18248,Lapsed low-value,0
+18250,One-time buyer (lapsed),
+18251,Loyal high-value,1
+18252,Lapsed low-value,1
+18253,One-time buyer (lapsed),
+18254,One-time buyer (lapsed),
+18255,One-time buyer (lapsed),
+18256,One-time buyer (lapsed),
+18257,Loyal high-value,5
+18258,Lapsed low-value,1
+18259,Lapsed low-value,7
+18260,Loyal high-value,2
+18261,One-time buyer (recent),
+18262,Lapsed low-value,3
+18263,Lapsed low-value,3
+18264,One-time buyer (lapsed),
+18265,One-time buyer (recent),
+18266,One-time buyer (lapsed),
+18267,One-time buyer (lapsed),
+18268,Loyal high-value,1
+18269,One-time buyer (lapsed),
+18270,Lapsed low-value,0
+18271,Lapsed low-value,3
+18272,Loyal high-value,1
+18273,Lapsed low-value,3
+18275,Lapsed low-value,3
+18276,Lapsed low-value,1
+18277,Lapsed low-value,0
+18278,One-time buyer (lapsed),
+18279,One-time buyer (lapsed),
+18280,Lapsed low-value,0
+18281,Lapsed low-value,3
+18282,One-time buyer (recent),
+18283,Loyal high-value,5
+18284,One-time buyer (lapsed),
+18285,One-time buyer (lapsed),
+18286,Lapsed low-value,0
+18287,Loyal high-value,1
