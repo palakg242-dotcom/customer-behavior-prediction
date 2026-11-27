@@ -1,0 +1,55 @@
+{
+  "threshold": 0.5363899213075638,
+  "threshold_percentile": 99.0,
+  "flag_rate_train": 0.0101,
+  "flag_rate_validation": 0.0089,
+  "flag_rate_in_accepted_range": true,
+  "flagged_customers": 55,
+  "injection_detection": [
+    {
+      "anomaly": "spend_spike",
+      "level": 2.0,
+      "detected": 0.011
+    },
+    {
+      "anomaly": "spend_spike",
+      "level": 5.0,
+      "detected": 0.112
+    },
+    {
+      "anomaly": "spend_spike",
+      "level": 10.0,
+      "detected": 0.665
+    },
+    {
+      "anomaly": "bulk_basket",
+      "level": 2.0,
+      "detected": 0.014
+    },
+    {
+      "anomaly": "bulk_basket",
+      "level": 5.0,
+      "detected": 0.229
+    },
+    {
+      "anomaly": "bulk_basket",
+      "level": 10.0,
+      "detected": 0.553
+    },
+    {
+      "anomaly": "return_spike",
+      "level": 0.3,
+      "detected": 0.098
+    },
+    {
+      "anomaly": "return_spike",
+      "level": 0.6,
+      "detected": 0.138
+    },
+    {
+      "anomaly": "return_spike",
+      "level": 0.95,
+      "detected": 0.52
+    }
+  ]
+}

@@ -60,3 +60,26 @@ modeling:
   features_path: data/processed/customer_features.csv
   experiment_log: models_artifacts/experiment_log.csv
   recent_recency_days: 180
+
+anomaly:
+  features:
+    - frequency
+    - monetary_total
+    - monetary_avg
+    - avg_basket_qty
+    - avg_basket_lines
+    - return_rate
+    - discount_sensitivity
+    - gap_variance
+  hidden: 16
+  bottleneck: 3
+  dropout: 0.0
+  max_epochs: 200
+  patience: 15
+  batch_size: 128
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  threshold_percentile: 99.0   # error above the 99th percentile of training errors is flagged
+  min_flag_rate: 0.005         # accepted flag rate on held-out customers
+  max_flag_rate: 0.02
+  review_rows: 20
