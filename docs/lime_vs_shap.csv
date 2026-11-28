@@ -1,0 +1,4 @@
+example,customer_id,model_probability,lime_local_prediction,lime_local_r2,top5_overlap,sign_agreement,lime_top,shap_top
+low_risk,14299,0.312,0.395,0.51,5,1.0,"engagement_score, recency_days, seasonal_concentration","engagement_score, recency_days, seasonal_concentration"
+high_risk,17318,0.759,0.732,0.553,4,1.0,"recency_days, engagement_score, seasonal_concentration","engagement_score, recency_days, seasonal_concentration"
+borderline,15829,0.5,0.483,0.196,3,0.67,"recency_days, engagement_score, seasonal_concentration","recency_days, engagement_score, frequency"

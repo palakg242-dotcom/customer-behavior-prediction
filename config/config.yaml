@@ -83,3 +83,15 @@ anomaly:
   min_flag_rate: 0.005         # accepted flag rate on held-out customers
   max_flag_rate: 0.02
   review_rows: 20
+
+explanation:
+  high_risk_at: 0.7        # churn probability at or above this is "high" risk
+  low_risk_at: 0.4         # below this is "low" risk; in between is "moderate"
+  drivers: 3               # reasons named in each plain-language explanation
+  pdp_features:
+    - engagement_score
+    - recency_days
+    - seasonal_concentration
+  lime_samples: 5000
+  lime_features: 10
+  compare_top_k: 5

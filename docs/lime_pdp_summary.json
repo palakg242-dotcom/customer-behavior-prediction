@@ -1,0 +1,50 @@
+{
+  "lime_vs_shap": [
+    {
+      "example": "low_risk",
+      "customer_id": 14299,
+      "model_probability": 0.312,
+      "lime_local_prediction": 0.395,
+      "lime_local_r2": 0.51,
+      "top5_overlap": 5,
+      "sign_agreement": 1.0,
+      "lime_top": "engagement_score, recency_days, seasonal_concentration",
+      "shap_top": "engagement_score, recency_days, seasonal_concentration"
+    },
+    {
+      "example": "high_risk",
+      "customer_id": 17318,
+      "model_probability": 0.759,
+      "lime_local_prediction": 0.732,
+      "lime_local_r2": 0.553,
+      "top5_overlap": 4,
+      "sign_agreement": 1.0,
+      "lime_top": "recency_days, engagement_score, seasonal_concentration",
+      "shap_top": "engagement_score, recency_days, seasonal_concentration"
+    },
+    {
+      "example": "borderline",
+      "customer_id": 15829,
+      "model_probability": 0.5,
+      "lime_local_prediction": 0.483,
+      "lime_local_r2": 0.196,
+      "top5_overlap": 3,
+      "sign_agreement": 0.67,
+      "lime_top": "recency_days, engagement_score, seasonal_concentration",
+      "shap_top": "recency_days, engagement_score, frequency"
+    }
+  ],
+  "pdp_features": [
+    "engagement_score",
+    "recency_days",
+    "seasonal_concentration"
+  ],
+  "seasonal_check": {
+    "share_with_seasonal_1": 0.3327625570776256,
+    "median_frequency_when_seasonal_1": 1.0,
+    "share_single_order_among_seasonal_1": 0.9005145797598628,
+    "share_seasonal_1_among_single_order": 1.0,
+    "churn_rate_seasonal_1": 0.7850200114351058,
+    "churn_rate_other": 0.4550898203592814
+  }
+}
