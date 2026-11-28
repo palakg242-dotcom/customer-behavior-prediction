@@ -1,0 +1,25 @@
+feature,mean_abs_shap,spearman_value_vs_shap,direction
+engagement_score,0.2069,-0.988,higher value -> lower churn risk
+recency_days,0.2062,0.94,higher value -> higher churn risk
+seasonal_concentration,0.0767,0.941,higher value -> higher churn risk
+frequency,0.0363,-0.155,mixed or non-linear
+clv_historical,0.0261,-0.852,higher value -> lower churn risk
+cat_share_stationery_cards,0.0225,-0.846,higher value -> lower churn risk
+gap_variance,0.019,0.291,higher value -> higher churn risk
+cat_share_christmas,0.0147,-0.865,higher value -> lower churn risk
+monetary_total,0.0108,-0.217,higher value -> lower churn risk
+avg_basket_lines,0.0085,-0.734,higher value -> lower churn risk
+frequency_trend,0.0082,0.463,higher value -> higher churn risk
+return_rate,0.0053,-0.639,higher value -> lower churn risk
+cat_share_garden_outdoor,0.005,-0.79,higher value -> lower churn risk
+discount_sensitivity,0.0039,0.543,higher value -> higher churn risk
+avg_basket_qty,0.0024,-0.724,higher value -> lower churn risk
+monetary_avg,0.0023,0.305,higher value -> higher churn risk
+cat_share_kitchen_dining,0.0007,0.229,higher value -> higher churn risk
+cat_share_home_decor,0.0004,-0.427,higher value -> lower churn risk
+cat_share_lighting_candles,0.0003,0.434,higher value -> higher churn risk
+cat_share_bags_storage,0.0003,0.152,mixed or non-linear
+cat_share_toys_games,0.0002,-0.302,higher value -> lower churn risk
+product_popularity,0.0,0.0,mixed or non-linear
+cat_share_jewellery_accessories,0.0,0.0,mixed or non-linear
+is_uk,0.0,0.0,mixed or non-linear

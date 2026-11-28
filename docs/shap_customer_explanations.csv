@@ -1,0 +1,4 @@
+example,customer_id,churn_probability,actually_churned,base_probability,driver_1,driver_2,driver_3
+low_risk,14299,0.312,0,0.565,engagement_score=94.29 (-0.49),recency_days=16.00 (-0.28),seasonal_concentration=0.14 (-0.10)
+high_risk,17318,0.759,1,0.565,engagement_score=8.82 (+0.35),recency_days=634.00 (+0.35),seasonal_concentration=1.00 (+0.09)
+borderline,15829,0.5,1,0.565,recency_days=8.00 (-0.23),engagement_score=58.72 (-0.06),frequency=2.00 (+0.04)
